@@ -1,6 +1,20 @@
 # Achievements lacked by Nuttann / Gallin / Nanbus
 
 - Rain of Fear
+  - Hunter
+    - Master Hunter of the Rain of Fear (Nuttann / Gallin / Nanbus)
+    - Expert Hunter of Rain of Fear (Nuttann / Gallin / Nanbus)
+    - Hunter of the Valley of King Xorbb (Nuttann / Gallin / Nanbus)
+      - Companion of the Dead (Nuttann / Gallin / Nanbus)
+      - Deepcore (Nuttann / Gallin / Nanbus)
+      - Facet of Fear (Nuttann / Gallin / Nanbus)
+      - Frothtooth (Nuttann / Gallin / Nanbus)
+      - Kalken's Bloody Bones (Nuttann / Gallin / Nanbus)
+      - Krondal (Nuttann / Gallin / Nanbus)
+      - Mindseep (Nuttann / Gallin / Nanbus)
+      - Ritualist Blezon (Nuttann / Gallin / Nanbus)
+      - Worker's Champion (Nuttann / Gallin / Nanbus)
+      - Xolok the Blind (Nuttann / Gallin / Nanbus)
   - Collections
     - The Depths of Fear (Gallin/Nanbus)
       - Strange Black Rock (Gallin/Nanbus)
@@ -23,3 +37,36 @@
       - Discarded Scroll (Nanbus)
     - Dark Secrets (Gallin/Nanbus)
       - Forgotten Shissar (Gallin/Nanbus)
+    - At the Heart of It (Heart of Fear) (Nanbus)
+      - Kill Them Before They Grow (Heart of Fear) (Nanbus)
+    - Kill Them Before They Grow (Heart of Fear)
+      - Shriveled Alaran (Nanbus - Has item to click)
+- Call of the Forsaken
+  - Hunter
+    - Novice Hunter of the Call (Nanbus)
+      - Hunter of Bixie Warfront (Nanbus)
+      - Hunter of The Dead Hills (Nanbus)
+    - Hunter of Bixie Warfront (Nanbus)
+      - Tleroth, Mistress of the Web (Nanbus)
+    - Hunter of The Dead Hills (Nanbus)
+      - Rat Packleader (Nanbus)
+      - Warpriest Poxxil (Nanbus)
+    - Adept Hunter of the Call (Nanbus)
+      - Hunter of West Karana (Ethernere) II (Nanbus)
+    - Hunter of West Karana (Ethernere) II (Nanbus)
+      - Burning Bones (Nanbus)
+      - Harlow the Blackguard (Nanbus)
+    - Expert Hunter of the Call (Nuttann / Gallin / Nanbus)
+      - Hunter of Argin-Hiz (Nuttann / Gallin / Nanbus)
+    - Hunter of Argin-Hiz (Nuttann / Gallin / Nanbus)
+      - Captain Nalia (Nuttann / Gallin / Nanbus)
+      - Chef Warden Varken (Nuttann / Gallin / Nanbus)
+      - Councilor Grael (Ring of Fear) (Nuttann / Gallin / Nanbus)
+      - Guardian Harell (Nuttann / Gallin / Nanbus)
+      - Master Sage Lowenn (Nuttann / Gallin / Nanbus)
+- Ring of Scale
+  - Exploration
+    - Veeshan's Peak Traveler (Gallin / Nanbus)
+      - Visit Veeshan's Peak (Gallin / Nanbus) 
+      
+      
