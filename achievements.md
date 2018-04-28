@@ -19,7 +19,7 @@
     - The Depths of Fear (Gallin/Nanbus)
       - Strange Black Rock (Gallin/Nanbus)
       - Shifting Shard (Gallin/Nanbus)
-      - Gestation Crystal Shard (Gallin)
+      - Gestation Crystal Shard (Nanbus)
       - Heart of Fear (Gallin/Nanbus)
       - Lesser Hero of Rain of Fear (Gallin/Nanbus)
       - Hero of Chelsith Reborn (Gallin/Nanbus)
