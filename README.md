@@ -1,4 +1,3 @@
-# nuttann.github.io
-Nuttann information
+# Everquest data - Nuttann - Cazic Thule server
 
-This repo contains source for GitHub Pages
+[Collection items](collection.html)
