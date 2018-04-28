@@ -1,0 +1,25 @@
+# Achievements lacked by Nuttann / Gallin / Nanbus
+
+- Rain of Fear
+  - Collections
+    - The Depths of Fear (Gallin/Nanbus)
+      - Strange Black Rock (Gallin/Nanbus)
+      - Shifting Shard (Gallin/Nanbus)
+      - Gestation Crystal Shard (Gallin)
+      - Heart of Fear (Gallin/Nanbus)
+      - Lesser Hero of Rain of Fear (Gallin/Nanbus)
+      - Hero of Chelsith Reborn (Gallin/Nanbus)
+      - Hero of Plane of Shadow (Gallin/Nanbus)
+      - Hero of Heart of Fear (Gallin/Nanbus)
+    - Stalking Fear (Nanbus - Doesn't own collector's edition)
+      - Impressed Report (Nanbus)
+      - Singed Book (Nanbus)
+      - Disgusted Diary (Nanbus)
+      - Shard Message (Nanbus)
+      - Lost Pages (Nanbus)
+      - Abstruse Idol (Nanbus)
+      - Half-burned Noted (Nanbus)
+      - Scouting Report (Nanbus)
+      - Discarded Scroll (Nanbus)
+    - Dark Secrets (Gallin/Nanbus)
+      - Forgotten Shissar (Gallin/Nanbus)
