@@ -1,6 +1,5 @@
 # Test of markdown
 
-1. Item 1
-2. Item B
+# Everquest data - Nuttann - Cazic Thule server
 
-Other stuff
+[Collection items](collection.html)
