@@ -1,20 +1,6 @@
 # Achievements lacked by Nuttann / Gallin / Nanbus
 
 - Rain of Fear
-  - Hunter
-    - Master Hunter of the Rain of Fear (Nuttann / Gallin / Nanbus)
-    - Expert Hunter of Rain of Fear (Nuttann / Gallin / Nanbus)
-    - Hunter of the Valley of King Xorbb (Nuttann / Gallin / Nanbus)
-      - Companion of the Dead (Nuttann / Gallin / Nanbus)
-      - Deepcore (Nuttann / Gallin / Nanbus)
-      - Facet of Fear (Nuttann / Gallin / Nanbus)
-      - Frothtooth (Nuttann / Gallin / Nanbus)
-      - Kalken's Bloody Bones (Nuttann / Gallin / Nanbus)
-      - Krondal (Nuttann / Gallin / Nanbus)
-      - Mindseep (Nuttann / Gallin / Nanbus)
-      - Ritualist Blezon (Nuttann / Gallin / Nanbus)
-      - Worker's Champion (Nuttann / Gallin / Nanbus)
-      - Xolok the Blind (Nuttann / Gallin / Nanbus)
   - Collections
     - The Depths of Fear (Gallin/Nanbus)
       - Strange Black Rock (Gallin/Nanbus)
@@ -44,13 +30,9 @@
 - Call of the Forsaken
   - Hunter
     - Novice Hunter of the Call (Nanbus)
-      - Hunter of Bixie Warfront (Nanbus)
       - Hunter of The Dead Hills (Nanbus)
-    - Hunter of Bixie Warfront (Nanbus)
-      - Tleroth, Mistress of the Web (Nanbus)
     - Hunter of The Dead Hills (Nanbus)
       - Rat Packleader (Nanbus)
-      - Warpriest Poxxil (Nanbus)
     - Adept Hunter of the Call (Nanbus)
       - Hunter of West Karana (Ethernere) II (Nanbus)
     - Hunter of West Karana (Ethernere) II (Nanbus)
