@@ -111,7 +111,6 @@
       - Rose Petal Quartz (Nanbus)
     - Medal from the Living (Sul Vius: Demiplane of Decay) (Gallin, Nanbus)
       - Medal: Life of Value (Gallin, Nanbus)
-      - Medal: Life of Prestige (Gallin, Nanbus)
       - Medal: Life of Trust (Gallin, Nanbus)
     - Gathering of Slime (Crypt of Decay) (Nanbus)
       - Black Slime (Nanbus)
