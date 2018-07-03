@@ -29,7 +29,6 @@
         - Gullet Sand (Nuttann, Gallin, Nanbus)
         - Excreted Sand (Nuttann, Gallin, Nanbus)
         - Sun Bleached Sand (Gallin, Nanbus)
-        - Gastric Beached Sand (Nanbus)
         - Golden Beach Sand (Nuttann, Gallin, Nanbus)
         - Chlorophyll Infused Sand (Gallin, Nanbus)
         - Flower Dyed Sand (Gallin, Nanbus)
