@@ -1,7 +1,7 @@
-# Achievements lacked by Nuttann / Gallin / Nanbus
+# Achievements for Nuttann / Gallin / Nanbus
 
 
-# Still needed achievements
+## Still needed achievements
 - Rain of Fear
   - Collections
     - The Depths of Fear (Gallin/Nanbus)
@@ -169,7 +169,7 @@
     - Dragonhunter's Folly (Gallin, Nanbus)
       - Battered Helm (Gallin, Nanbus)
       
-#  ** = Awaiting Turn in / Click
+##  ** = Awaiting Turn in / Click
 
 Waiting for next expansion so AA/exp does not go to waste
 
