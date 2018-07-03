@@ -85,7 +85,7 @@
       - Svea Haire (Gallin, Nanbus)
       - Tarris Ellam (Undead Underground) (Nuttann, Gallin, Nanbus)
       - Zikursch the Corrupt (Nuttann, Gallin, Nanbus)
-    - Hunter of the Crypt of Decay
+    - Hunter of the Crypt of Decay (Nuttann, Gallin, Nanbus)
       - Abroan Drian (Nuttann, Gallin, Nanbus)
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
       - Brightfire (Nuttann, Gallin, Nanbus)
@@ -95,12 +95,10 @@
       - Rusank (Decay Decreased) (Nuttann, Gallin, Nanbus)
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
       - Xhut Adan (Nuttann, Gallin, Nanbus)
-    - Hunter of the Crypt of Sul
-      - Bokon Revel the Reborn (Nuttann, Gallin, Nanbus)
+    - Hunter of the Crypt of Sul (Nuttann, Gallin, Nanbus)
       - Citizen Pain (To the Brave, Go the Spoils!) (Nuttann, Gallin, Nanbus)
-      - Devourer of All (Nuttann, Gallin, Nanbus)
       - Grinder (The Head of the Snake) (Nuttann, Gallin, Nanbus)
-      - Spine Eater (The Bokon High Council)
+      - Spine Eater (The Bokon High Council) (Nuttann, Gallin, Nanbus)
   - Collections
     - Ruins of Decay (Plane of Health) (Nuttann, Gallin, Nanbus)
       - Rusted Claymore of Decay (Nuttann, Gallin, Nanbus)
