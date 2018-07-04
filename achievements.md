@@ -95,7 +95,6 @@
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
       - Xhut Adan (Nuttann, Gallin, Nanbus)
     - Hunter of the Crypt of Sul (Nuttann, Gallin, Nanbus)
-      - Citizen Pain (To the Brave, Go the Spoils!) (Nuttann, Gallin, Nanbus)
       - Grinder (The Head of the Snake) (Nuttann, Gallin, Nanbus)
   - Collections
     - Ruins of Decay (Plane of Health) (Nuttann, Gallin, Nanbus)
@@ -126,7 +125,6 @@
       - Fragmented Felwith Prayer Beads (Nanbus)
     - An Ounce of Fetid Flesh (Crypt of Sul) (Nuttann, Gallin, Nanbus)
       - Eye of a Fiend (Nuttann, Gallin, Nanbus)
-      - Severed Tendon (Nanbus)
       - Bony Hand (Nuttann, Gallin, Nanbus)
       - Patch of Matted Hair (Gallin, Nanbus)
       - Remnant of Brain Matter (Nuttann, Gallin, Nanbus)
@@ -136,8 +134,6 @@
     - Raiments of Rot (Crypt of Sul) (Gallin, Nanbus)
       - Tattered Robe (Gallin, Nanbus)
       - Hardened Leather Boots (Nanbus)
-      - Blacked Vial (Nanbus)
-      - Piece of a Feather (Nanbus)
       - Broken Necklace (Gallin, Nanbus)
       - Mark of Anahti Sul (Gallin, Nanbus)
       
