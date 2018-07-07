@@ -66,7 +66,6 @@
     - Hunter of the Plane of Fear: Broken Mirror (Gallin, Nanbus)
       - All
     - Hunter of the Plane of Health (Nuttann, Gallin, Nanbus)
-      - Pestilent Warmaster (In Defense of Health) (Nuttann, Gallin, Nanbus)
       - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)
     - Hunter of the Sul Vius: Demiplane of Life (Nuttann, Gallin, Nanbus)
       - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
@@ -98,7 +97,7 @@
       - Grinder (The Head of the Snake) (Nuttann, Gallin, Nanbus)
   - Collections
     - Ruins of Decay (Plane of Health) (Nuttann, Gallin, Nanbus)
-      - Rusted Claymore of Decay (Nuttann, Gallin, Nanbus)
+      - Rusted Claymore of Decay (Gallin, Nanbus)
       - Dull Broadsword of Decay (Nanbus)
       - Oxidized Kris of Decay (Nanbus)
     - Bright Baubles (Plane of Health) (Nanbus)
@@ -178,6 +177,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Wretelium Helocrasius (Nuttann, Gallin)
     - Livio's Proclamation (Nuttann)
   - The Broken Mirror
+    - Rusted Claymore of Decay (Nuttann)
     - Medal: Life of Prestige (Nuttann)
     - Piece of a Feather (Nuttann)
     - Damaged Idol of Rodcet Nife (Gallin)
