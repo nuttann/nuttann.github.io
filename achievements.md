@@ -96,10 +96,8 @@
     - Hunter of the Crypt of Sul (Nuttann, Gallin, Nanbus)
       - Grinder (The Head of the Snake) (Nuttann, Gallin, Nanbus)
   - Collections
-    - Ruins of Decay (Plane of Health) (Nuttann, Gallin, Nanbus)
+    - Ruins of Decay (Plane of Health) (Gallin, Nanbus)
       - Rusted Claymore of Decay (Gallin, Nanbus)
-      - Dull Broadsword of Decay (Nanbus)
-      - Oxidized Kris of Decay (Nanbus)
     - Bright Baubles (Plane of Health) (Nanbus)
       - Elegant Emerald (Nanbus)
       - Rose Petal Quartz (Nanbus)
