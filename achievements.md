@@ -91,9 +91,6 @@
   - Collections
     - Ruins of Decay (Plane of Health) {HA} (Gallin, Nanbus)
       - Rusted Claymore of Decay (Gallin, Nanbus)
-    - Bright Baubles (Plane of Health) {Drop} (Nanbus)
-      - Elegant Emerald (Nanbus)
-      - Rose Petal Quartz (Nanbus)
     - Medal from the Living (Sul Vius: Demiplane of Decay) {HA} (Gallin, Nanbus)
       - Medal: Life of Value (Gallin, Nanbus)
       - Medal: Life of Trust (Gallin, Nanbus)
@@ -159,6 +156,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Wretelium Helocrasius (Nuttann, Gallin)
     - Livio's Proclamation (Nuttann)
   - The Broken Mirror
+    - Elegant Emerald (Nanbus)
     - Rusted Claymore of Decay (Nuttann)
     - Medal: Life of Prestige (Nuttann)
     - Piece of a Feather (Nuttann)
