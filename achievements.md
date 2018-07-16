@@ -37,7 +37,6 @@
       - Jeweled Comb (Nanbus)
       - Dancing Shoe (Nanbus)
       - Crested Ale Mug (Nanbus)
-      - Small Tooth in a Bag (Nanbus)
     - Armatalium Odalia {Drop - Humanoid} (Combine Dredge)
       - Wretelium Helocrasius (Nanbus)
     - Articles of Animation (Arx Mentis) {HA}
