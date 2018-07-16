@@ -3,7 +3,7 @@
 ## Still needed achievements
 - Rain of Fear
   - Collections
-    - The Depths of Fear (Gallin/Nanbus)
+    - The Depths of Fear
       - Strange Black Rock (Gallin/Nanbus)
       - Shifting Shard (Gallin/Nanbus)
       - Gestation Crystal Shard (Nanbus)
@@ -13,43 +13,43 @@
       - Hero of Plane of Shadow (Gallin/Nanbus)
       - Hero of Heart of Fear (Gallin/Nanbus)
     - Stalking Fear (Nanbus - Doesn't own collector's edition)
-    - Dark Secrets (Gallin/Nanbus)
+    - Dark Secrets
       - Forgotten Shissar (Gallin/Nanbus)
 - The Darkened Sea
   - Collections
-    - Itching Insects (Brother Island) {Drop - Seafood} (Nuttann, Gallin, Nanbus)
+    - Itching Insects (Brother Island) {Drop - Seafood}
       - Red Mite (Gallin, Nanbus)
       - Red Nibbler (Nuttann, Gallin, Nanbus)
       - Yellow Nibbler (Nuttann, Gallin, Nanbus)
       - Grey Biter (Nuttann, Gallin, Nanbus)
       - Blue Mite (Nuttann, Gallin, Nanbus)
       - Stinging Insect (Nuttann, Gallin, Nanbus)
-    - Island Sands (Brother Island) {Drop - Land mobs} (Nuttann, Gallin, Nanbus)
+    - Island Sands (Brother Island) {Drop - Land mobs}
       - Gullet Sand (Nuttann, Gallin, Nanbus)
       - Excreted Sand (Nuttann, Gallin, Nanbus)
       - Sun Bleached Sand (Gallin, Nanbus)
       - Golden Beach Sand (Nuttann, Gallin, Nanbus)
       - Chlorophyll Infused Sand (Gallin, Nanbus)
       - Flower Dyed Sand (Gallin, Nanbus)
-    - Tools of the Assasins (Degmar, the Lost Castle) {HA} (Nuttann, Gallin, Nanbus)
+    - Tools of the Assasins (Degmar, the Lost Castle) {HA}
       - Depleted Poison Vial (Nanbus)
       - Tripping Marbles (Nuttann, Nanbus)
       - Ether Coated Rag (Nanbus)
       - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
-    - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}(Gallin, Nanbus)
+    - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
       - Earpoint Cream (Nanbus)
       - Jeweled Comb (Nanbus)
       - Dancing Shoe (Nanbus)
       - Gold Threaded Ribbon (Nanbus)
       - Crested Ale Mug (Nanbus)
       - Small Tooth in a Bag (Nanbus)
-    - Armatalium Odalia {Drop - Humanoid} (Combine Dredge) (Nanbus)
+    - Armatalium Odalia {Drop - Humanoid} (Combine Dredge)
       - Wretelium Helocrasius (Nanbus)
-    - Articles of Animation (Arx Mentis) {HA} (Nuttann, Gallin, Nanbus)
+    - Articles of Animation (Arx Mentis) {HA}
       - Failed Experiment No 26 (Nanbus)
       - Failed Experiment No 37 (Nuttann, Gallin, Nanbus)
       - Failed Experiment No 79 (Nuttann, Gallin, Nanbus)
-    - Actualized Accounts (Arx Mentis) {Drop - Humanoids} (Nuttann, Gallin, Nanbus)
+    - Actualized Accounts (Arx Mentis) {Drop - Humanoids}
       - Magicae Researcher's Report(Gallin, Nanbus)
       - Livio's Proclamation (Gallin, Nanbus)
 - The Broken Mirror
@@ -58,16 +58,16 @@
       - All
     - Hunter of the Plane of Fear: Broken Mirror (Gallin, Nanbus)
       - All
-    - Hunter of the Plane of Health (Nuttann, Gallin, Nanbus)
+    - Hunter of the Plane of Health
       - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)
-    - Hunter of the Sul Vius: Demiplane of Life (Nuttann, Gallin, Nanbus)
+    - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
       - The Darkseer (Nuttann, Gallin, Nanbus)
       - Glorious Cistina (Nuttann, Gallin, Nanbus)
       - Render (The Handmaiden) (Gallin, Nanbus)
       - Terrance the Admired (Nuttann, Gallin, Nanbus)
       - Vizier Albert (Gallin, Nanbus)
-    - Hunter of the Sul Vius: Demiplane of Decay (Nuttann, Gallin, Nanbus)
+    - Hunter of the Sul Vius: Demiplane of Decay
       - Emma, a True Believer (Gallin, Nanbus)
       - Master of the House (Gallin, Nanbus)
       - The Perforator (Deadline) (Nuttann, Gallin, Nanbus)
@@ -76,23 +76,23 @@
       - Svea Haire (Gallin, Nanbus)
       - Tarris Ellam (Undead Underground) (Nuttann, Gallin, Nanbus)
       - Zikursch the Corrupt (Nuttann, Gallin, Nanbus)
-    - Hunter of the Crypt of Decay (Nuttann, Gallin, Nanbus)
+    - Hunter of the Crypt of Decay
       - Abroan Drian (Nuttann, Gallin, Nanbus)
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
       - Brightfire (Nuttann, Gallin, Nanbus)
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
       - Xhut Adan (Nuttann, Gallin, Nanbus)
-    - Hunter of the Crypt of Sul (Nuttann, Gallin, Nanbus)
+    - Hunter of the Crypt of Sul
       - Grinder (The Head of the Snake) (Nuttann, Gallin, Nanbus)
   - Collections
-    - Ruins of Decay (Plane of Health) {HA} (Gallin, Nanbus)
+    - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (Gallin, Nanbus)
-    - Medal from the Living (Sul Vius: Demiplane of Decay) {HA} (Gallin, Nanbus)
+    - Medal from the Living (Sul Vius: Demiplane of Decay) {HA}
       - Medal: Life of Value (Gallin, Nanbus)
       - Medal: Life of Trust (Gallin, Nanbus)
-    - Rotting Remnants (Crypt of Decay) {Drop} (Nanbus)
+    - Rotting Remnants (Crypt of Decay) {Drop}
       - Spoiled Tongue (Nanbus)
-    - An Ounce of Fetid Flesh (Crypt of Sul) (Nuttann, Gallin, Nanbus)
+    - An Ounce of Fetid Flesh (Crypt of Sul)
       - Eye of a Fiend (Nuttann, Gallin, Nanbus)
       - Bony Hand (Nuttann, Gallin, Nanbus)
       - Patch of Matted Hair (Gallin, Nanbus)
@@ -100,11 +100,10 @@
       - Massive Jaw Bone (Gallin, Nanbus)
       - Blacked Heart (Gallin, Nanbus)
       - Gnawed Foot (Gallin, Nanbus)
-    - Raiments of Rot (Crypt of Sul) (Gallin, Nanbus)
-      - Tattered Robe (Gallin, Nanbus)
+    - Raiments of Rot (Crypt of Sul)
       - Hardened Leather Boots (Nanbus)
       - Broken Necklace (Nanbus)
-      - Mark of Anahti Sul (Gallin, Nanbus)
+      - Mark of Anahti Sul (Nanbus)
       
 - Empires of Kunark
   - Hunter
@@ -113,16 +112,16 @@
     - TODO
 - Ring of Scale
   - Exploration
-    - Veeshan's Peak Traveler (Gallin / Nanbus)
+    - Veeshan's Peak Traveler
       - Visit Veeshan's Peak (Gallin / Nanbus)
   - Collections
-    - Dragonkin Scales (Veeshan's Peak) (Nuttann, Gallin, Nanbus)
+    - Dragonkin Scales (Veeshan's Peak)
       - Azure Drake Scale (Nuttann, Gallin, Nanbus)
       - Chromatic Drake Scale (Nuttann, Gallin, Nanbus)
       - Frost Wurm Scale (Nuttann, Gallin, Nanbus)
       - Flame Wurm Scale (Gallin, Nanbus)
       - Wyvern Scale (Gallin, Nanbus)
-    - Dragonhunter's Folly (Gallin, Nanbus)
+    - Dragonhunter's Folly
       - Battered Helm (Gallin, Nanbus)
       
 ##  Awaiting Turn in / Click
