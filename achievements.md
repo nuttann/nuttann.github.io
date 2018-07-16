@@ -32,9 +32,6 @@
       - Chlorophyll Infused Sand (Gallin, Nanbus)
       - Flower Dyed Sand (Gallin, Nanbus)
     - Tools of the Assasins (Degmar, the Lost Castle) {HA}
-      - Depleted Poison Vial (Nanbus)
-      - Tripping Marbles (Nuttann, Nanbus)
-      - Ether Coated Rag (Nanbus)
       - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
     - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
       - Earpoint Cream (Nanbus)
