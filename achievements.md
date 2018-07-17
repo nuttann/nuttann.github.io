@@ -31,11 +31,8 @@
       - Golden Beach Sand (Nuttann, Gallin, Nanbus)
       - Chlorophyll Infused Sand (Gallin, Nanbus)
       - Flower Dyed Sand (Gallin, Nanbus)
-    - Tools of the Assasins (Degmar, the Lost Castle) {HA}
-      - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
     - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
       - Jeweled Comb (Nanbus)
-      - Dancing Shoe (Nanbus)
       - Crested Ale Mug (Nanbus)
     - Armatalium Odalia {Drop - Humanoid} (Combine Dredge)
       - Wretelium Helocrasius (Nanbus)
@@ -134,6 +131,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - The Endless Song Page V (Gallin, Nanbus)
     - Preserved Snow Rose (Nuttann, Gallin)
     - Jeweled Comb (Nuttann, Gallin)
+    - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
     - Aged Combine Sailor's Wine Bottle (Nanbus)
     - Warped Steel Plating (Nanbus)
     - Barely Seaworthy Plating (Gallin)
