@@ -32,7 +32,6 @@
       - Chlorophyll Infused Sand (Gallin, Nanbus)
       - Flower Dyed Sand (Gallin, Nanbus)
     - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
-      - Jeweled Comb (Nanbus)
       - Crested Ale Mug (Nanbus)
     - Armatalium Odalia {Drop - Humanoid} (Combine Dredge)
       - Wretelium Helocrasius (Nanbus)
