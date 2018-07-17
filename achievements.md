@@ -86,7 +86,6 @@
       - Eye of a Fiend (Nuttann, Gallin, Nanbus)
       - Bony Hand (Nuttann, Gallin, Nanbus)
       - Patch of Matted Hair (Gallin, Nanbus)
-      - Remnant of Brain Matter (Gallin, Nanbus)
       - Massive Jaw Bone (Gallin, Nanbus)
       - Blacked Heart (Gallin, Nanbus)
       - Gnawed Foot (Gallin, Nanbus)
