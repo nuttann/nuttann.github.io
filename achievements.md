@@ -33,8 +33,6 @@
       - Flower Dyed Sand (Gallin, Nanbus)
     - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
       - Crested Ale Mug (Nanbus)
-    - Armatalium Odalia {Drop - Humanoid} (Combine Dredge)
-      - Wretelium Helocrasius (Nanbus)
     - Articles of Animation (Arx Mentis) {HA}
       - Failed Experiment No 26 (Nanbus)
       - Failed Experiment No 37 (Nuttann, Gallin, Nanbus)
@@ -133,7 +131,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Aged Combine Sailor's Wine Bottle (Nanbus)
     - Warped Steel Plating (Nanbus)
     - Barely Seaworthy Plating (Gallin)
-    - Wretelium Helocrasius (Nuttann, Gallin)
+    - Wretelium Helocrasius (Nuttann, Gallin, Nanbus)
     - Livio's Proclamation (Nuttann)
   - The Broken Mirror
     - Elegant Emerald (Nanbus)
