@@ -20,7 +20,7 @@
     - Itching Insects (Brother Island) {Drop - Seafood}
       - Red Mite (Gallin, Nanbus)
       - Red Nibbler (Nuttann, Gallin, Nanbus)
-      - Yellow Nibbler (Nuttann, Gallin, Nanbus)
+      - Yellow Nibbler (Gallin, Nanbus)
       - Grey Biter (Nuttann, Gallin, Nanbus)
       - Blue Mite (Nuttann, Gallin, Nanbus)
       - Stinging Insect (Nuttann, Gallin, Nanbus)
