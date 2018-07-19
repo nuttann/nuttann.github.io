@@ -34,12 +34,9 @@
     - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
       - Crested Ale Mug (Nanbus)
     - Articles of Animation (Arx Mentis) {HA}
-      - Failed Experiment No 26 (Nanbus)
-      - Failed Experiment No 37 (Nuttann, Gallin, Nanbus)
-      - Failed Experiment No 79 (Nuttann, Gallin, Nanbus)
-    - Actualized Accounts (Arx Mentis) {Drop - Humanoids}
-      - Magicae Researcher's Report(Gallin, Nanbus)
-      - Livio's Proclamation (Gallin, Nanbus)
+      - Failed Experiment No 79 (Gallin, Nanbus)
+    - Actualized Accounts (Arx Mentis) {Drop - Live Humanoids}
+      - Magicae Researcher's Report(Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
@@ -132,7 +129,8 @@ Waiting for next expansion so AA/exp does not go to waste
     - Warped Steel Plating (Nanbus)
     - Barely Seaworthy Plating (Gallin)
     - Wretelium Helocrasius (Nuttann, Gallin, Nanbus)
-    - Livio's Proclamation (Nuttann)
+    - Livio's Proclamation (Nuttann, Gallin)
+    - Failed Experiment No 79 (Nuttann)
   - The Broken Mirror
     - Elegant Emerald (Nanbus)
     - Rusted Claymore of Decay (Nuttann)
