@@ -33,8 +33,6 @@
       - Flower Dyed Sand (Gallin, Nanbus)
     - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
       - Crested Ale Mug (Nanbus)
-    - Actualized Accounts (Arx Mentis) {Drop - Live Humanoids}
-      - Magicae Researcher's Report(Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
@@ -128,6 +126,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Barely Seaworthy Plating (Gallin)
     - Wretelium Helocrasius (Nuttann, Gallin, Nanbus)
     - Livio's Proclamation (Nuttann, Gallin)
+    - Magicae Researcher's Report (Nanbus)
     - Failed Experiment No 79 (Nuttann, Gallin, Nanbus)
   - The Broken Mirror
     - Elegant Emerald (Nanbus)
