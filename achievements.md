@@ -31,8 +31,6 @@
       - Golden Beach Sand (Nuttann, Gallin, Nanbus)
       - Chlorophyll Infused Sand (Gallin, Nanbus)
       - Flower Dyed Sand (Gallin, Nanbus)
-    - Keepsakes of the Murdered (Degmar, the Lost Castle) {Drop - undead}
-      - Crested Ale Mug (Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
@@ -120,6 +118,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - The Endless Song Page V (Gallin, Nanbus)
     - Preserved Snow Rose (Nuttann, Gallin)
     - Jeweled Comb (Nuttann, Gallin)
+    - Crested Ale Mug (Nanbus)
     - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
     - Aged Combine Sailor's Wine Bottle (Nanbus)
     - Warped Steel Plating (Nanbus)
