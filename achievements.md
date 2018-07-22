@@ -18,19 +18,18 @@
 - The Darkened Sea
   - Collections
     - Itching Insects (Brother Island) {Drop - Seafood}
-      - Red Mite (Gallin, Nanbus)
+      - Red Mite (Nanbus)
       - Red Nibbler (Nuttann, Gallin, Nanbus)
       - Yellow Nibbler (Gallin, Nanbus)
-      - Grey Biter (Nuttann, Gallin, Nanbus)
-      - Blue Mite (Nuttann, Gallin, Nanbus)
+      - Grey Biter (Gallin, Nanbus)
+      - Blue Mite (Gallin, Nanbus)
       - Stinging Insect (Nuttann, Gallin, Nanbus)
     - Island Sands (Brother Island) {Drop - Land mobs}
       - Gullet Sand (Nuttann, Gallin, Nanbus)
-      - Excreted Sand (Nuttann, Gallin, Nanbus)
-      - Sun Bleached Sand (Gallin, Nanbus)
+      - Excreted Sand (Gallin, Nanbus)
       - Golden Beach Sand (Nuttann, Gallin, Nanbus)
       - Chlorophyll Infused Sand (Gallin, Nanbus)
-      - Flower Dyed Sand (Gallin, Nanbus)
+      - Flower Dyed Sand (Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
