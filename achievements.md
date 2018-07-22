@@ -68,8 +68,6 @@
     - Medal from the Living (Sul Vius: Demiplane of Decay) {HA}
       - Medal: Life of Value (Gallin, Nanbus)
       - Medal: Life of Trust (Gallin, Nanbus)
-    - Rotting Remnants (Crypt of Decay) {Drop}
-      - Spoiled Tongue (Nanbus)
     - An Ounce of Fetid Flesh (Crypt of Sul)
       - Eye of a Fiend (Nuttann, Gallin, Nanbus)
       - Bony Hand (Nuttann, Gallin, Nanbus)
@@ -132,6 +130,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Medal: Life of Prestige (Nuttann)
     - Piece of a Feather (Nuttann)
     - Moldy Skin (Gallin)
+    - Spoiled Tongue (Nanbus)
     - Fragmented Felwith Prayer Beads (Nanbus)
     - Damaged Idol of Rodcet Nife (Gallin)
     - Vial of Vomitous Fluid (Nuttann, Gallin, Nanbus)
