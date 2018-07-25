@@ -25,11 +25,7 @@
       - Blue Mite (Gallin, Nanbus)
       - Stinging Insect (Nuttann, Gallin, Nanbus)
     - Island Sands (Brother Island) {Drop - Land mobs}
-      - Gullet Sand (Nuttann, Gallin, Nanbus)
-      - Excreted Sand (Gallin, Nanbus)
-      - Golden Beach Sand (Nuttann, Gallin, Nanbus)
-      - Chlorophyll Infused Sand (Gallin, Nanbus)
-      - Flower Dyed Sand (Nanbus)
+      - Gullet Sand (Gallin, Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
@@ -114,6 +110,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Damaged Unstrung Lute (Gallin, Nanbus)
     - The Endless Song Page V (Gallin, Nanbus)
     - Preserved Snow Rose (Nuttann, Gallin)
+    - Gullet Sand (Nuttann)
     - Jeweled Comb (Nuttann, Gallin)
     - Crested Ale Mug (Nanbus)
     - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
