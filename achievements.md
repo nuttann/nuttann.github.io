@@ -17,14 +17,14 @@
       - Forgotten Shissar (Gallin/Nanbus)
 - The Darkened Sea
   - Collections
-    - Itching Insects (Brother Island) {Drop - Seafood}
+    - Itching Insects (Brother Island) {Drop - Birds, Apes}
       - Red Mite (Nanbus)
       - Red Nibbler (Nuttann, Gallin, Nanbus)
       - Yellow Nibbler (Nanbus)
       - Grey Biter (Gallin, Nanbus)
       - Blue Mite (Gallin, Nanbus)
       - Stinging Insect (Nuttann, Gallin, Nanbus)
-    - Island Sands (Brother Island) {Drop - Land mobs}
+    - Island Sands (Brother Island) {Drop - Seafood, undead, plants}
       - Gullet Sand (Gallin, Nanbus)
 - The Broken Mirror
   - Hunter
