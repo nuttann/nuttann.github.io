@@ -19,8 +19,6 @@
   - Collections
     - Itching Insects (Brother Island) {Drop - Birds, Apes}
       - Red Nibbler (Gallin, Nanbus)
-    - Island Sands (Brother Island) {Drop - Seafood, undead, plants}
-      - Gullet Sand (Gallin, Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
@@ -105,7 +103,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Damaged Unstrung Lute (Gallin, Nanbus)
     - The Endless Song Page V (Gallin, Nanbus)
     - Preserved Snow Rose (Nuttann, Gallin)
-    - Gullet Sand (Nuttann)
+    - Gullet Sand (Nuttann, Gallin, Nanbus)
     - Red Nibbler (Nuttann)
     - Jeweled Comb (Nuttann, Gallin)
     - Crested Ale Mug (Nanbus)
