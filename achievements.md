@@ -126,6 +126,12 @@ Waiting for next expansion so AA/exp does not go to waste
     - Damaged Idol of Rodcet Nife (Gallin)
     - Vial of Vomitous Fluid (Nuttann, Gallin, Nanbus)
     - Blood Slime (Nanbus)
+  - Empires of Kunark
+    - Caravan Wheel (Nuttann, Gallin)
+    - Broken Cart Wheel (Gallin)
+    - Blue Badge of Death (Nuttann)
+    - Bottled Sarnak Blood (Nanbus)
+    - Crackling Korshessence (Nuttann, Gallin)
   - Ring of Scale
     - Succulent Skull (Nuttann)
     - Hyacinth (Nuttann)
