@@ -128,6 +128,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Blood Slime (Nanbus)
   - Empires of Kunark
     - Caravan Wheel (Nuttann, Gallin)
+    - Giant Drink (Nuttann)
     - Broken Cart Wheel (Gallin)
     - Blue Badge of Death (Nuttann)
     - Bottled Sarnak Blood (Nanbus)
