@@ -1,6 +1,106 @@
 # Achievements for Nuttann / Gallin / Nanbus
 
 ## Still needed achievements
+- Everquest
+  - Hunter
+    - Hunter of Accursed Temple of Cazic-Thule
+      - ALL
+    - Hunter of The City of Guk
+      - an ancient croc
+      - a froglok realist
+      - a froglok scryer
+      - the froglok shin lord
+      - a froglok summoner
+      - a giant heart spider
+    - Hunter of Crushbone
+      - orc taskmaster
+      - orc warlord
+    - Hunter of Dagnor's Cauldron
+      - Barnacle Bones
+      - Blige Farfathom
+      - Flotsam
+      - Squallslither
+    - Hunter of The Feerrott
+      - Thul Tae Ew Cenobite *
+    - Hunter of The Gorge of King Xorbb
+      - Brahhm
+    - Hunter of Jaggedpine Forest
+      - an ancient treant
+      - GoldenTalon
+      - a great kodiak
+      - Jerg Oakenfist
+      - Potamide Matriarch
+      - StormClaw
+    - Hunter of Kedge Keep
+      - Cauldronboil
+      - Coralyn Kelpmaiden
+      - a ferocious hammerhead
+      - a frenzied cauldron shark
+      - a seahorse matriarch
+      - Shellara Ebbhunter
+    - Hunter of The Lavastorm Mountains
+      - Tisella
+      - a lesser nightmare
+      - Molgo *
+      - Swirlstone *
+    - Hunter of Lesser Faydark
+      - Crookstinger
+      - Mina Glimerwing
+      - Queen Nasheeji
+      - Whimsy Larktwitter
+    - Hunter of Najena
+      - Drelzna
+      - Ekeros
+      - Najena
+      - Officer Grush
+      - Rathyl
+      - Trazdon
+      - The Widowmistress
+    - Hunter of North Desert of Ro
+      - Dunedigger
+    - Hunter of The Northern Plains of Karana
+      - Callowwing
+      - Grimtooth
+      - Korvik the Cursed
+      - Lieutenant Midraim
+      - Swiftclaw
+      - Timbur the tiny
+    - Hunter of The Ocean of Tears
+      - Mojo the Tainted
+    - Hunter of The Rathe Mountains
+      - Mortifactor Syythrak
+      - Oculys Ogrefiend
+      - Petrifin
+    - Hunter of The Ruins of Old Guk
+      - MOST
+    - Hunter of Solusek's Eye
+      - MOST
+    - Hunter of The Southern Plains of Karana
+      - Grizzleknot
+      - Knarl Morawk
+      - Kroldir Thunderhoof
+      - Mroon
+      - Synger Foxfyre
+      - Tesch Val Deval'Nmak *
+    - Hunter of The Stonebrunt Mountains
+      - Jelquar the Soulslayer
+- Kunark
+  - Hunter
+    - Hunter of the Field of Bones
+      - Carrion Queen
+      - Iksar Dakroit
+    - Hunter of Trakanon's Teeth
+      - A BUNCH SINCE DBG CHANGED THEM (WAS DONE)
+- Planes of Power
+  - Hunter
+    - Hunter of The Plane of War
+      - ALL (Gallin, Nanbus)
+- Lost Dungeons of Norrath
+  - Hunter
+    - SOME IN MISTMOORE, TAKISH-HIZ
+    - Hunter of Arena of Chance
+      - Bloodied Harrower
+      - Famished Hound
 - Rain of Fear
   - Collections
     - The Depths of Fear
