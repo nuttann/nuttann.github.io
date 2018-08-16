@@ -44,14 +44,6 @@
       - Mina Glimerwing
       - Queen Nasheeji
       - Whimsy Larktwitter
-    - Hunter of Najena
-      - Drelzna
-      - Ekeros
-      - Najena
-      - Officer Grush
-      - Rathyl
-      - Trazdon
-      - The Widowmistress
     - Hunter of North Desert of Ro
       - Dunedigger
     - Hunter of The Northern Plains of Karana
@@ -222,6 +214,7 @@ Waiting for next expansion so AA/exp does not go to waste
   - Empires of Kunark
     - Caravan Wheel (Nuttann, Gallin)
     - Giant Drink (Nuttann)
+    - Burynai Burial Regalia (Fana) (Nuttann)
     - Broken Cart Wheel (Gallin)
     - Blue Badge of Death (Nuttann)
     - Bottled Sarnak Blood (Nanbus)
