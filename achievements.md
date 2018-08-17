@@ -137,9 +137,6 @@
   - Collections
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (Gallin, Nanbus)
-    - Medal from the Living (Sul Vius: Demiplane of Decay) {HA}
-      - Medal: Life of Value (Gallin, Nanbus)
-      - Medal: Life of Trust (Gallin, Nanbus)
     - An Ounce of Fetid Flesh (Crypt of Sul)
       - Eye of a Fiend (Nuttann, Gallin, Nanbus)
       - Bony Hand (Nuttann, Gallin, Nanbus)
@@ -202,6 +199,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Elegant Emerald (Nanbus)
     - Rusted Claymore of Decay (Nuttann)
     - Medal: Life of Prestige (Nuttann)
+    - Medal: Life of Trust (Gallin, Nanbus)
     - Piece of a Feather (Nuttann)
     - Moldy Skin (Gallin)
     - Spoiled Tongue (Nanbus)
