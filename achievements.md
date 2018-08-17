@@ -10,8 +10,6 @@
       - a froglok scryer
       - the froglok shin lord
       - a giant heart spider
-    - Hunter of Crushbone
-      - orc warlord
     - Hunter of Dagnor's Cauldron
       - Barnacle Bones
       - Blige Farfathom
