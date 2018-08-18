@@ -101,10 +101,6 @@
     - Stalking Fear (Nanbus - Doesn't own collector's edition)
     - Dark Secrets
       - Forgotten Shissar (Gallin/Nanbus)
-- The Darkened Sea
-  - Collections
-    - Itching Insects (Brother Island) {Drop - Birds, Apes}
-      - Red Nibbler (Gallin, Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
@@ -184,7 +180,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - The Endless Song Page V (Gallin, Nanbus)
     - Preserved Snow Rose (Nuttann, Gallin)
     - Gullet Sand (Nuttann, Gallin, Nanbus)
-    - Red Nibbler (Nuttann)
+    - Red Nibbler (Nuttann, Gallin, Nanbus)
     - Jeweled Comb (Nuttann, Gallin)
     - Crested Ale Mug (Nanbus)
     - Blood Encrusted Hanging Rope (Nuttann, Gallin, Nanbus)
