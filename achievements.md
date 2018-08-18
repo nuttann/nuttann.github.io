@@ -122,7 +122,6 @@
       - The Remnants of the Darkseer (Gallin, Nanbus)
       - The Sleepbringer (Nuttann, Gallin, Nanbus)
       - Tarris Ellam (Undead Underground) (Nuttann, Gallin, Nanbus)
-      - Zikursch the Corrupt (Nuttann, Gallin, Nanbus)
     - Hunter of the Crypt of Decay
       - Abroan Drian (Nuttann, Gallin, Nanbus)
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
@@ -140,10 +139,6 @@
       - Massive Jaw Bone (Gallin, Nanbus)
       - Blacked Heart (Gallin, Nanbus)
       - Gnawed Foot (Gallin, Nanbus)
-    - Raiments of Rot (Crypt of Sul)
-      - Hardened Leather Boots (Nanbus)
-      - Broken Necklace (Nanbus)
-      - Mark of Anahti Sul (Nanbus)
       
 - Empires of Kunark
   - Hunter
@@ -197,6 +192,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Medal: Life of Prestige (Nuttann)
     - Medal: Life of Trust (Gallin, Nanbus)
     - Piece of a Feather (Nuttann)
+    - Mark of Anahti Sul (Gallin, Nanbus)
     - Moldy Skin (Gallin)
     - Spoiled Tongue (Nanbus)
     - Fragmented Felwith Prayer Beads (Nanbus)
