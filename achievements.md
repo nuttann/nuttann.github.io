@@ -76,7 +76,21 @@
       - Carrion Queen
       - Iksar Dakroit
     - Hunter of Trakanon's Teeth
-      - A BUNCH SINCE DBG CHANGED THEM (WAS DONE)
+      - Commander Sils
+      - Doom
+      - Dragontail
+      - Dreadloard Dekir
+      - Flayhte
+      - Harbinger Josk
+      - Hierophant Ixyl
+      - Keeper Sepsis
+      - Knight Dragol
+      - Master Fasliw
+      - Oracle Froskil
+      - Stonebeak
+      - Throkkok
+      - Thruke
+      - Vessel Fryn
 - Planes of Power
   - Hunter
     - Hunter of The Plane of War
@@ -139,16 +153,132 @@
       - Massive Jaw Bone (Gallin, Nanbus)
       - Blacked Heart (Gallin, Nanbus)
       - Gnawed Foot (Gallin, Nanbus)
-      
 - Empires of Kunark
   - Hunter
-    - TODO
+    - Hunter of Lceanium
+      - A Drolvarg Lord (Nuttann, Gallin, Nanbus)
+      - Kergag, the Mountain (Nuttann, Gallin, Nanbus)
+      - The Lost Hunter (Nuttann, Gallin, Nanbus)
+      - Nightvenom (Nuttann, Gallin, Nanbus)
+      - Slitherblade (Nuttann, Gallin, Nanbus)
+      - The Stone Dove (Nuttann, Gallin, Nanbus)
+      - Tithnak Shadowhunter (Nuttann, Gallin, Nanbus)
+    - Hunter of The Scorched Woods
+      - Carpenter Adomnan (Nuttann, Gallin, Nanbus)
+      - Cathal Padock (Nuttann, Gallin, Nanbus)
+      - Plaguebringer (Gallin, Nanbus)
+      - Searstinger (Gallin, Nanbus)
+      - Sovarak Klyseer (Nuttann, Gallin, Nanbus)
+      - Spirit of Incineration (Nuttann, Gallin, Nanbus)
+    - Hunter of Frontier Mountains
+      - Brute Herder Ar'shok (Nuttann, Gallin, Nanbus)
+      - Delinious Berserker (Nuttann, Gallin, Nanbus)
+      - Flamewarden Zev'ran (Nuttann, Gallin, Nanbus)
+    - Hunter of The Temple of Droga
+      - Black Spot (Nuttann, Gallin, Nanbus)
+      - Blood of Droga (Nuttann, Gallin, Nanbus)
+      - Bore (Nuttann, Gallin, Nanbus)
+      - Chief Dronan (Nuttann, Gallin, Nanbus)
+      - Cook Eepvibies (Nuttann, Gallin, Nanbus)
+      - Cook Jexnaly (Nuttann, Gallin, Nanbus)
+      - Home Master Kazigl (Nuttann, Gallin, Nanbus)
+      - Izisyl Peppershiv (Nuttann, Gallin, Nanbus)
+      - Jailor Muxfan (Nuttann, Gallin, Nanbus)
+      - Master Kizzxik (Gallin, Nanbus)
+      - Merchant Triala (Goblin and Fools) (Nuttann, Gallin, Nanbus)
+      - Most Devout Sentry (Nuttann, Gallin, Nanbus)
+      - Spirit Master Wigaue (Nuttann, Gallin, Nanbus)
+      - Spiritwatcher Scrolhallow (Nuttann, Gallin, Nanbus)
+      - War Leader Callex (Nuttann, Gallin, Nanbus)
+      - Whip Cracker Krassex (Nuttann, Gallin, Nanbus)
+    - Hunter of Chardok
+      - Battle Master Ska'tu (Nuttann, Gallin, Nanbus)
+      - Crackjaw (Nuttann, Gallin, Nanbus)
+      - Deathfang (Nuttann, Gallin, Nanbus)
+      - Dry Rot (Nuttann, Gallin, Nanbus)
+      - Flight Master Hak'ouz (Nuttann, Gallin, Nanbus)
+      - Fractured Shard (Nuttann, Gallin, Nanbus)
+      - Grand Advisor Zum'uul (Gallin, Nanbus)
+      - Grand Herbalist Mak'ha (Nuttann, Gallin, Nanbus)
+      - Kennel Master Al'ele (Nuttann, Gallin, Nanbus)
+      - Observer Aq'touz (Nuttann, Gallin, Nanbus)
+      - Overseer Dal'guur (Nuttann, Gallin, Nanbus)
+      - Queen Velazul's Aide (Nuttann, Gallin, Nanbus)
+      - Royal Guuard Kakator (On Behest of the Emperor) (Nuttann, Gallin, Nanbus)
+      - Selrach's Regent (Nuttann, Gallin, Nanbus)
+      - Shar'din Warmaster Roh'ki (Nuttann, Gallin, Nanbus)
+      - The Sokokar Matron (Nuttann, Gallin, Nanbus)
+      - Watch Captain Hir'roul (Gallin, Nanbus)
+    - Hunter of Kor-Sha Laboratory
+      - Bonescale (Nuttann, Gallin, Nanbus)
+      - Cutter (Nuttann, Gallin, Nanbus)
+      - Darkness (Nuttann, Gallin, Nanbus)
+      - Deathgazer (Nuttann, Gallin, Nanbus)
+      - Firedowser Uglabarg (Nuttann, Gallin, Nanbus)
+      - Giant Fink (Nuttann, Gallin, Nanbus)
+      - Kar'Zok Overlord (Nuttann, Gallin, Nanbus)
+      - Ohara Klyseer (Nuttann, Gallin, Nanbus)
+      - Overlord Draigan (Nuttann, Gallin, Nanbus)
+      - Screaming Tormentor (Nuttann, Gallin, Nanbus)
+      - Sepulchar Curator (Nuttann, Gallin, Nanbus)
+      - Stonespiked Guardian (Nuttann, Gallin, Nanbus)
+      - The Possessed (Nuttann, Gallin, Nanbus)
+      - Vakazon Viz'Daron (Nuttann, Gallin, Nanbus)
   - Collections
-    - TODO
+    - Portal Dust (Lceanium)
+      - Resonating Portal Dust (Heda)
+    - When the Stars Fell (The Scorched Woods)
+      - Daubed Mud (Gallin, Nanbus)
+      - Glowing Meteorite Shard (Nanbus)
+      - Unnaturally Robust Foliage (Gallin, Nanbus)
+      - Fiery Essence (Gallin, Nanbus)
+      - Sarnak Foot (Gallin, Nanbus)
+      - Scorched Rune (Gallin, Nanbus)
+      - Slump Stalker (Nuttann, Gallin, Nanbus)
+    - Unearthing the Sky (The Scorched Woods)
+      - Broken Mirror (Left) (Nanbus)
+    - Big Time (The Scorched Woods)
+      - TODO
+    - Natural Treasure (Frontier Mountains)
+      - TODO
+    - Drinking Solutions (Frontier Mountains)
+      - TODO
+    - Regal Graverobbing (Frontier Mountains)
+      - TODO
+    - Taken Tokens (The Temple of Droga)
+      - TODO
+    - Mountain Death Trinkets (The Temple of Droga)
+      - TODO
+    - Memories of Nurga (The Temple of Droga)
+      - TODO
+    - Stinkin' Badges (The Temple of Droga)
+      - TODO
+    - Jailor's Health (Chardok)
+      - TODO
+    - Brutal Accoaldes (Chardok)
+      - TODO
+    - Torturer's Tools (Chardok)
+      - TODO
+    - Alchemist's Reagents (Chardok)
+      - TODO
+    - Lesser Things (Gates of Kor-Sha)
+      - Suspect Substance (Nanbus)
+      - Lucky Tooth (Nanbus)
+      - Failed Achemical Experiment (Nanbus)
+      - Condensed Toxic Vaport (Nanbus)
+      - Pickled Eyeball (Nuttann, Gallin, Nanbus)
+    - Laboratory Labors (Kor-Sha Laboratory)
+      - TODO
+    - Atrebe's Study (Kor-Sha Laboratory)
+      - TODO
+    - Korshessence (Kor-Sha Laboratory)
+      - Crackling Korshessence (Nanbus)
 - Ring of Scale
   - Exploration
     - Veeshan's Peak Traveler
       - Visit Veeshan's Peak (Gallin / Nanbus)
+  - Hunter
+    - TODO
   - Collections
     - Dragonkin Scales (Veeshan's Peak)
       - Azure Drake Scale (Nuttann, Gallin, Nanbus)
