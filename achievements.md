@@ -68,8 +68,6 @@
       - Mroon
       - Synger Foxfyre
       - Tesch Val Deval'Nmak *
-    - Hunter of The Stonebrunt Mountains
-      - Jelquar the Soulslayer
 - Kunark
   - Hunter
     - Hunter of the Field of Bones
@@ -335,6 +333,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Burynai Burial Regalia (Fana) (Nuttann)
     - Broken Cart Wheel (Gallin)
     - Blue Badge of Death (Nuttann)
+    - Bone Dice (Nuttann)
     - Bottled Sarnak Blood (Nanbus)
     - Crackling Korshessence (Nuttann, Gallin)
   - Ring of Scale
