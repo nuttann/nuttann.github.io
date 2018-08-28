@@ -8,7 +8,6 @@
     - Hunter of The City of Guk
       - an ancient croc
       - a froglok scryer
-      - the froglok shin lord
       - a giant heart spider
     - Hunter of Dagnor's Cauldron
       - Barnacle Bones
@@ -36,7 +35,6 @@
     - Hunter of The Lavastorm Mountains
       - Tisella
       - a lesser nightmare
-      - Swirlstone *
     - Hunter of Lesser Faydark
       - Crookstinger
       - Mina Glimerwing
@@ -102,12 +100,10 @@
 - Rain of Fear
   - Collections
     - The Depths of Fear
-      - Strange Black Rock (Gallin/Nanbus)
       - Shifting Shard (Gallin/Nanbus)
       - Gestation Crystal Shard (Nanbus)
       - Heart of Fear (Gallin/Nanbus)
-      - Lesser Hero of Rain of Fear (Gallin/Nanbus)
-      - Hero of Chelsith Reborn (Gallin/Nanbus)
+      - Lesser Hero of Rain of Fear (Nuttann/Gallin/Nanbus)
       - Hero of Plane of Shadow (Gallin/Nanbus)
       - Hero of Heart of Fear (Gallin/Nanbus)
     - Stalking Fear (Nanbus - Doesn't own collector's edition)
