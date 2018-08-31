@@ -238,7 +238,11 @@
     - Drinking Solutions (Frontier Mountains)
       - TODO
     - Regal Graverobbing (Frontier Mountains)
-      - TODO
+      - Burynai Burial Regalia (Caza) (Gallin, Nanbus)
+      - Burynai Burial Regalia (Dena) (Nanbus)
+      - Burynai Burial Regalia (Fana) (Gallin, Nanbus)
+      - Burynai Burial Regalia (Gaza) (Gallin, Nanbus)
+      - Burynai Burial Regalia (Heda) (Nanbus)
     - Taken Tokens (The Temple of Droga)
       - TODO
     - Mountain Death Trinkets (The Temple of Droga)
