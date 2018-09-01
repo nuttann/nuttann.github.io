@@ -14,8 +14,6 @@
       - Blige Farfathom
       - Flotsam
       - Squallslither
-    - Hunter of The Feerrott
-      - Thul Tae Ew Cenobite *
     - Hunter of The Gorge of King Xorbb
       - Brahhm
     - Hunter of Jaggedpine Forest
