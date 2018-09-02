@@ -277,13 +277,10 @@
     - TODO
   - Collections
     - Dragonkin Scales (Veeshan's Peak)
-      - Azure Drake Scale (Nuttann, Gallin, Nanbus)
-      - Chromatic Drake Scale (Nuttann, Gallin, Nanbus)
-      - Frost Wurm Scale (Nuttann, Gallin, Nanbus)
-      - Flame Wurm Scale (Gallin, Nanbus)
-      - Wyvern Scale (Gallin, Nanbus)
-    - Dragonhunter's Folly
-      - Battered Helm (Gallin, Nanbus)
+      - Azure Drake Scale (Gallin)
+      - Chromatic Drake Scale (Gallin, Nanbus)
+      - Frost Wurm Scale (Gallin)
+      - Flame Wurm Scale (Gallin)
       
 ##  Awaiting Turn in / Click
 
@@ -355,4 +352,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Shattered Vial (Nuttann)
     - Blood Chalice (Nanbus)
     - Writ of Scale (Nuttann, Gallin)
-    - Battered Helm (Nuttann)
+    - Battered Helm (Nuttann, Gallin, Nanbus)
+    - Fractured Gold Dragon Scale (Nuttann, Gallin, Nanbus)
+    - Draconic Runestone (Nuttann, Gallin, Nanbus)
+    - Chromatic Drake Scale (Nuttann)
