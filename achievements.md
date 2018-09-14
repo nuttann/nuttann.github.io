@@ -140,10 +140,10 @@
       - Rusted Claymore of Decay (Gallin, Nanbus)
     - An Ounce of Fetid Flesh (Crypt of Sul)
       - Eye of a Fiend (Nuttann, Gallin, Nanbus)
-      - Bony Hand (Nuttann, Gallin, Nanbus)
+      - Bony Hand (Gallin)
       - Patch of Matted Hair (Gallin, Nanbus)
       - Massive Jaw Bone (Gallin, Nanbus)
-      - Blacked Heart (Gallin, Nanbus)
+      - Blacked Heart (Gallin)
       - Gnawed Foot (Gallin, Nanbus)
 - Empires of Kunark
   - Hunter
@@ -164,7 +164,6 @@
       - Spirit of Incineration (Nuttann, Gallin, Nanbus)
     - Hunter of Frontier Mountains
       - Brute Herder Ar'shok (Nuttann, Gallin, Nanbus)
-      - Delinious Berserker (Nuttann, Gallin, Nanbus)
       - Flamewarden Zev'ran (Nuttann, Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Black Spot (Nuttann, Gallin, Nanbus)
