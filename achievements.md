@@ -97,13 +97,6 @@
       - Famished Hound
 - Rain of Fear
   - Collections
-    - The Depths of Fear
-      - Shifting Shard (Gallin/Nanbus)
-      - Gestation Crystal Shard (Nanbus)
-      - Heart of Fear (Gallin/Nanbus)
-      - Lesser Hero of Rain of Fear (Nuttann/Gallin/Nanbus)
-      - Hero of Plane of Shadow (Gallin/Nanbus)
-      - Hero of Heart of Fear (Gallin/Nanbus)
     - Stalking Fear (Nanbus - Doesn't own collector's edition)
     - Dark Secrets
       - Forgotten Shissar (Gallin/Nanbus)
@@ -163,7 +156,6 @@
       - Sovarak Klyseer (Nuttann, Gallin, Nanbus)
       - Spirit of Incineration (Nuttann, Gallin, Nanbus)
     - Hunter of Frontier Mountains
-      - Brute Herder Ar'shok (Nuttann, Gallin, Nanbus)
       - Flamewarden Zev'ran (Nuttann, Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Black Spot (Nuttann, Gallin, Nanbus)
@@ -237,8 +229,8 @@
     - Regal Graverobbing (Frontier Mountains)
       - Burynai Burial Regalia (Caza) (Gallin, Nanbus)
       - Burynai Burial Regalia (Dena) (Nanbus)
-      - Burynai Burial Regalia (Fana) (Gallin, Nanbus)
-      - Burynai Burial Regalia (Gaza) (Gallin, Nanbus)
+      - Burynai Burial Regalia (Fana) (Gallin)
+      - Burynai Burial Regalia (Gaza) (Gallin)
       - Burynai Burial Regalia (Heda) (Nanbus)
     - Taken Tokens (The Temple of Droga)
       - TODO
