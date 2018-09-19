@@ -7,7 +7,6 @@
       - ALL
     - Hunter of The City of Guk
       - an ancient croc
-      - a froglok scryer
       - a giant heart spider
     - Hunter of Dagnor's Cauldron
       - Barnacle Bones
@@ -111,7 +110,6 @@
     - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
       - The Darkseer (Nuttann, Gallin, Nanbus)
-      - Glorious Cistina (Nuttann, Gallin, Nanbus)
       - Render (The Handmaiden) (Gallin, Nanbus)
       - Terrance the Admired (Nuttann, Gallin, Nanbus)
       - Vizier Albert (Gallin, Nanbus)
