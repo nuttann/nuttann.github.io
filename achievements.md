@@ -5,9 +5,6 @@
   - Hunter
     - Hunter of Accursed Temple of Cazic-Thule
       - ALL
-    - Hunter of The City of Guk
-      - an ancient croc
-      - a giant heart spider
     - Hunter of Dagnor's Cauldron
       - Barnacle Bones
       - Blige Farfathom
