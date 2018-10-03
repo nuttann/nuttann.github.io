@@ -15,9 +15,7 @@
     - Hunter of Jaggedpine Forest
       - an ancient treant
       - GoldenTalon
-      - a great kodiak
       - Jerg Oakenfist
-      - Potamide Matriarch
       - StormClaw
     - Hunter of Kedge Keep
       - Cauldronboil
@@ -33,7 +31,6 @@
       - Crookstinger
       - Mina Glimerwing
       - Queen Nasheeji
-      - Whimsy Larktwitter
     - Hunter of North Desert of Ro
       - Dunedigger
     - Hunter of The Northern Plains of Karana
@@ -70,7 +67,6 @@
       - Doom
       - Dragontail
       - Dreadloard Dekir
-      - Flayhte
       - Harbinger Josk
       - Hierophant Ixyl
       - Keeper Sepsis
@@ -106,18 +102,13 @@
       - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)
     - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
-      - The Darkseer (Nuttann, Gallin, Nanbus)
-      - Render (The Handmaiden) (Gallin, Nanbus)
-      - Terrance the Admired (Nuttann, Gallin, Nanbus)
-      - Vizier Albert (Gallin, Nanbus)
+      - Render (Gallin, Nanbus)
     - Hunter of the Sul Vius: Demiplane of Decay
       - Master of the House (Gallin, Nanbus)
       - The Perforator (Deadline) (Nuttann, Gallin, Nanbus)
-      - The Remnants of the Darkseer (Gallin, Nanbus)
       - The Sleepbringer (Nuttann, Gallin, Nanbus)
       - Tarris Ellam (Undead Underground) (Nuttann, Gallin, Nanbus)
     - Hunter of the Crypt of Decay
-      - Abroan Drian (Nuttann, Gallin, Nanbus)
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
       - Xhut Adan (Nuttann, Gallin, Nanbus)
@@ -146,12 +137,9 @@
     - Hunter of The Scorched Woods
       - Carpenter Adomnan (Nuttann, Gallin, Nanbus)
       - Cathal Padock (Nuttann, Gallin, Nanbus)
-      - Plaguebringer (Gallin, Nanbus)
       - Searstinger (Gallin, Nanbus)
       - Sovarak Klyseer (Nuttann, Gallin, Nanbus)
       - Spirit of Incineration (Nuttann, Gallin, Nanbus)
-    - Hunter of Frontier Mountains
-      - Flamewarden Zev'ran (Nuttann, Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Black Spot (Nuttann, Gallin, Nanbus)
       - Blood of Droga (Nuttann, Gallin, Nanbus)
