@@ -192,7 +192,7 @@
       - Vakazon Viz'Daron (Nuttann, Gallin, Nanbus)
   - Collections
     - Portal Dust (Lceanium)
-      - Resonating Portal Dust (Heda)
+      - Resonating Portal Dust (Heda) (Nanbus)
     - When the Stars Fell (The Scorched Woods)
       - Daubed Mud (Gallin, Nanbus)
       - Glowing Meteorite Shard (Nanbus)
@@ -212,7 +212,6 @@
     - Regal Graverobbing (Frontier Mountains)
       - Burynai Burial Regalia (Caza) (Gallin, Nanbus)
       - Burynai Burial Regalia (Dena) (Nanbus)
-      - Burynai Burial Regalia (Fana) (Gallin)
       - Burynai Burial Regalia (Gaza) (Gallin)
       - Burynai Burial Regalia (Heda) (Nanbus)
     - Taken Tokens (The Temple of Droga)
