@@ -250,9 +250,6 @@
     - TODO
   - Collections
     - Dragonkin Scales (Veeshan's Peak)
-      - Azure Drake Scale (Gallin)
-      - Chromatic Drake Scale (Gallin, Nanbus)
-      - Frost Wurm Scale (Gallin)
       - Flame Wurm Scale (Gallin)
       
 ##  Awaiting Turn in / Click
