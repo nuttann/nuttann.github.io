@@ -106,8 +106,6 @@
     - Hunter of the Sul Vius: Demiplane of Decay
       - Master of the House (Gallin, Nanbus)
       - The Perforator (Deadline) (Nuttann, Gallin, Nanbus)
-      - The Sleepbringer (Nuttann, Gallin, Nanbus)
-      - Tarris Ellam (Undead Underground) (Nuttann, Gallin, Nanbus)
     - Hunter of the Crypt of Decay
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
