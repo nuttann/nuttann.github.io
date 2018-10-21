@@ -110,8 +110,6 @@
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
       - Xhut Adan (Nuttann, Gallin, Nanbus)
-    - Hunter of the Crypt of Sul
-      - Grinder (The Head of the Snake) (Nuttann, Gallin, Nanbus)
   - Collections
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (Gallin, Nanbus)
