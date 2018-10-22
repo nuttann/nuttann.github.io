@@ -114,12 +114,10 @@
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (Gallin, Nanbus)
     - An Ounce of Fetid Flesh (Crypt of Sul)
-      - Eye of a Fiend (Nuttann, Gallin, Nanbus)
-      - Bony Hand (Gallin)
+      - Eye of a Fiend (Gallin, Nanbus)
       - Patch of Matted Hair (Gallin, Nanbus)
       - Massive Jaw Bone (Gallin, Nanbus)
       - Blacked Heart (Gallin)
-      - Gnawed Foot (Gallin, Nanbus)
 - Empires of Kunark
   - Hunter
     - Hunter of Lceanium
@@ -288,6 +286,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Damaged Idol of Rodcet Nife (Gallin)
     - Vial of Vomitous Fluid (Nuttann, Gallin, Nanbus)
     - Blood Slime (Nanbus)
+    - Eye of a Fiend (Nuttann)
   - Empires of Kunark
     - Caravan Wheel (Nuttann, Gallin)
     - Giant Drink (Nuttann)
@@ -321,4 +320,4 @@ Waiting for next expansion so AA/exp does not go to waste
     - Battered Helm (Nuttann, Gallin, Nanbus)
     - Fractured Gold Dragon Scale (Nuttann, Gallin, Nanbus)
     - Draconic Runestone (Nuttann, Gallin, Nanbus)
-    - Chromatic Drake Scale (Nuttann)
+    - Chromatic Drake Scale (Nuttann, Nanbus)
