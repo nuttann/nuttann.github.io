@@ -102,7 +102,7 @@
       - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)
     - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
-      - Render (Gallin, Nanbus)
+      - Render (The Handmaiden) (Gallin, Nanbus)
     - Hunter of the Sul Vius: Demiplane of Decay
       - Master of the House (Gallin, Nanbus)
       - The Perforator (Deadline) (Nuttann, Gallin, Nanbus)
