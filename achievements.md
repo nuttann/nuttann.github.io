@@ -39,7 +39,6 @@
       - Korvik the Cursed
       - Lieutenant Midraim
       - Swiftclaw
-      - Timbur the tiny
     - Hunter of The Ocean of Tears
       - Mojo the Tainted
     - Hunter of The Rathe Mountains
