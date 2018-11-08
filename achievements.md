@@ -10,10 +10,7 @@
       - Blige Farfathom
       - Flotsam
       - Squallslither
-    - Hunter of The Gorge of King Xorbb
-      - Brahhm
     - Hunter of Jaggedpine Forest
-      - an ancient treant
       - GoldenTalon
       - Jerg Oakenfist
       - StormClaw
@@ -28,7 +25,6 @@
       - Tisella
       - a lesser nightmare
     - Hunter of Lesser Faydark
-      - Crookstinger
       - Mina Glimerwing
       - Queen Nasheeji
     - Hunter of North Desert of Ro
@@ -60,7 +56,6 @@
   - Hunter
     - Hunter of the Field of Bones
       - Carrion Queen
-      - Iksar Dakroit
     - Hunter of Trakanon's Teeth
       - Commander Sils
       - Doom
@@ -84,7 +79,6 @@
   - Hunter
     - SOME IN MISTMOORE, TAKISH-HIZ
     - Hunter of Arena of Chance
-      - Bloodied Harrower
       - Famished Hound
 - Rain of Fear
   - Collections
@@ -128,7 +122,6 @@
       - Tithnak Shadowhunter (Nuttann, Gallin, Nanbus)
     - Hunter of The Scorched Woods
       - Carpenter Adomnan (Nuttann, Gallin, Nanbus)
-      - Cathal Padock (Nuttann, Gallin, Nanbus)
       - Searstinger (Gallin, Nanbus)
       - Sovarak Klyseer (Nuttann, Gallin, Nanbus)
       - Spirit of Incineration (Nuttann, Gallin, Nanbus)
