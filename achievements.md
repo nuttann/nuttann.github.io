@@ -286,6 +286,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Bone Dice (Nuttann)
     - Bottled Sarnak Blood (Nanbus)
     - Crackling Korshessence (Nuttann, Gallin)
+    - Mountain Seashell (Nuttann)
   - Ring of Scale
     - Succulent Skull (Nuttann)
     - Hyacinth (Nuttann)
