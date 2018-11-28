@@ -96,8 +96,6 @@
     - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
       - Render (The Handmaiden) (Gallin, Nanbus)
-    - Hunter of the Sul Vius: Demiplane of Decay
-      - Master of the House (Gallin, Nanbus)
     - Hunter of the Crypt of Decay
       - Akkapan Adan (Nuttann, Gallin, Nanbus)
       - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
@@ -117,7 +115,6 @@
       - The Lost Hunter (Nuttann, Gallin, Nanbus)
       - Nightvenom (Nuttann, Gallin, Nanbus)
       - Slitherblade (Nuttann, Gallin, Nanbus)
-      - The Stone Dove (Nuttann, Gallin, Nanbus)
       - Tithnak Shadowhunter (Nuttann, Gallin, Nanbus)
     - Hunter of The Scorched Woods
       - Carpenter Adomnan (Nuttann, Gallin, Nanbus)
