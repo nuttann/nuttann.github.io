@@ -276,6 +276,7 @@ Waiting for next expansion so AA/exp does not go to waste
     - Eye of a Fiend (Nuttann)
   - Empires of Kunark
     - Caravan Wheel (Nuttann, Gallin)
+    - Giant Vodka (Gallin)
     - Giant Drink (Nuttann)
     - Burynai Burial Regalia (Fana) (Nuttann)
     - Broken Cart Wheel (Gallin)
