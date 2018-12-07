@@ -59,8 +59,6 @@
     - Hunter of Trakanon's Teeth
       - Commander Sils
       - Doom
-      - Dragontail
-      - Dreadloard Dekir
       - Harbinger Josk
       - Hierophant Ixyl
       - Keeper Sepsis
