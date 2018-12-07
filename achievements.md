@@ -66,7 +66,6 @@
       - Master Fasliw
       - Oracle Froskil
       - Stonebeak
-      - Throkkok
       - Thruke
       - Vessel Fryn
 - Planes of Power
