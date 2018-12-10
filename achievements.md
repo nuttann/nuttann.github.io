@@ -53,9 +53,6 @@
       - Carrion Queen
     - Hunter of Trakanon's Teeth
       - Commander Sils (F)
-      - Hierophant Ixyl (H)
-      - Keeper Sepsis (H)
-      - Thruke (F)
 - Planes of Power
   - Hunter
     - Hunter of The Plane of War
