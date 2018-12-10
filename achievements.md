@@ -52,17 +52,10 @@
     - Hunter of the Field of Bones
       - Carrion Queen
     - Hunter of Trakanon's Teeth
-      - Commander Sils
-      - Doom
-      - Harbinger Josk
-      - Hierophant Ixyl
-      - Keeper Sepsis
-      - Knight Dragol
-      - Master Fasliw
-      - Oracle Froskil
-      - Stonebeak
-      - Thruke
-      - Vessel Fryn
+      - Commander Sils (F)
+      - Hierophant Ixyl (H)
+      - Keeper Sepsis (H)
+      - Thruke (F)
 - Planes of Power
   - Hunter
     - Hunter of The Plane of War
