@@ -4,7 +4,7 @@
 - Everquest
   - Hunter
     - Hunter of Accursed Temple of Cazic-Thule
-      - ALL
+      - MOST
     - Hunter of Dagnor's Cauldron
       - Barnacle Bones
       - Blige Farfathom
@@ -13,7 +13,6 @@
     - Hunter of Jaggedpine Forest
       - GoldenTalon
       - Jerg Oakenfist
-      - StormClaw
     - Hunter of Kedge Keep
       - Cauldronboil
       - Coralyn Kelpmaiden
@@ -26,9 +25,6 @@
       - a lesser nightmare
     - Hunter of Lesser Faydark
       - Mina Glimerwing
-      - Queen Nasheeji
-    - Hunter of North Desert of Ro
-      - Dunedigger
     - Hunter of The Northern Plains of Karana
       - Callowwing
       - Grimtooth
@@ -41,14 +37,13 @@
       - Mortifactor Syythrak
       - Oculys Ogrefiend
       - Petrifin
-    - Hunter of The Ruins of Old Guk
+    - Hunter of The Ruins of Old Guk (Gallin)
       - MOST
     - Hunter of Solusek's Eye
       - MOST
     - Hunter of The Southern Plains of Karana
       - Grizzleknot
       - Knarl Morawk
-      - Kroldir Thunderhoof
       - Mroon
       - Synger Foxfyre
       - Tesch Val Deval'Nmak *
