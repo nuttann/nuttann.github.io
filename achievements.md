@@ -51,8 +51,6 @@
   - Hunter
     - Hunter of the Field of Bones
       - Carrion Queen
-    - Hunter of Trakanon's Teeth
-      - Commander Sils (F)
 - Planes of Power
   - Hunter
     - Hunter of The Plane of War
