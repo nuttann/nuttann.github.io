@@ -9,7 +9,6 @@
       - Barnacle Bones
       - Blige Farfathom
       - Flotsam
-      - Squallslither
     - Hunter of Jaggedpine Forest
       - GoldenTalon
       - Jerg Oakenfist
