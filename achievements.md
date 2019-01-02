@@ -12,11 +12,8 @@
       - GoldenTalon
       - Jerg Oakenfist
     - Hunter of Kedge Keep
-      - Cauldronboil
-      - Coralyn Kelpmaiden
       - a ferocious hammerhead
       - a frenzied cauldron shark
-      - a seahorse matriarch
       - Shellara Ebbhunter
     - Hunter of The Lavastorm Mountains
       - Tisella
@@ -35,10 +32,17 @@
       - Mortifactor Syythrak
       - Oculys Ogrefiend
       - Petrifin
-    - Hunter of The Ruins of Old Guk (Gallin)
-      - MOST
+    - Hunter of The Ruins of Old Guk
+      - MOST (Gallin)
     - Hunter of Solusek's Eye
-      - MOST
+      - Captain Bignubble
+      - CWG Model EXG
+      - goblin high shaman
+      - inferno goblin captain
+      - inferno goblin torturer
+      - lava elemental
+      - Singe
+      - Solusek goblin king
     - Hunter of The Southern Plains of Karana
       - Grizzleknot
       - Knarl Morawk
@@ -153,8 +157,7 @@
     - Portal Dust (Lceanium)
       - Resonating Portal Dust (Heda) (Nanbus)
     - When the Stars Fell (The Scorched Woods)
-      - Daubed Mud (Gallin, Nanbus)
-      - Glowing Meteorite Shard (Nanbus)
+      - Daubed Mud (Gallin)
       - Unnaturally Robust Foliage (Gallin, Nanbus)
       - Fiery Essence (Gallin, Nanbus)
       - Sarnak Foot (Gallin, Nanbus)
