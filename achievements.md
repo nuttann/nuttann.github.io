@@ -8,7 +8,6 @@
     - Hunter of Dagnor's Cauldron
       - Barnacle Bones
       - Blige Farfathom
-      - Flotsam
     - Hunter of Jaggedpine Forest
       - GoldenTalon
       - Jerg Oakenfist
