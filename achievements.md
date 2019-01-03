@@ -6,7 +6,6 @@
     - Hunter of Accursed Temple of Cazic-Thule
       - MOST
     - Hunter of Dagnor's Cauldron
-      - Barnacle Bones
       - Blige Farfathom
     - Hunter of Jaggedpine Forest
       - GoldenTalon
