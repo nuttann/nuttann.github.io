@@ -99,7 +99,6 @@
       - Carpenter Adomnan (Nuttann, Gallin, Nanbus)
       - Searstinger (Gallin, Nanbus)
       - Sovarak Klyseer (Nuttann, Gallin, Nanbus)
-      - Spirit of Incineration (Nuttann, Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Black Spot (Nuttann, Gallin, Nanbus)
       - Blood of Droga (Nuttann, Gallin, Nanbus)
@@ -120,8 +119,6 @@
     - Hunter of Chardok
       - Battle Master Ska'tu (Nuttann, Gallin, Nanbus)
       - Crackjaw (Nuttann, Gallin, Nanbus)
-      - Deathfang (Nuttann, Gallin, Nanbus)
-      - Dry Rot (Nuttann, Gallin, Nanbus)
       - Flight Master Hak'ouz (Nuttann, Gallin, Nanbus)
       - Fractured Shard (Nuttann, Gallin, Nanbus)
       - Grand Advisor Zum'uul (Gallin, Nanbus)
@@ -159,15 +156,15 @@
       - Fiery Essence (Gallin, Nanbus)
       - Sarnak Foot (Gallin, Nanbus)
       - Scorched Rune (Gallin, Nanbus)
-      - Slump Stalker (Nuttann, Gallin, Nanbus)
+      - Slump Stalker (Gallin, Nanbus)
     - Unearthing the Sky (The Scorched Woods)
       - Broken Mirror (Left) (Nanbus)
     - Big Time (The Scorched Woods)
-      - TODO
+      - TODO (Gallin, Nanbus)
     - Natural Treasure (Frontier Mountains)
-      - TODO
+      - TODO (Gallin, Nanbus)
     - Drinking Solutions (Frontier Mountains)
-      - TODO
+      - TODO (Gallin, Nanbus)
     - Regal Graverobbing (Frontier Mountains)
       - Burynai Burial Regalia (Caza) (Gallin, Nanbus)
       - Burynai Burial Regalia (Dena) (Nanbus)
@@ -184,11 +181,9 @@
     - Jailor's Health (Chardok)
       - TODO
     - Brutal Accoaldes (Chardok)
-      - TODO
+      - TODO (Gallin, Nanbus)
     - Torturer's Tools (Chardok)
-      - TODO
-    - Alchemist's Reagents (Chardok)
-      - TODO
+      - TODO (Gallin, Nanbus)
     - Lesser Things (Gates of Kor-Sha)
       - Suspect Substance (Nanbus)
       - Lucky Tooth (Nanbus)
@@ -207,7 +202,4 @@
       - Visit Veeshan's Peak (Gallin / Nanbus)
   - Hunter
     - TODO
-  - Collections
-    - Dragonkin Scales (Veeshan's Peak)
-      - Flame Wurm Scale (Gallin)
       
