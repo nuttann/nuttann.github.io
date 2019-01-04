@@ -11,7 +11,6 @@
     - Hunter of Kedge Keep
       - a ferocious hammerhead
       - a frenzied cauldron shark
-      - Shellara Ebbhunter
     - Hunter of The Lavastorm Mountains
       - Tisella
       - a lesser nightmare
@@ -160,26 +159,45 @@
     - Unearthing the Sky (The Scorched Woods)
       - Broken Mirror (Left) (Nanbus)
     - Big Time (The Scorched Woods)
-      - TODO (Gallin, Nanbus)
+      - Oversized Throwing Hamer (Nanbus)
+      - Oversized Greataxe (Gallin, Nanbus)
+      - Oversized Fist Spikes (Gallin, Nanbus)
+      - Oversized Pickaxe (Gallin, Nanbus)
+      - Oversized Shovel (Nanbus)
+      - Oversized Greatsword (Nanbus)
+      - Oversized Horn (Nanbus)
     - Natural Treasure (Frontier Mountains)
-      - TODO (Gallin, Nanbus)
+      - Rock Flutter (Gallin, Nanbus)
+      - Mountain Seashell (Gallin, Nanbus)
     - Drinking Solutions (Frontier Mountains)
-      - TODO (Gallin, Nanbus)
+      - Giant Absinthe (Nanbus)
     - Regal Graverobbing (Frontier Mountains)
       - Burynai Burial Regalia (Caza) (Gallin, Nanbus)
-      - Burynai Burial Regalia (Dena) (Nanbus)
       - Burynai Burial Regalia (Gaza) (Gallin)
       - Burynai Burial Regalia (Heda) (Nanbus)
     - Taken Tokens (The Temple of Droga)
-      - TODO
+      - Token of Droga: The Blade (Nuttann, Nanbus, Gallin)
+      - Token of Droga: Death (Nanbus)
+      - Token of Droga: Protection (Nanbus, Gallin)
+      - Token of Droga: Tears (Nuttann, Nanbus, Gallin)
+      - Sign of Droga (Nanbus, Gallin)
     - Mountain Death Trinkets (The Temple of Droga)
-      - TODO
+      - Book of Goblin Poems (Nanbus, Gallin)
+      - Roughly Carved Bone Skull (Nanbus, Gallin)
+      - Pressed Flower (Gallin)
+      - Dirty Child's Doll (Nanbus)
+      - Bone Dice (Nanbus, Gallin)
     - Memories of Nurga (The Temple of Droga)
-      - TODO
+      - Broken Cart Wheel (Nanbus)
     - Stinkin' Badges (The Temple of Droga)
-      - TODO
+      - Bronze Badge of Death (Nanbus)
+      - Silver Badge of Death (Nanbus)
+      - Golden Badge of Death (Nanbus)
+      - Blue Badge of Death (Nanbus, Gallin)
+      - Clenched Fist of Death (Nanbus)
     - Jailor's Health (Chardok)
-      - TODO
+      - Sarnak Swill (Nuttann)
+      - TODO (Gallin, Nanbus)
     - Brutal Accoaldes (Chardok)
       - TODO (Gallin, Nanbus)
     - Torturer's Tools (Chardok)
