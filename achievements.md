@@ -207,7 +207,7 @@
       - Lucky Tooth (Nanbus)
       - Failed Achemical Experiment (Nanbus)
       - Condensed Toxic Vaport (Nanbus)
-      - Pickled Eyeball (Nuttann, Gallin, Nanbus)
+      - Pickled Eyeball (Gallin, Nanbus)
     - Laboratory Labors (Kor-Sha Laboratory)
       - TODO
     - Atrebe's Study (Kor-Sha Laboratory)
