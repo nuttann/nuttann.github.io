@@ -9,7 +9,6 @@
       - GoldenTalon
       - Jerg Oakenfist
     - Hunter of Kedge Keep
-      - a ferocious hammerhead
       - a frenzied cauldron shark
     - Hunter of The Lavastorm Mountains
       - Tisella
@@ -209,9 +208,11 @@
       - Condensed Toxic Vaport (Nanbus)
       - Pickled Eyeball (Gallin, Nanbus)
     - Laboratory Labors (Kor-Sha Laboratory)
-      - TODO
+      - Minature Draconic Model (Nuttann)
+      - TODO (Gallin, Nanbus)
     - Atrebe's Study (Kor-Sha Laboratory)
-      - TODO
+      - Planar Coordinates - Hate (Nuttann)
+      - TODO (Gallin, Nanbus)
     - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (Nanbus)
 - Ring of Scale
