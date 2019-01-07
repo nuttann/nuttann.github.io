@@ -7,8 +7,6 @@
       - MOST
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
-    - Hunter of Kedge Keep
-      - a frenzied cauldron shark
     - Hunter of The Lavastorm Mountains
       - Tisella
       - a lesser nightmare
@@ -29,7 +27,6 @@
     - Hunter of The Ruins of Old Guk
       - MOST (Gallin)
     - Hunter of Solusek's Eye
-      - goblin high shaman
       - Singe
     - Hunter of The Southern Plains of Karana
       - Grizzleknot
