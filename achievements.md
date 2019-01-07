@@ -30,9 +30,7 @@
       - MOST (Gallin)
     - Hunter of Solusek's Eye
       - goblin high shaman
-      - inferno goblin torturer
       - Singe
-      - Solusek goblin king
     - Hunter of The Southern Plains of Karana
       - Grizzleknot
       - Knarl Morawk
