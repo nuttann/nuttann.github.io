@@ -6,7 +6,6 @@
     - Hunter of Accursed Temple of Cazic-Thule
       - MOST
     - Hunter of Jaggedpine Forest
-      - GoldenTalon
       - Jerg Oakenfist
     - Hunter of Kedge Keep
       - a frenzied cauldron shark
