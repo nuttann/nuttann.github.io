@@ -26,8 +26,6 @@
       - Petrifin
     - Hunter of The Ruins of Old Guk
       - MOST (Gallin)
-    - Hunter of Solusek's Eye
-      - Singe
     - Hunter of The Southern Plains of Karana
       - Grizzleknot
       - Knarl Morawk
@@ -44,7 +42,9 @@
       - ALL (Gallin, Nanbus)
 - Lost Dungeons of Norrath
   - Hunter
-    - SOME IN MISTMOORE
+    - 2 mobs across 10 instances of Mistmoore theme
+      - Scion Bone Binder
+      - Scion Harlet
     - Hunter of Arena of Chance (Rujarkian Hills)
       - Famished Hound
 
