@@ -85,9 +85,7 @@
       - Slitherblade (Nuttann, Gallin, Nanbus)
       - Tithnak Shadowhunter (Nuttann, Gallin, Nanbus)
     - Hunter of The Scorched Woods
-      - Carpenter Adomnan (Nuttann, Gallin, Nanbus)
       - Searstinger (Gallin, Nanbus)
-      - Sovarak Klyseer (Nuttann, Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Black Spot (Nuttann, Gallin, Nanbus)
       - Blood of Droga (Nuttann, Gallin, Nanbus)
