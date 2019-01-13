@@ -42,8 +42,7 @@
       - ALL (Gallin, Nanbus)
 - Lost Dungeons of Norrath
   - Hunter
-    - 2 mobs across 10 instances of Mistmoore theme
-      - Scion Bone Binder
+    - All but Chambers of Eternal Affliction
       - Scion Harlet
     - Hunter of Arena of Chance (Rujarkian Hills)
       - Famished Hound
