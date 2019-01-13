@@ -42,8 +42,6 @@
       - ALL (Gallin, Nanbus)
 - Lost Dungeons of Norrath
   - Hunter
-    - All but Chambers of Eternal Affliction
-      - Scion Harlet
     - Hunter of Arena of Chance (Rujarkian Hills)
       - Famished Hound
 
