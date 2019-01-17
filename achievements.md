@@ -4,7 +4,25 @@
 - Everquest
   - Hunter
     - Hunter of Accursed Temple of Cazic-Thule
-      - MOST
+      - a barbed scale piranha
+      - a crystalline mass
+      - a disciple of Thule
+      - a diseased mosquito
+      - Dismay
+      - a frenzied shiverback
+      - a gelatinous mass
+      - a gyrating mass
+      - a razor tooth piranha
+      - Soul Siphon
+      - a swirling black mass
+      - a swirling green mass
+      - a Tae Ew hunter
+      - a Tae Ew spear fisher
+      - a Tae Ew warmaster
+      - a Thul Tae Ew despoiler
+      - a Thul Tae Ew ritualist
+      - a Thul Tae Ew spirit caller
+      - a virulent mosquito
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
     - Hunter of The Lavastorm Mountains
