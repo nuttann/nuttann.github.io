@@ -15,7 +15,6 @@
       - a swirling black mass
       - a Tae Ew hunter
       - a Tae Ew warmaster
-      - a Thul Tae Ew despoiler
       - a virulent mosquito
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
