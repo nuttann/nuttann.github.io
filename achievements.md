@@ -18,7 +18,6 @@
       - a Tae Ew spear fisher
       - a Tae Ew warmaster
       - a Thul Tae Ew despoiler
-      - a Thul Tae Ew spirit caller
       - a virulent mosquito
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
