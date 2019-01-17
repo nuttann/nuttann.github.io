@@ -6,7 +6,6 @@
     - Hunter of Accursed Temple of Cazic-Thule
       - a barbed scale piranha
       - a crystalline mass
-      - a disciple of Thule
       - a diseased mosquito
       - Dismay
       - a frenzied shiverback
