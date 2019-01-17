@@ -15,7 +15,6 @@
       - a razor tooth piranha
       - Soul Siphon
       - a swirling black mass
-      - a swirling green mass
       - a Tae Ew hunter
       - a Tae Ew spear fisher
       - a Tae Ew warmaster
