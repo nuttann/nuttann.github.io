@@ -8,9 +8,7 @@
       - Dismay
       - a razor tooth piranha
       - Soul Siphon
-      - a swirling black mass
       - a Tae Ew warmaster
-      - a virulent mosquito
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
     - Hunter of The Lavastorm Mountains
