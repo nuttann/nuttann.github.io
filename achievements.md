@@ -5,7 +5,6 @@
   - Hunter
     - Hunter of Accursed Temple of Cazic-Thule
       - a barbed scale piranha
-      - a crystalline mass
       - a diseased mosquito
       - Dismay
       - a razor tooth piranha
