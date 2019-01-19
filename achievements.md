@@ -28,7 +28,6 @@
       - MOST (Gallin)
     - Hunter of The Southern Plains of Karana
       - Grizzleknot
-      - Knarl Morawk
       - Mroon
       - Synger Foxfyre
       - Tesch Val Deval'Nmak *
