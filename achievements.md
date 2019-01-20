@@ -16,8 +16,6 @@
       - Grimtooth
       - Korvik the Cursed
       - Lieutenant Midraim
-    - Hunter of The Ocean of Tears
-      - Mojo the Tainted
     - Hunter of The Rathe Mountains
       - Mortifactor Syythrak
       - Oculys Ogrefiend
