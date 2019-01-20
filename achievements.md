@@ -4,8 +4,7 @@
 - Everquest
   - Hunter
     - Hunter of Accursed Temple of Cazic-Thule
-      - Dismay
-      - a Tae Ew warmaster
+      - Dismay (Nanbus, Gallin)
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
     - Hunter of The Lavastorm Mountains
