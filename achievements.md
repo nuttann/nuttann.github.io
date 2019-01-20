@@ -5,7 +5,6 @@
   - Hunter
     - Hunter of Accursed Temple of Cazic-Thule
       - Dismay
-      - a razor tooth piranha
       - a Tae Ew warmaster
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
