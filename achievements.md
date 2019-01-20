@@ -3,8 +3,6 @@
 ## Still needed achievements
 - Everquest
   - Hunter
-    - Hunter of Accursed Temple of Cazic-Thule
-      - Dismay (Nanbus, Gallin)
     - Hunter of Jaggedpine Forest
       - Jerg Oakenfist
     - Hunter of The Lavastorm Mountains
