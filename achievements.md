@@ -24,7 +24,6 @@
       - Grizzleknot
       - Mroon
       - Synger Foxfyre
-      - Tesch Val Deval'Nmak *
 - Kunark
   - Hunter
     - Hunter of the Field of Bones
