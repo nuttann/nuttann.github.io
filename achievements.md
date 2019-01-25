@@ -22,7 +22,6 @@
       - MOST (Gallin)
     - Hunter of The Southern Plains of Karana
       - Mroon
-      - Synger Foxfyre
 - Kunark
   - Hunter
     - Hunter of the Field of Bones
