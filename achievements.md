@@ -21,7 +21,6 @@
     - Hunter of The Ruins of Old Guk
       - MOST (Gallin)
     - Hunter of The Southern Plains of Karana
-      - Grizzleknot
       - Mroon
       - Synger Foxfyre
 - Kunark
