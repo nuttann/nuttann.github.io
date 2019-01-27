@@ -13,7 +13,6 @@
     - Hunter of The Northern Plains of Karana
       - Grimtooth
       - Korvik the Cursed
-      - Lieutenant Midraim
     - Hunter of The Rathe Mountains
       - Mortifactor Syythrak
       - Oculys Ogrefiend
