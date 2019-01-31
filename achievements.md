@@ -19,8 +19,6 @@
       - Petrifin
     - Hunter of The Ruins of Old Guk
       - MOST (Gallin)
-    - Hunter of The Southern Plains of Karana
-      - Mroon
 - Kunark
   - Hunter
     - Hunter of the Field of Bones
