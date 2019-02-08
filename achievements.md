@@ -61,10 +61,8 @@
 - Empires of Kunark
   - Hunter
     - Hunter of Lceanium
-      - A Drolvarg Lord (Nuttann, Gallin, Nanbus)
-      - Nightvenom (Nuttann, Gallin, Nanbus)
-      - Slitherblade (Nuttann, Gallin, Nanbus)
-      - Tithnak Shadowhunter (Nuttann, Gallin, Nanbus)
+      - Slitherblade (Gallin, Nanbus)
+      - Tithnak Shadowhunter (Gallin, Nanbus)
     - Hunter of The Scorched Woods
       - Searstinger (Gallin, Nanbus)
     - Hunter of The Temple of Droga
@@ -133,11 +131,7 @@
     - Natural Treasure (Frontier Mountains)
       - Rock Flutter (Gallin, Nanbus)
       - Mountain Seashell (Gallin, Nanbus)
-    - Drinking Solutions (Frontier Mountains)
-      - Giant Absinthe (Nanbus)
     - Regal Graverobbing (Frontier Mountains)
-      - Burynai Burial Regalia (Caza) (Gallin)
-      - Burynai Burial Regalia (Gaza) (Gallin)
       - Burynai Burial Regalia (Heda) (Nanbus)
     - Taken Tokens (The Temple of Droga)
       - Token of Droga: The Blade (Gallin)
