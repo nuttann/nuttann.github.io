@@ -10,8 +10,6 @@
       - a lesser nightmare
     - Hunter of Lesser Faydark
       - Mina Glimerwing
-    - Hunter of The Northern Plains of Karana
-      - Korvik the Cursed
     - Hunter of The Rathe Mountains
       - Mortifactor Syythrak
       - Oculys Ogrefiend
