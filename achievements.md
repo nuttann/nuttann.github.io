@@ -64,8 +64,6 @@
       - Searstinger (Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Blood of Droga (Nuttann, Gallin, Nanbus)
-      - Cook Jexnaly (Nuttann, Gallin, Nanbus)
-      - Home Master Kazigl (Gallin)
       - Jailor Muxfan (Nuttann, Gallin, Nanbus)
       - Master Kizzxik (Gallin, Nanbus)
       - Merchant Triala (Goblin and Fools) (Nuttann, Gallin, Nanbus)
