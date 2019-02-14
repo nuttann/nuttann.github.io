@@ -64,7 +64,6 @@
       - Searstinger (Gallin, Nanbus)
     - Hunter of The Temple of Droga
       - Blood of Droga (Nuttann, Gallin, Nanbus)
-      - Jailor Muxfan (Nuttann, Gallin, Nanbus)
       - Master Kizzxik (Gallin, Nanbus)
       - Merchant Triala (Goblin and Fools) (Nuttann, Gallin, Nanbus)
       - Most Devout Sentry (Nuttann, Gallin, Nanbus)
@@ -90,7 +89,6 @@
       - Watch Captain Hir'roul (Gallin, Nanbus)
     - Hunter of Kor-Sha Laboratory
       - Bonescale (Nuttann, Gallin, Nanbus)
-      - Cutter (Nuttann, Gallin, Nanbus)
       - Deathgazer (Nuttann, Gallin, Nanbus)
       - Firedowser Uglabarg (Nuttann, Gallin, Nanbus)
       - Giant Fink (Nuttann, Gallin, Nanbus)
@@ -124,7 +122,6 @@
       - Mountain Seashell (Gallin, Nanbus)
     - Taken Tokens (The Temple of Droga)
       - Token of Droga: Tears (Gallin)
-      - Sign of Droga (Nanbus, Gallin)
     - Stinkin' Badges (The Temple of Droga)
       - Silver Badge of Death (Nanbus)
       - Golden Badge of Death (Nanbus)
