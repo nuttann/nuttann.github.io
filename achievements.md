@@ -119,7 +119,7 @@
     - Taken Tokens (The Temple of Droga)
       - Token of Droga: Tears (Gallin)
     - Jailor's Halls (Chardok)
-      - Tattered Prisoner's Leg (Gallin, Nanbus)
+      - Tattered Prisoner's Leg (Gallin)
       - Chokidal Feed (Gallin)
       - Sarnak Swill (Gallin, Nanbus)
       - Masterwork Shackle Key (Gallin, Nanbus)
