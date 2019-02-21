@@ -66,7 +66,6 @@
       - Blood of Droga (Nuttann, Gallin, Nanbus)
       - Most Devout Sentry (Nuttann, Gallin, Nanbus)
       - Spirit Master Wigaue (Nuttann, Gallin, Nanbus)
-      - Spiritwatcher Scrolhallow (Nuttann, Gallin, Nanbus)
     - Hunter of Chardok
       - Battle Master Ska'tu (Nuttann, Gallin, Nanbus)
       - Crackjaw (Nuttann, Gallin, Nanbus)
@@ -116,8 +115,6 @@
     - Natural Treasure (Frontier Mountains)
       - Rock Flutter (Gallin, Nanbus)
       - Mountain Seashell (Gallin, Nanbus)
-    - Taken Tokens (The Temple of Droga)
-      - Token of Droga: Tears (Gallin)
     - Jailor's Halls (Chardok)
       - Tattered Prisoner's Leg (Gallin)
       - Chokidal Feed (Gallin)
