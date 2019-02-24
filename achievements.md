@@ -62,10 +62,6 @@
       - Tithnak Shadowhunter (Gallin, Nanbus)
     - Hunter of The Scorched Woods
       - Searstinger (Gallin, Nanbus)
-    - Hunter of The Temple of Droga
-      - Blood of Droga (Nuttann, Gallin, Nanbus)
-      - Most Devout Sentry (Nuttann, Gallin, Nanbus)
-      - Spirit Master Wigaue (Nuttann, Gallin, Nanbus)
     - Hunter of Chardok
       - Crackjaw (Nuttann, Gallin, Nanbus)
       - Flight Master Hak'ouz (Nuttann, Gallin, Nanbus)
@@ -73,9 +69,8 @@
       - Grand Herbalist Mak'ha (Nuttann, Gallin, Nanbus)
       - Kennel Master Al'ele (Nuttann, Gallin, Nanbus)
       - Observer Aq'touz (Nuttann, Gallin, Nanbus)
-      - Queen Velazul's Aide (Nuttann, Gallin, Nanbus)
       - Royal Guuard Kakator (On Behest of the Emperor) (Nuttann, Gallin, Nanbus)
-      - Selrach's Regent (Nuttann, Gallin, Nanbus)
+      - Selrach's Regent (Nuttann)
       - The Sokokar Matron (Nuttann, Gallin, Nanbus)
       - Watch Captain Hir'roul (Gallin, Nanbus)
     - Hunter of Kor-Sha Laboratory
@@ -117,10 +112,7 @@
       - Sarnak Swill (Gallin, Nanbus)
       - Masterwork Shackle Key (Gallin, Nanbus)
     - Brutal Accoaldes (Chardok)
-      - Brut's Accolade (Gallin)
-      - Oppressor's Accolade (Gallin)
       - Slayer's Accolade (Nanbus)
-      - Chardok Butcher's Badgs (Gallin)
     - Torturer's Tools (Chardok)
       - Despot's Brandisher (Gallin, Nanbus)
       - Master's Mercy (Gallin, Nanbus)
