@@ -14,8 +14,6 @@
       - Mortifactor Syythrak
       - Oculys Ogrefiend
       - Petrifin
-    - Hunter of The Ruins of Old Guk
-      - MOST (Gallin)
 - Kunark
   - Hunter
     - Hunter of the Field of Bones
