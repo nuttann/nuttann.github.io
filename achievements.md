@@ -63,11 +63,9 @@
     - Hunter of Kor-Sha Laboratory
       - Bonescale (Nuttann, Gallin, Nanbus)
       - Deathgazer (Nuttann, Gallin, Nanbus)
-      - Giant Fink (Nuttann, Gallin, Nanbus)
       - Kar'Zok Overlord (Nuttann, Gallin, Nanbus)
       - Ohara Klyseer (Nuttann, Gallin, Nanbus)
       - Overlord Draigan (Nuttann, Gallin, Nanbus)
-      - Screaming Tormentor (Nuttann, Gallin, Nanbus)
       - Sepulchar Curator (Nuttann, Gallin, Nanbus)
       - Stonespiked Guardian (Nuttann, Gallin, Nanbus)
       - Vakazon Viz'Daron (Nuttann, Gallin, Nanbus)
@@ -122,7 +120,55 @@
 - Ring of Scale
   - Exploration
     - Veeshan's Peak Traveler
-      - Visit Veeshan's Peak (Gallin / Nanbus)
+      - Visit Veeshan's Peak (Gallin, Nanbus)
   - Hunter
-    - TODO
-      
+    - The Overthere
+      - Banshee (Nanbus, Gallin)
+      - Drakis (Nanbus, Gallin)
+      - Fang (Nanbus, Gallin)
+      - an iron sentinel (Nanbus, Gallin)
+      - a Kar'Zok lacerator (Nanbus, Gallin)
+      - Myrmidon Tundak (Nanbus, Gallin)
+      - Observer Eyzelkla (Nanbus, Gallin)
+      - Saber (Nanbus, Gallin)
+      - Acron Thrumaturge Oselkik (Nanbus, Gallin) *
+    - The Skyfire Mountains
+      - an Arcron researcher (Nanbus, Gallin)
+      - Chirugeon Hemofax (Nanbus, Gallin)
+      - Dragonflux (Nanbus, Gallin)
+      - a feverish marauder (Nanbus, Gallin)
+      - Mawmun (Nanbus, Gallin)
+      - Old Raspy (Nuttann, Nanbus, Gallin)
+      - a rabid reveler (Nuttann, Nanbus, Gallin)
+      - Rinwech the Fink (Nuttann, Nanbus, Gallin)
+      - a scree-borne magmite (Nuttann, Nanbus, Gallin)
+      - Shardstubble (Nanbus, Gallin)
+      - Skrizix (Nuttann, Nanbus, Gallin)
+      - a supercharged tyro (Nanbus, Gallin)
+      - The Crimson Sentinel (Nanbus, Gallin)
+      - The Gatekeeper (Nanbus, Gallin)
+      - Ash Guardian Tolemak (Nanbus, Gallin) *
+      - Radiant Overseer Triluan (Nanbus, Gallin) *
+    - The Howling Stones
+      - Deka the Reaper (Nuttann, Nanbus, Gallin)
+      - Embalming Goo (Nuttann, Nanbus, Gallin)
+      - General V'Deers, the Arisen (Nanbus, Gallin)
+      - Nureya Arisen (Nanbus, Gallin)
+      - Shandral Arisen (Nuttann, Nanbus, Gallin)
+      - The Arisen Dragoon T'Vem (Nuttann, Nanbus, Gallin)
+      - The Underlord (Nuttann, Nanbus, Gallin)
+      - Tormented Adalora (Nuttann, Nanbus, Gallin)
+    - Gorowyn
+      - Artikla, Fereth Despot (Nuttann, Nanbus, Gallin)
+      - Elkikatar (Nuttann, Nanbus, Gallin)
+      - Gnaw (Nanbus, Gallin)
+      - High Arcron Zeklor (Nanbus, Gallin)
+      - Hisslith, the Brittlebones (Nuttann, Nanbus, Gallin)
+      - Overlord Klerkon (Nuttann, Nanbus, Gallin)
+      - Overlord Teralov (Nanbus, Gallin)
+      - The Magmalisk (Nanbus, Gallin)
+      - Wulthan High Inquisitor Kraz (Nuttann, Nanbus, Gallin)
+      - Wulthan Elder Priest Ovun (Nanbus, Gallin) *
+    - Veeshan's Peak
+      - Blood-Thirsty Racnar (Nuttann, Nanbus, Gallin)
+      - Magma Basilisk (Nanbus, Gallin)
