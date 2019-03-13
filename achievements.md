@@ -57,8 +57,6 @@
   - Hunter
     - Hunter of Lceanium
       - Slitherblade (Gallin, Nanbus)
-    - Hunter of The Scorched Woods
-      - Searstinger (Gallin, Nanbus)
     - Hunter of Kor-Sha Laboratory
       - Bonescale (Nuttann, Gallin, Nanbus)
       - Deathgazer (Nuttann, Gallin, Nanbus)
