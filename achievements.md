@@ -57,7 +57,6 @@
   - Hunter
     - Hunter of Lceanium
       - Slitherblade (Gallin, Nanbus)
-      - Tithnak Shadowhunter (Gallin, Nanbus)
     - Hunter of The Scorched Woods
       - Searstinger (Gallin, Nanbus)
     - Hunter of Kor-Sha Laboratory
