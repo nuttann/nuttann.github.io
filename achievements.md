@@ -94,8 +94,6 @@
     - Lesser Things (Gates of Kor-Sha)
       - Failed Achemical Experiment (Nanbus)
       - Pickled Eyeball (Gallin, Nanbus)
-    - Atrebe's Study (Kor-Sha Laboratory)
-      - Planar Coordinates: Fear (Nanbus)
     - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (Nanbus)
 - Ring of Scale
