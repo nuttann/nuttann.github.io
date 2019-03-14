@@ -60,7 +60,6 @@
     - Hunter of Kor-Sha Laboratory
       - Bonescale (Nuttann, Gallin, Nanbus)
       - Deathgazer (Nuttann, Gallin, Nanbus)
-      - Overlord Draigan (Nuttann, Gallin, Nanbus)
   - Collections
     - When the Stars Fell (The Scorched Woods)
       - Daubed Mud (Gallin)
@@ -95,11 +94,8 @@
     - Lesser Things (Gates of Kor-Sha)
       - Failed Achemical Experiment (Nanbus)
       - Pickled Eyeball (Gallin, Nanbus)
-    - Laboratory Labors (Kor-Sha Laboratory)
-      - Sokokar Biomagical Diagram (Gallin)
-      - Phase-burnt Stasis Runes (Gallin)
     - Atrebe's Study (Kor-Sha Laboratory)
-      - Planar Coordinates: Fear (Gallin, Nanbus)
+      - Planar Coordinates: Fear (Nanbus)
     - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (Nanbus)
 - Ring of Scale
