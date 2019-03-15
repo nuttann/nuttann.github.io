@@ -54,12 +54,6 @@
       - Massive Jaw Bone (Gallin, Nanbus)
       - Blacked Heart (Gallin)
 - Empires of Kunark
-  - Hunter
-    - Hunter of Lceanium
-      - Slitherblade (Gallin, Nanbus)
-    - Hunter of Kor-Sha Laboratory
-      - Bonescale (Nuttann, Gallin, Nanbus)
-      - Deathgazer (Nuttann, Gallin, Nanbus)
   - Collections
     - When the Stars Fell (The Scorched Woods)
       - Daubed Mud (Gallin)
@@ -79,7 +73,7 @@
       - Oversized Horn (Nanbus)
     - Natural Treasure (Frontier Mountains)
       - Rock Flutter (Gallin, Nanbus)
-      - Mountain Seashell (Gallin, Nanbus)
+      - Mountain Seashell (Gallin)
     - Jailor's Halls (Chardok)
       - Sarnak Swill (Gallin, Nanbus)
       - Masterwork Shackle Key (Gallin, Nanbus)
@@ -88,7 +82,6 @@
     - Torturer's Tools (Chardok)
       - Despot's Brandisher (Gallin, Nanbus)
       - Master's Mercy (Gallin, Nanbus)
-      - Punctual Interrogator (Nanbus)
       - Primitive Interrogator (Nanbus)
       - Festering Crowd-pleaser (Gallin, Nanbus)
     - Lesser Things (Gates of Kor-Sha)
