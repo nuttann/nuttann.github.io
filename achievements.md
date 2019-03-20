@@ -1,100 +1,11 @@
 # Achievements for Nuttann / Gallin / Nanbus
 
-## Still needed achievements
-- Everquest
-  - Hunter
-    - Hunter of Jaggedpine Forest
-      - Jerg Oakenfist
-    - Hunter of The Lavastorm Mountains
-      - Tisella
-      - a lesser nightmare
-    - Hunter of Lesser Faydark
-      - Mina Glimerwing
-    - Hunter of The Rathe Mountains
-      - Mortifactor Syythrak
-      - Oculys Ogrefiend
-      - Petrifin
-- Kunark
-  - Hunter
-    - Hunter of the Field of Bones
-      - Carrion Queen
-- Planes of Power
-  - Hunter
-    - Hunter of The Plane of War
-      - ALL (Gallin, Nanbus)
-- Lost Dungeons of Norrath
-  - Hunter
-    - Hunter of Arena of Chance (Rujarkian Hills)
-      - Famished Hound
-
-- Rain of Fear
-  - Collections
-    - Stalking Fear (Nanbus - Doesn't own collector's edition)
-    - Dark Secrets
-      - Forgotten Shissar (Gallin/Nanbus)
-- The Broken Mirror
-  - Hunter
-    - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
-      - All
-    - Hunter of the Plane of Fear: Broken Mirror (Gallin, Nanbus)
-      - All
-    - Hunter of the Plane of Health
-      - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)
-    - Hunter of the Sul Vius: Demiplane of Life
-      - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
-      - Render (The Handmaiden) (Gallin, Nanbus)
-    - Hunter of the Crypt of Decay
-      - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
-  - Collections
-    - Ruins of Decay (Plane of Health) {HA}
-      - Rusted Claymore of Decay (Gallin, Nanbus)
-    - An Ounce of Fetid Flesh (Crypt of Sul)
-      - Eye of a Fiend (Gallin, Nanbus)
-      - Patch of Matted Hair (Gallin, Nanbus)
-      - Massive Jaw Bone (Gallin, Nanbus)
-      - Blacked Heart (Gallin)
-- Empires of Kunark
-  - Collections
-    - When the Stars Fell (The Scorched Woods)
-      - Daubed Mud (Gallin)
-      - Unnaturally Robust Foliage (Gallin, Nanbus)
-      - Fiery Essence (Gallin, Nanbus)
-      - Sarnak Foot (Gallin, Nanbus)
-      - Scorched Rune (Gallin, Nanbus)
-      - Slump Stalker (Gallin, Nanbus)
-    - Unearthing the Sky (The Scorched Woods)
-      - Broken Mirror (Left) (Nanbus)
-    - Big Time (The Scorched Woods)
-      - Oversized Throwing Hamer (Nanbus)
-      - Oversized Greataxe (Gallin)
-      - Oversized Fist Spikes (Gallin, Nanbus)
-      - Oversized Pickaxe (Gallin, Nanbus)
-      - Oversized Greatsword (Nanbus)
-      - Oversized Horn (Nanbus)
-    - Natural Treasure (Frontier Mountains)
-      - Rock Flutter (Gallin, Nanbus)
-      - Mountain Seashell (Gallin)
-    - Jailor's Halls (Chardok)
-      - Sarnak Swill (Gallin, Nanbus)
-      - Masterwork Shackle Key (Gallin, Nanbus)
-    - Brutal Accoaldes (Chardok)
-      - Slayer's Accolade (Nanbus)
-    - Torturer's Tools (Chardok)
-      - Despot's Brandisher (Gallin, Nanbus)
-      - Master's Mercy (Gallin, Nanbus)
-      - Primitive Interrogator (Nanbus)
-      - Festering Crowd-pleaser (Gallin, Nanbus)
-    - Lesser Things (Gates of Kor-Sha)
-      - Failed Achemical Experiment (Nanbus)
-      - Pickled Eyeball (Gallin, Nanbus)
-    - Korshessence (Kor-Sha Laboratory)
-      - Crackling Korshessence (Nanbus)
+## Recent expansions RoS through RoF
 - Ring of Scale
   - Exploration
-    - Veeshan's Peak Traveler
-      - Visit Veeshan's Peak (Gallin, Nanbus)
+    - Veeshan's Peak Traveler (Nanbus, Gallin)
   - Hunter
-    - The Overthere
+    - The Overthere (Nanbus, Gallin)
       - Banshee (Nanbus, Gallin)
       - Drakis (Nanbus, Gallin)
       - Fang (Nanbus, Gallin)
@@ -104,7 +15,7 @@
       - Observer Eyzelkla (Nanbus, Gallin)
       - Saber (Nanbus, Gallin)
       - Acron Thrumaturge Oselkik (Nanbus, Gallin) *
-    - The Skyfire Mountains
+    - The Skyfire Mountains (Nuttann, Nanbus, Gallin)
       - an Arcron researcher (Nanbus, Gallin)
       - Chirugeon Hemofax (Nanbus, Gallin)
       - Dragonflux (Nanbus, Gallin)
@@ -121,7 +32,7 @@
       - The Gatekeeper (Nanbus, Gallin)
       - Ash Guardian Tolemak (Nanbus, Gallin) *
       - Radiant Overseer Triluan (Nanbus, Gallin) *
-    - The Howling Stones
+    - The Howling Stones (Nuttann, Nanbus, Gallin)
       - Deka the Reaper (Nuttann, Nanbus, Gallin)
       - Embalming Goo (Nuttann, Nanbus, Gallin)
       - General V'Deers, the Arisen (Nanbus, Gallin)
@@ -130,7 +41,7 @@
       - The Arisen Dragoon T'Vem (Nuttann, Nanbus, Gallin)
       - The Underlord (Nuttann, Nanbus, Gallin)
       - Tormented Adalora (Nuttann, Nanbus, Gallin)
-    - Gorowyn
+    - Gorowyn (Nuttann, Nanbus, Gallin)
       - Artikla, Fereth Despot (Nuttann, Nanbus, Gallin)
       - Elkikatar (Nuttann, Nanbus, Gallin)
       - Gnaw (Nanbus, Gallin)
@@ -141,6 +52,94 @@
       - The Magmalisk (Nanbus, Gallin)
       - Wulthan High Inquisitor Kraz (Nuttann, Nanbus, Gallin)
       - Wulthan Elder Priest Ovun (Nanbus, Gallin) *
-    - Veeshan's Peak
+    - Veeshan's Peak (Nuttann, Nanbus, Gallin)
       - Blood-Thirsty Racnar (Nuttann, Nanbus, Gallin)
       - Magma Basilisk (Nanbus, Gallin)
+- Empires of Kunark
+  - Collections
+    - When the Stars Fell (The Scorched Woods) (Nanbus, Gallin)
+      - Daubed Mud (Gallin)
+      - Unnaturally Robust Foliage (Gallin, Nanbus)
+      - Fiery Essence (Gallin, Nanbus)
+      - Sarnak Foot (Gallin, Nanbus)
+      - Scorched Rune (Gallin, Nanbus)
+      - Slump Stalker (Gallin, Nanbus)
+    - Unearthing the Sky (The Scorched Woods) (Nanbus)
+      - Broken Mirror (Left) (Nanbus)
+    - Big Time (The Scorched Woods) (Nanbus, Gallin)
+      - Oversized Throwing Hamer (Nanbus)
+      - Oversized Greataxe (Gallin)
+      - Oversized Fist Spikes (Gallin, Nanbus)
+      - Oversized Pickaxe (Gallin, Nanbus)
+      - Oversized Greatsword (Nanbus)
+      - Oversized Horn (Nanbus)
+    - Natural Treasure (Frontier Mountains) (Nanbus, Gallin)
+      - Rock Flutter (Gallin, Nanbus)
+      - Mountain Seashell (Gallin)
+    - Jailor's Halls (Chardok) (Nanbus, Gallin)
+      - Sarnak Swill (Gallin, Nanbus)
+      - Masterwork Shackle Key (Gallin, Nanbus)
+    - Brutal Accoaldes (Chardok) (Nanbus)
+      - Slayer's Accolade (Nanbus)
+    - Torturer's Tools (Chardok) (Nanbus, Gallin)
+      - Despot's Brandisher (Gallin, Nanbus)
+      - Master's Mercy (Gallin, Nanbus)
+      - Primitive Interrogator (Nanbus)
+      - Festering Crowd-pleaser (Gallin, Nanbus)
+    - Lesser Things (Gates of Kor-Sha) (Nanbus, Gallin)
+      - Failed Achemical Experiment (Nanbus)
+      - Pickled Eyeball (Gallin, Nanbus)
+    - Korshessence (Kor-Sha Laboratory) (Nanbus)
+      - Crackling Korshessence (Nanbus)
+- The Broken Mirror
+  - Hunter
+    - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)
+      - All
+    - Hunter of the Plane of Fear: Broken Mirror (Gallin, Nanbus)
+      - All
+    - Hunter of the Plane of Health (Nuttann, Gallin, Nanbus)
+      - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)
+    - Hunter of the Sul Vius: Demiplane of Life (Nuttann, Gallin, Nanbus)
+      - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)
+      - Render (The Handmaiden) (Gallin, Nanbus)
+    - Hunter of the Crypt of Decay (Nuttann, Gallin, Nanbus)
+      - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)
+  - Collections
+    - Ruins of Decay (Plane of Health) {HA} (Gallin, Nanbus)
+      - Rusted Claymore of Decay (Gallin, Nanbus)
+    - An Ounce of Fetid Flesh (Crypt of Sul) (Gallin, Nanbus)
+      - Eye of a Fiend (Gallin, Nanbus)
+      - Patch of Matted Hair (Gallin, Nanbus)
+      - Massive Jaw Bone (Gallin, Nanbus)
+      - Blacked Heart (Gallin)
+- Rain of Fear
+  - Collections
+    - Dark Secrets
+      - Forgotten Shissar (Gallin/Nanbus)
+
+## Old-world stuff
+- Everquest
+  - Hunter
+    - Hunter of Jaggedpine Forest (Nuttann, Gallin, Nanbus)
+      - Jerg Oakenfist
+    - Hunter of The Lavastorm Mountains (Nuttann, Gallin, Nanbus)
+      - Tisella
+      - a lesser nightmare
+    - Hunter of Lesser Faydark (Nuttann, Gallin, Nanbus)
+      - Mina Glimerwing
+    - Hunter of The Rathe Mountains (Nuttann, Gallin, Nanbus)
+      - Mortifactor Syythrak
+      - Oculys Ogrefiend
+      - Petrifin
+- Kunark
+  - Hunter
+    - Hunter of the Field of Bones
+      - Carrion Queen
+- Planes of Power
+  - Hunter
+    - Hunter of The Plane of War
+      - ALL (Gallin, Nanbus)
+- Lost Dungeons of Norrath
+  - Hunter
+    - Hunter of Arena of Chance (Rujarkian Hills)
+      - Famished Hound
