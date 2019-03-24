@@ -55,6 +55,19 @@
     - Veeshan's Peak (Nuttann, Nanbus, Gallin)
       - Blood-Thirsty Racnar (Nuttann, Nanbus, Gallin)
       - Magma Basilisk (Nanbus, Gallin)
+  - VP Key (Nanbus, Gallin)
+    - Medallion of the Flamescale (random piece from Skyfire mission)
+      - Flamescale Overlord Takarious (The Overthere} - Left shard (Nanbus)
+      - Ash Guardian Tolemak (Skyfire) - Middle shard (Nanbus)
+      - Radiant Overseer Triluan (Skyfire) - Right shard (Nanbus)
+    - Medallion of Gorowyn (random piece from Gorowyn mission)
+      - Arcron Thaumaturge Osellik (The Overthere) - Left shard (Nanbus)
+      - Fereth Captain Ordran (Gorowyn) - Middle shard
+      - Wulthan Elder Priest Ovun (Gorowyn) - Right shard
+    - Medallion of the Arisen (random piece from Overthere mission)
+      - Arisen Mentor Sishallan (Howling Stones) - Middle shard (Nanbus)
+      - Ancient Apparition (Sathir's Tomb) - Right shard (Nanbus)
+    - Overking's Tooth (Skyfire mission) (Nanbus, Gallin)
 - Empires of Kunark
   - Collections
     - When the Stars Fell (The Scorched Woods) (Nanbus, Gallin)
@@ -76,9 +89,9 @@
     - Natural Treasure (Frontier Mountains) (Nanbus, Gallin)
       - Rock Flutter (Gallin, Nanbus)
       - Mountain Seashell (Gallin)
-    - Jailor's Halls (Chardok) (Nanbus, Gallin)
-      - Sarnak Swill (Gallin, Nanbus)
-      - Masterwork Shackle Key (Gallin, Nanbus)
+    - Jailor's Halls (Chardok) (Gallin)
+      - Sarnak Swill (Gallin)
+      - Masterwork Shackle Key (Gallin)
     - Brutal Accoaldes (Chardok) (Nanbus)
       - Slayer's Accolade (Nanbus)
     - Torturer's Tools (Chardok) (Nanbus, Gallin)
