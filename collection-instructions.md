@@ -49,6 +49,10 @@ From experience, it is much easier to keep track of where I am with this format.
 Don't state all that I have from quest A as I won't be looking the quest up and doing that work for you.
 </p></details>
 
+<details><summary>Make sure I had at least one of each item when you requested.</summary><p>
+It wastes time for me to check for an item that wasn't there when you checked.
+</p></details>
+
 <details><summary>Optional: List items in alphabetical order. (Your request will receive some preference.)</summary><p>
 The house is one HUGE list of hundred of items in alphabetical order.  If your list is in alphabetical order, it makes it easier to
 go scroll down through house exactly once.  Unfortuanately 'find item' doesn't work at this time. It does not show houses that I am
