@@ -56,16 +56,15 @@
       - Magma Basilisk (Nanbus, Gallin)
   - VP Key (Nanbus, Gallin)
     - Medallion of the Flamescale (random piece from Skyfire mission)
-      - Flamescale Overlord Takarious (The Overthere} - Left shard (Nanbus)
-      - Ash Guardian Tolemak (Skyfire) - Middle shard (Nanbus)
-      - Radiant Overseer Triluan (Skyfire) - Right shard (Nanbus)
+      - Flamescale Overlord Takarious (The Overthere} - Left shard (Nanbus, Gallin)
+      - Ash Guardian Tolemak (Skyfire) - Middle shard (Nanbus, Gallin)
+      - Radiant Overseer Triluan (Skyfire) - Right shard (Gallin)
     - Medallion of Gorowyn (random piece from Gorowyn mission)
-      - Arcron Thaumaturge Osellik (The Overthere) - Left shard (Nanbus)
-      - Fereth Captain Ordran (Gorowyn) - Middle shard
-      - Wulthan Elder Priest Ovun (Gorowyn) - Right shard
+      - Arcron Thaumaturge Osellik (The Overthere) - Left shard (Nanbus, Gallin)
+      - Fereth Captain Ordran (Gorowyn) - Middle shard (Gallin)
     - Medallion of the Arisen (random piece from Overthere mission)
-      - Arisen Mentor Sishallan (Howling Stones) - Middle shard (Nanbus)
-      - Ancient Apparition (Sathir's Tomb) - Right shard (Nanbus)
+      - Arisen Mentor Sishallan (Howling Stones) - Middle shard (Nanbus, Gallin)
+      - Ancient Apparition (Sathir's Tomb) - Right shard (Nanbus, Gallin)
     - Overking's Tooth (Skyfire mission) (Nanbus, Gallin)
 - Empires of Kunark
   - Collections
