@@ -64,7 +64,7 @@
     - Medallion of the Arisen (random piece from Overthere mission)
       - Arisen Mentor Sishallan (Howling Stones) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ancient Apparition (Sathir's Tomb) - Right shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Overking's Tooth (Skyfire mission)
+    - Overking's Tooth (Skyfire mission) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Empires of Kunark
   - Collections
     - When the Stars Fell (The Scorched Woods)
