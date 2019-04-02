@@ -53,7 +53,7 @@
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Medallion of the Flamescale (random piece from Skyfire mission)
-      - Flamescale Overlord Takarious (The Overthere) - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Flamescale Overlord Takarious (The Overthere) - Left shard (&#x1F4D9; Gallin)
       - Ash Guardian Tolemak (Skyfire) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Radiant Overseer Triluan (Skyfire) - Right shard (&#x1F4D9; Gallin)
     - Medallion of Gorowyn (random piece from Gorowyn mission)
