@@ -20,7 +20,6 @@
       - an Arcron researcher (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Dragonflux (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Mawmun (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Old Raspy (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a rabid reveler (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rinwech the Fink (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
