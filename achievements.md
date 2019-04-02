@@ -30,7 +30,6 @@
       - The Crimson Sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Gatekeeper (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ash Guardian Tolemak (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
-      - Radiant Overseer Triluan (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
     - The Howling Stones
       - Deka the Reaper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Embalming Goo (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
