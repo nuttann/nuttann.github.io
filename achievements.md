@@ -84,10 +84,10 @@
       - Oversized Pickaxe (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Horn (&#x1F4D8; Nanbus)
-    - Natural Treasure (Frontier Mountains) (Nanbus, Gallin)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Natural Treasure (Frontier Mountains) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rock Flutter (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Mountain Seashell (&#x1F4D9; Gallin)
-    - Jailor's Halls (Chardok) (Gallin)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Jailor's Halls (Chardok) (&#x1F4D9; Gallin)
       - Sarnak Swill (&#x1F4D9; Gallin)
       - Masterwork Shackle Key (&#x1F4D9; Gallin)
     - Brutal Accoaldes (Chardok) (&#x1F4D8; Nanbus)
@@ -101,28 +101,28 @@
       - Failed Achemical Experiment (&#x1F4D8; Nanbus)
       - Pickled Eyeball (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Korshessence (Kor-Sha Laboratory) (Nanbus)(&#x1F4D8; Nanbus)
-      - Crackling Korshessence (Nanbus)(&#x1F4D8; Nanbus)
+      - Crackling Korshessence (&#x1F4D8; Nanbus)
 - The Broken Mirror
   - Hunter
-    - Hunter of the Plane of Hate: Broken Mirror (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Plane of Hate: Broken Mirror (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - All
-    - Hunter of the Plane of Fear: Broken Mirror (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Plane of Fear: Broken Mirror (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - All
-    - Hunter of the Plane of Health (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Prepusterous (Defenders of the Faith) (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Sul Vius: Demiplane of Life (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Arsin the Blaze (Under the Robe) (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Render (The Handmaiden) (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Crypt of Decay (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Seraphina (Force the Forceful) (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Plane of Health (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Prepusterous (Defenders of the Faith) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Sul Vius: Demiplane of Life (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Arsin the Blaze (Under the Robe) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Render (The Handmaiden) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Crypt of Decay (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Seraphina (Force the Forceful) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
-    - Ruins of Decay (Plane of Health) {HA} (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rusted Claymore of Decay (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - An Ounce of Fetid Flesh (Crypt of Sul) (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Eye of a Fiend (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Patch of Matted Hair (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Massive Jaw Bone (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Blacked Heart (Gallin)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Ruins of Decay (Plane of Health) {HA} (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - An Ounce of Fetid Flesh (Crypt of Sul) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Eye of a Fiend (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Patch of Matted Hair (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Massive Jaw Bone (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Blacked Heart (&#x1F4D9; Gallin)
 - Rain of Fear
   - Collections
     - Dark Secrets
@@ -131,26 +131,26 @@
 ## Old-world stuff
 - Everquest
   - Hunter
-    - Hunter of Jaggedpine Forest (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Jerg Oakenfist(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of The Lavastorm Mountains (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Tisella(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - a lesser nightmare(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of Lesser Faydark (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Mina Glimerwing(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of The Rathe Mountains (Nuttann, Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Mortifactor Syythrak(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Oculys Ogrefiend(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Petrifin(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of Jaggedpine Forest (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Jerg Oakenfist (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of The Lavastorm Mountains (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of Lesser Faydark (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Mina Glimerwing (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of The Rathe Mountains (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Mortifactor Syythrak (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Petrifin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Kunark
   - Hunter
-    - Hunter of the Field of Bones(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Carrion Queen(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Field of Bones (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Carrion Queen (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Planes of Power
   - Hunter
-    - Hunter of The Plane of War(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - ALL (Gallin, Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of The Plane of War (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - ALL (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Lost Dungeons of Norrath
   - Hunter
-    - Hunter of Arena of Chance (Rujarkian Hills)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Famished Hound(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of Arena of Chance (Rujarkian Hills) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Famished Hound (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
