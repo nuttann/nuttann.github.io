@@ -6,7 +6,7 @@
 ## Recent expansions RoS through RoF
 - Ring of Scale
   - Hunter
-    - The Overthere (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - The Overthere
       - Banshee (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Drakis (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fang (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -16,7 +16,7 @@
       - Observer Eyzelkla (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Saber (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Acron Thrumaturge Oselkik (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
-    - The Skyfire Mountains (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - The Skyfire Mountains
       - an Arcron researcher (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Dragonflux (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -31,7 +31,7 @@
       - The Gatekeeper (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ash Guardian Tolemak (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
       - Radiant Overseer Triluan (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
-    - The Howling Stones (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - The Howling Stones
       - Deka the Reaper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Embalming Goo (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
