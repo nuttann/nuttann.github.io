@@ -53,7 +53,7 @@
     - Veeshan's Peak
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-  - VP Key (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+  - VP Key
     - Medallion of the Flamescale (random piece from Skyfire mission)
       - Flamescale Overlord Takarious (The Overthere} - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ash Guardian Tolemak (Skyfire) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -125,7 +125,7 @@
 - Rain of Fear
   - Collections
     - Dark Secrets
-      - Forgotten Shissar (Gallin/Nanbus)(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Forgotten Shissar (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 
 ## Old-world stuff
 - Everquest
