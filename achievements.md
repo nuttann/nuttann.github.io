@@ -39,7 +39,7 @@
       - The Arisen Dragoon T'Vem (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Underlord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Gorowyn (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Gorowyn
       - Artikla, Fereth Despot (&#x1F4D9; Gallin)
       - Elkikatar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Gnaw (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -50,74 +50,74 @@
       - The Magmalisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Wulthan High Inquisitor Kraz (&#x1F4D9; Gallin)
       - Wulthan Elder Priest Ovun (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
-    - Veeshan's Peak (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Veeshan's Peak
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Medallion of the Flamescale (random piece from Skyfire mission) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Medallion of the Flamescale (random piece from Skyfire mission)
       - Flamescale Overlord Takarious (The Overthere} - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ash Guardian Tolemak (Skyfire) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Radiant Overseer Triluan (Skyfire) - Right shard (&#x1F4D9; Gallin)
-    - Medallion of Gorowyn (random piece from Gorowyn mission) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Medallion of Gorowyn (random piece from Gorowyn mission)
       - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fereth Captain Ordran (Gorowyn) - Middle shard (&#x1F4D9; Gallin)
-    - Medallion of the Arisen (random piece from Overthere mission) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Medallion of the Arisen (random piece from Overthere mission)
       - Arisen Mentor Sishallan (Howling Stones) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ancient Apparition (Sathir's Tomb) - Right shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Overking's Tooth (Skyfire mission) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Overking's Tooth (Skyfire mission)
 - Empires of Kunark
   - Collections
-    - When the Stars Fell (The Scorched Woods) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - When the Stars Fell (The Scorched Woods)
       - Daubed Mud (&#x1F4D9; Gallin)
       - Unnaturally Robust Foliage (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fiery Essence (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Sarnak Foot (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Scorched Rune (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Slump Stalker (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Unearthing the Sky (The Scorched Woods) (&#x1F4D8; Nanbus)
+    - Unearthing the Sky (The Scorched Woods)
       - Broken Mirror (Left) (&#x1F4D8; Nanbus)
-    - Big Time (The Scorched Woods) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Big Time (The Scorched Woods)
       - Oversized Throwing Hamer (&#x1F4D8; Nanbus)
       - Oversized Greataxe (&#x1F4D9; Gallin)
       - Oversized Fist Spikes (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Pickaxe (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Horn (&#x1F4D8; Nanbus)
-    - Natural Treasure (Frontier Mountains) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Natural Treasure (Frontier Mountains)
       - Rock Flutter (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Mountain Seashell (&#x1F4D9; Gallin)
-    - Jailor's Halls (Chardok) (&#x1F4D9; Gallin)
+    - Jailor's Halls (Chardok)
       - Sarnak Swill (&#x1F4D9; Gallin)
       - Masterwork Shackle Key (&#x1F4D9; Gallin)
-    - Brutal Accoaldes (Chardok) (&#x1F4D8; Nanbus)
+    - Brutal Accoaldes (Chardok)
       - Slayer's Accolade (&#x1F4D8; Nanbus)
-    - Torturer's Tools (Chardok) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Torturer's Tools (Chardok)
       - Despot's Brandisher (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Master's Mercy (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Lesser Things (Gates of Kor-Sha) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Lesser Things (Gates of Kor-Sha)
       - Failed Achemical Experiment (&#x1F4D8; Nanbus)
       - Pickled Eyeball (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Korshessence (Kor-Sha Laboratory) (Nanbus)(&#x1F4D8; Nanbus)
+    - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (&#x1F4D8; Nanbus)
 - The Broken Mirror
   - Hunter
-    - Hunter of the Plane of Hate: Broken Mirror (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - All
-    - Hunter of the Plane of Fear: Broken Mirror (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - All
-    - Hunter of the Plane of Health (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Plane of Hate: Broken Mirror
+      - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Plane of Fear: Broken Mirror
+      - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Plane of Health
       - Prepusterous (Defenders of the Faith) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Sul Vius: Demiplane of Life (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Render (The Handmaiden) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Crypt of Decay (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Crypt of Decay
       - Seraphina (Force the Forceful) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
-    - Ruins of Decay (Plane of Health) {HA} (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - An Ounce of Fetid Flesh (Crypt of Sul) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - An Ounce of Fetid Flesh (Crypt of Sul)
       - Eye of a Fiend (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Patch of Matted Hair (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Massive Jaw Bone (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -130,26 +130,26 @@
 ## Old-world stuff
 - Everquest
   - Hunter
-    - Hunter of Jaggedpine Forest (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of Jaggedpine Forest
       - Jerg Oakenfist (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of The Lavastorm Mountains (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of The Lavastorm Mountains
       - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of Lesser Faydark (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of Lesser Faydark
       - Mina Glimerwing (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of The Rathe Mountains (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of The Rathe Mountains
       - Mortifactor Syythrak (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Petrifin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Kunark
   - Hunter
-    - Hunter of the Field of Bones (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of the Field of Bones
       - Carrion Queen (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Planes of Power
   - Hunter
-    - Hunter of The Plane of War (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of The Plane of War
       - ALL (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Lost Dungeons of Norrath
   - Hunter
-    - Hunter of Arena of Chance (Rujarkian Hills) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Hunter of Arena of Chance (Rujarkian Hills)
       - Famished Hound (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
