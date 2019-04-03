@@ -31,7 +31,6 @@
       - Ash Guardian Tolemak (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
     - The Howling Stones
       - Deka the Reaper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Embalming Goo (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Nureya Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shandral Arisen (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
