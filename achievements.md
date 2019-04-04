@@ -33,7 +33,6 @@
       - Deka the Reaper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Nureya Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Shandral Arisen (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Arisen Dragoon T'Vem (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Underlord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
