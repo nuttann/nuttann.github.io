@@ -28,7 +28,6 @@
       - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Crimson Sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Gatekeeper (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Ash Guardian Tolemak (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
     - The Howling Stones
       - Deka the Reaper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -50,7 +49,7 @@
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Medallion of the Flamescale (random piece from Skyfire mission)
-      - Ash Guardian Tolemak (Skyfire) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Ash Guardian Tolemak (Skyfire) - Middle shard (&#x1F4D9; Gallin)
       - Radiant Overseer Triluan (Skyfire) - Right shard (&#x1F4D9; Gallin)
     - Medallion of Gorowyn (random piece from Gorowyn mission)
       - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
