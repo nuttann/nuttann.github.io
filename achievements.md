@@ -22,7 +22,6 @@
       - Dragonflux (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Old Raspy (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a rabid reveler (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rinwech the Fink (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a scree-borne magmite (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
