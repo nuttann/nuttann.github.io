@@ -153,8 +153,8 @@ anything I need or help out on other stuff.
         - Rules of the Djinn - Volume Seven (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Maritime Law
-        Rules of the Ondine - Volume Seven (&#x1F4D9; Gallin)
-        Rules of the Ondine - Volume Eight (&#x1F4D9; Gallin)
+        - Rules of the Ondine - Volume Seven (&#x1F4D9; Gallin)
+        - Rules of the Ondine - Volume Eight (&#x1F4D9; Gallin)
 - Ring of Scale
   - Hunter
     - The Overthere
