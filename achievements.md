@@ -58,7 +58,7 @@ anything I need or help out on other stuff.
       - Platinum Rainbow Spire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Radiant Amber Lotus (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Whispering Frost (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-  - Collections (NOT FINISHED FILLING OUT YET)
+  - Collections
     - Stratos: Zephyr's Flight
       - Remnants of Air
         - Lady Zephyr (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
