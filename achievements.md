@@ -80,23 +80,81 @@ anything I need or help out on other stuff.
         - Typhoon Moth (&#x1F4D9; Gallin)
     - The Plane of Smoke
       - Tried and Failed
+        - Soot Covered Helm (&#x1F4D9; Gallin)
+        - Soot Covered Boot (&#x1F4D9; Gallin)
+        - Soot Covered Glove (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Soot Covered Ring (&#x1F4D9; Gallin)
+        - Soot Covered Mask (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Soot Covered Pauldron (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Feeling Rocks
+        - Rusted Cliffs Glory's Fury (&#x1F4D9; Gallin)
+        - Rusted Cliffs Glory's Hope (&#x1F4D9; Gallin)
       - Dulled Hues
+        - Smoky Topaz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Smoky Quartz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Smoky Ruby (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Smoky Pearl (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Smoky Amethyst (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Smoky Citrine (&#x1F4D9; Gallin)
+        - Smoky Carnelian (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Smoky Peridot (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fading Embers
+        - Ash Spider Claw (&#x1F4D9; Gallin)
     - Empyr: Realms of Ash
       - The Life of Fire
+        - Slag Golem's Toe (&#x1F4D9; Gallin)
+        - Freshly Singed Phoenix Feather (&#x1F4D9; Gallin)
     - Aalishai: Palace of Embers
       - No Stone Unturned
+        - Miniature Rock Golem (&#x1F4D9; Gallin)
+        - Corroded Metal Tooth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Perfectly Spherical Rock (&#x1F4D9; Gallin)
+        - Carafe of Quicksand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Never Drying Clay (&#x1F4D9; Gallin)
+        - Piece of an Earth Elemental Fossil (&#x1F4D9; Gallin)
+        - Sigil of the Duende (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Those Who Extinguish
+        - Piece of Pure Fire (&#x1F4D9; Gallin)
+        - Rebirthed Phoenix Talon (&#x1F4D9; Gallin)
+        - Hraquis Tail Fine (&#x1F4D9; Gallin)
+        - Ondine Bangle (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Ruby Tear
+        - Seventh Piece of the Tears of Aalishai (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Esianti: Palace of the Winds
       - Guests, Gusts, Gifts
+        - Miniature Model Esianti (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Tattered Prayer Flag (&#x1F4D9; Gallin)
+        - Miniature Toy Dirigible (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Elementary Accommodation
+        - Bottle of Esianti Water (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Miniature Toy Water Wheel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Broken Fishing Lure (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Meratas: The Stone Demesne
       - Earthen Order
+        - Rules of the Duende - Volume One (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Two (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Three (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Five (&#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Six (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fire Without Fury
+        - Rules of the Efreeti - Volume Two (&#x1F4D9; Gallin)
+        - Rules of the Efreeti - Volume Seven (&#x1F4D9; Gallin)
+        - Rules of the Efreeti - Volume Eight (&#x1F4D9; Gallin)
       - Air-Tight Case
+        - Rules of the Djinn - Volume One (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Two (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Three (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Four (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Five (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Six (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Seven (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Maritime Law
+        Rules of the Ondine - Volume Seven (&#x1F4D9; Gallin)
+        Rules of the Ondine - Volume Eight (&#x1F4D9; Gallin)
 - Ring of Scale
   - Hunter
     - The Overthere
