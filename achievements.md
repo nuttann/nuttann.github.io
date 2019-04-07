@@ -1,9 +1,90 @@
 # Achievements for Nuttann / Gallin / Nanbus
 
+These are currently the Hunter and Collection Achievements from the initial Everquest
+release to the most current. The list is in reverse order. There are other missing
+achievements that are currently not listed here. I would be glad to work together on
+anything I need or help out on other stuff.
+
 ## Color Key
 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 
-## Recent expansions RoS through RoF
+## Hunter / Collection needs (Most recent expansion first)
+- The Burning Lands
+  - Hunter
+    - Stratos: Zephyr's Flight
+      - Cloud Iron Lance (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Eastern Radiant Glance (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Infinite Horizon Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Starshine, Icebreaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Trumphai Still Sky (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Wild Blossom Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - The Plane of Smoke
+      - Silent Silken Song (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Strength of Undefeated Starfall (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Wandering Spring Soul (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Empyr: Realms of Ash
+      - Iron Heart (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Wilting Flames (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Aalishai: Palace of Embers
+      - Final Blade Lord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Ghost Glass Bitter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Ruby Icefall Blossom (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Shield Spirit's Laugh (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Sixth Consuming Master (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Steam Wave Slicer (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Venom of the Fallen Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - White Iron Rainbow (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Esianti: Palace of the Winds
+      - Blessed Wind (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Copper Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Depth of Iron (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Jericog Merkin &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Leaping Eyes (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Rusted Stalactite (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Sapphire Hammer (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Seeping Gladness (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Sky Blade (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Veiled Sage (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Warrior's Cleft (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Meratas: The Stone Demesne
+      - an ancient air warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - an ancient fire warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - an ancient stone warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - an ancient water warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Blistering Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Flowing Horizon Halo (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Forsaken Cloud Sapphire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Glaring Moon Void (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Platinum Rainbow Spire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Radiant Amber Lotus (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Whispering Frost (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+  - Collections (NOT FILLED OUT YET)
+    - Stratos: Zephyr's Flight
+      - Remnants of Air
+      - Insects of Air
+      - Gemstones of Air
+      - Seeds of Air
+    - The Plane of Smoke
+      - Tried and Failed
+      - Feeling Rocks
+      - Dulled Hues
+      - Fading Embers
+    - Empyr: Realms of Ash
+      - Puzzling Plantlife
+      - The Life of Fire
+    - Aalishai: Palace of Embers
+      - No Stone Unturned
+      - Those Who Extinguish
+      - The Ruby Tear
+      - Memories of Fire
+    - Esianti: Palace of the Winds
+      - Guests, Gusts, Gifts
+      - Elementary Accommodation
+    - Meratas: The Stone Demesne
+      - Earthen Order
+      - Fire Without Fury
+      - Air-Tight Case
+      - Maritime Law
 - Ring of Scale
   - Hunter
     - The Overthere
@@ -20,7 +101,6 @@
       - an Arcron researcher (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Dragonflux (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Old Raspy (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a rabid reveler (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a scree-borne magmite (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -117,8 +197,18 @@
   - Collections
     - Dark Secrets
       - Forgotten Shissar (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-
-## Old-world stuff
+- Lost Dungeons of Norrath
+  - Hunter
+    - Hunter of Arena of Chance (Rujarkian Hills)
+      - Famished Hound (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+- Planes of Power
+  - Hunter
+    - Hunter of The Plane of War
+      - ALL (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+- Kunark
+  - Hunter
+    - Hunter of the Field of Bones
+      - Carrion Queen (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Everquest
   - Hunter
     - Hunter of Jaggedpine Forest
@@ -132,15 +222,3 @@
       - Mortifactor Syythrak (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Petrifin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-- Kunark
-  - Hunter
-    - Hunter of the Field of Bones
-      - Carrion Queen (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-- Planes of Power
-  - Hunter
-    - Hunter of The Plane of War
-      - ALL (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-- Lost Dungeons of Norrath
-  - Hunter
-    - Hunter of Arena of Chance (Rujarkian Hills)
-      - Famished Hound (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
