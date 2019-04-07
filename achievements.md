@@ -58,25 +58,37 @@ anything I need or help out on other stuff.
       - Platinum Rainbow Spire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Radiant Amber Lotus (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Whispering Frost (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-  - Collections (NOT FILLED OUT YET)
+  - Collections (NOT FINISHED FILLING OUT YET)
     - Stratos: Zephyr's Flight
       - Remnants of Air
+        - Lady Zephyr (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Fading Breeze (&#x1F4D9; Gallin)
+        - Failing Wind (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Faltering Gust (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Dying Draught (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Paling Mistral (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Wavering Whirlwind (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Floundering Gale (&#x1F4D9; Gallin)
       - Insects of Air
-      - Gemstones of Air
-      - Seeds of Air
+        - Mistmoth (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Dappled Rainmoth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Darkstorm Moth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Dayglow Butterfly (&#x1F4D9; Gallin)
+        - Lightning Striped Butterfly (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Daysmoke Butterfly (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Cloudburst Butterfly (&#x1F4D9; Gallin)
+        - Typhoon Moth (&#x1F4D9; Gallin)
     - The Plane of Smoke
       - Tried and Failed
       - Feeling Rocks
       - Dulled Hues
       - Fading Embers
     - Empyr: Realms of Ash
-      - Puzzling Plantlife
       - The Life of Fire
     - Aalishai: Palace of Embers
       - No Stone Unturned
       - Those Who Extinguish
       - The Ruby Tear
-      - Memories of Fire
     - Esianti: Palace of the Winds
       - Guests, Gusts, Gifts
       - Elementary Accommodation
@@ -125,7 +137,6 @@ anything I need or help out on other stuff.
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Medallion of the Flamescale (random piece from Skyfire mission)
-      - Ash Guardian Tolemak (Skyfire) - Middle shard (&#x1F4D9; Gallin)
       - Radiant Overseer Triluan (Skyfire) - Right shard (&#x1F4D9; Gallin)
     - Medallion of Gorowyn (random piece from Gorowyn mission)
       - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
