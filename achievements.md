@@ -123,7 +123,7 @@ anything I need or help out on other stuff.
         - Bottle of Esianti Water (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Miniature Toy Water Wheel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Broken Fishing Lure (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Broken Fishing Lure (&#x1F4D9; Gallin)
     - Meratas: The Stone Demesne
       - Earthen Order
         - Rules of the Duende - Volume One (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -160,7 +160,7 @@ anything I need or help out on other stuff.
       - Acron Thrumaturge Oselkik (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
     - The Skyfire Mountains
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - a rabid reveler (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - a rabid reveler(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Crimson Sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
