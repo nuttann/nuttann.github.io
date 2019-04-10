@@ -133,8 +133,6 @@ anything I need or help out on other stuff.
         - Rules of the Duende - Volume Five (&#x1F4D9; Gallin)
         - Rules of the Duende - Volume Six (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Duende - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Fire Without Fury
-        - Rules of the Efreeti - Volume Seven (&#x1F4D9; Gallin)
       - Air-Tight Case
         - Rules of the Djinn - Volume One (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Two (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -144,8 +142,6 @@ anything I need or help out on other stuff.
         - Rules of the Djinn - Volume Six (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Seven (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Maritime Law
-        - Rules of the Ondine - Volume Eight (&#x1F4D9; Gallin)
 - Ring of Scale
   - Hunter
     - The Overthere
