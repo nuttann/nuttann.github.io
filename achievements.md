@@ -88,7 +88,6 @@ anything I need or help out on other stuff.
         - Soot Covered Pauldron (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Feeling Rocks
         - Rusted Cliffs Glory's Fury (&#x1F4D9; Gallin)
-        - Rusted Cliffs Glory's Hope (&#x1F4D9; Gallin)
       - Dulled Hues
         - Smoky Topaz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Smoky Quartz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -110,8 +109,6 @@ anything I need or help out on other stuff.
         - Never Drying Clay (&#x1F4D9; Gallin)
         - Piece of an Earth Elemental Fossil (&#x1F4D9; Gallin)
         - Sigil of the Duende (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Those Who Extinguish
-        - Hraquis Tail Fine (&#x1F4D9; Gallin)
       - The Ruby Tear
         - Seventh Piece of the Tears of Aalishai (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Esianti: Palace of the Winds
