@@ -191,7 +191,6 @@ anything I need or help out on other stuff.
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Gorowyn
       - Overlord Klerkon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Overlord Teralov (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Veeshan's Peak
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
