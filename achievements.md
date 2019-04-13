@@ -193,7 +193,6 @@ anything I need or help out on other stuff.
       - Gnaw (&#x1F4D9; Gallin)
       - Overlord Klerkon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Overlord Teralov (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - The Magmalisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Veeshan's Peak
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
