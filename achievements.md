@@ -190,7 +190,6 @@ anything I need or help out on other stuff.
       - The Underlord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Gorowyn
-      - Gnaw (&#x1F4D9; Gallin)
       - Overlord Klerkon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Overlord Teralov (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Veeshan's Peak
