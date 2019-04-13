@@ -190,12 +190,10 @@ anything I need or help out on other stuff.
       - The Underlord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Gorowyn
-      - Gnaw (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Hisslith, the Brittlebones (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Gnaw (&#x1F4D9; Gallin)
       - Overlord Klerkon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Overlord Teralov (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Magmalisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Wulthan Elder Priest Ovun (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
     - Veeshan's Peak
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
