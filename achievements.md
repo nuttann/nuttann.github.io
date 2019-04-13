@@ -191,7 +191,6 @@ anything I need or help out on other stuff.
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Gorowyn
       - Artikla, Fereth Despot (&#x1F4D9; Gallin)
-      - Elkikatar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Gnaw (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Hisslith, the Brittlebones (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Overlord Klerkon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
