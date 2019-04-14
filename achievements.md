@@ -107,12 +107,10 @@ anything I need or help out on other stuff.
       - Tried and Failed
         - Soot Covered Helm (&#x1F4D9; Gallin)
         - Soot Covered Boot (&#x1F4D9; Gallin)
-        - Soot Covered Glove (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Soot Covered Glove (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Soot Covered Ring (&#x1F4D9; Gallin)
-        - Soot Covered Mask (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Soot Covered Mask (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Soot Covered Pauldron (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Feeling Rocks
-        - Rusted Cliffs Glory's Fury (&#x1F4D9; Gallin)
       - Dulled Hues
         - Smoky Topaz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Smoky Quartz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -189,8 +187,6 @@ anything I need or help out on other stuff.
       - The Arisen Dragoon T'Vem (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Underlord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Tormented Adalora (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Gorowyn
-      - Overlord Klerkon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Veeshan's Peak
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -202,7 +198,7 @@ anything I need or help out on other stuff.
     - Medallion of the Arisen (random piece from Overthere mission)
       - Arisen Mentor Sishallan (Howling Stones) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ancient Apparition (Sathir's Tomb) - Right shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Overking's Tooth (Skyfire mission) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
 - Empires of Kunark
   - Collections
     - When the Stars Fell (The Scorched Woods)
