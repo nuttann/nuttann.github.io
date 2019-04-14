@@ -167,7 +167,6 @@ anything I need or help out on other stuff.
     - The Overthere
       - Banshee (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Drakis (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Fang (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an iron sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a Kar'Zok lacerator (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Myrmidon Tundak (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
