@@ -107,10 +107,8 @@ anything I need or help out on other stuff.
       - Tried and Failed
         - Soot Covered Helm (&#x1F4D9; Gallin)
         - Soot Covered Boot (&#x1F4D9; Gallin)
-        - Soot Covered Glove (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Soot Covered Ring (&#x1F4D9; Gallin)
         - Soot Covered Mask (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Soot Covered Pauldron (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Dulled Hues
         - Smoky Topaz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Smoky Quartz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -169,7 +167,6 @@ anything I need or help out on other stuff.
       - Drakis (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an iron sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a Kar'Zok lacerator (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Myrmidon Tundak (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Observer Eyzelkla (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Saber (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Acron Thrumaturge Oselkik (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
