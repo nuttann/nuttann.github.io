@@ -169,7 +169,6 @@ anything I need or help out on other stuff.
       - a Kar'Zok lacerator (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Observer Eyzelkla (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Saber (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Acron Thrumaturge Oselkik (&#x1F4D8; Nanbus, &#x1F4D9; Gallin) *
     - The Skyfire Mountains
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -190,7 +189,7 @@ anything I need or help out on other stuff.
     - Medallion of the Flamescale (random piece from Skyfire mission)
       - Radiant Overseer Triluan (Skyfire) - Right shard (&#x1F4D9; Gallin)
     - Medallion of Gorowyn (random piece from Gorowyn mission)
-      - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D9; Gallin)
     - Medallion of the Arisen (random piece from Overthere mission)
       - Arisen Mentor Sishallan (Howling Stones) - Middle shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ancient Apparition (Sathir's Tomb) - Right shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
