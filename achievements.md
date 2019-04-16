@@ -145,7 +145,7 @@ anything I need or help out on other stuff.
     - Meratas: The Stone Demesne
       - Earthen Order
         - Rules of the Duende - Volume One (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Rules of the Duende - Volume Two (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Two (&#x1F4D9; Gallin)
         - Rules of the Duende - Volume Three (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Duende - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Duende - Volume Five (&#x1F4D9; Gallin)
