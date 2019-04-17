@@ -148,16 +148,16 @@ anything I need or help out on other stuff.
         - Rules of the Duende - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Duende - Volume Five (&#x1F4D9; Gallin)
         - Rules of the Duende - Volume Six (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Rules of the Duende - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Duende - Volume Eight (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Air-Tight Case
-        - Rules of the Djinn - Volume One (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume One (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Two (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Three (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Four (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Five (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Rules of the Djinn - Volume Six (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Rules of the Djinn - Volume Seven (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Rules of the Djinn - Volume Eight (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Seven (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Rules of the Djinn - Volume Eight (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Ring of Scale
   - Hunter
     - The Overthere
