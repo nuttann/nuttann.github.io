@@ -32,8 +32,6 @@ anything I need or help out on other stuff.
       - Pamphlet: The Monument to Beginnings (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: What We Can Be (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: How We Honor the Past (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Small Parts
-      - Copper-Melded Faceplate (&#x1F4D9; Gallin)
 - The Burning Lands
   - Hunter
     - Stratos: Zephyr's Flight
