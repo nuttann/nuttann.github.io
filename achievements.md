@@ -184,8 +184,6 @@ anything I need or help out on other stuff.
       - Blood-Thirsty Racnar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Magma Basilisk (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
-    - Medallion of the Flamescale (random piece from Skyfire mission)
-      - Radiant Overseer Triluan (Skyfire) - Right shard (&#x1F4D9; Gallin)
     - Medallion of Gorowyn (random piece from Gorowyn mission)
       - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D9; Gallin)
     - Medallion of the Arisen (random piece from Overthere mission)
