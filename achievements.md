@@ -11,7 +11,6 @@ anything I need or help out on other stuff.
 ## Hunter / Collection needs (Most recent expansion first)
 - Gnome Memorial Mountain
   - Hunter
-    - Best Museum Security (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Bloodmoon Chief Eclipse (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Breaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -19,7 +18,6 @@ anything I need or help out on other stuff.
     - Healer Prime (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Malfunctioning Iron Legion Hug (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Master Mechanic (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - A Non-Standard Deviation (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Repair for Pieces (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Tatters (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
