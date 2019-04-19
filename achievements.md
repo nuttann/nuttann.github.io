@@ -22,7 +22,7 @@ anything I need or help out on other stuff.
     - Tatters (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
     - Small Documents
-      - Pamphlet: The Monument to Effort (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Diversity (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Invention (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: The Monument to Battle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -93,7 +93,7 @@ anything I need or help out on other stuff.
       - Insects of Air
         - Mistmoth (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Dappled Rainmoth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-        - Darkstorm Moth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+        - Darkstorm Moth (&#x1F4D9; Gallin)
         - Dayglow Butterfly (&#x1F4D9; Gallin)
         - Lightning Striped Butterfly (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
         - Daysmoke Butterfly (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
