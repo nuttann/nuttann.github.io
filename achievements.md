@@ -197,7 +197,6 @@ anything I need or help out on other stuff.
       - Mountain Seashell (&#x1F4D9; Gallin)
     - Jailor's Halls (Chardok)
       - Sarnak Swill (&#x1F4D9; Gallin)
-      - Masterwork Shackle Key (&#x1F4D9; Gallin)
     - Brutal Accoaldes (Chardok)
       - Slayer's Accolade (&#x1F4D8; Nanbus)
     - Torturer's Tools (Chardok)
