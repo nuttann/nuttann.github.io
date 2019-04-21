@@ -168,8 +168,6 @@ anything I need or help out on other stuff.
       - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Nureya Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
-    - Medallion of the Arisen (random piece from Overthere mission)
-      - Ancient Apparition (Sathir's Tomb) - Right shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
     - Skyfire mission (&#x1F4D9; Gallin)
     - Overthere mission (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -220,8 +218,6 @@ anything I need or help out on other stuff.
     - Hunter of the Sul Vius: Demiplane of Life
       - Arsin the Blaze (Under the Robe) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Render (The Handmaiden) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Crypt of Decay
-      - Seraphina (Force the Forceful) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
