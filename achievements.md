@@ -155,7 +155,6 @@ anything I need or help out on other stuff.
     - The Overthere
       - Banshee (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Drakis (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - an iron sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a Kar'Zok lacerator (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Observer Eyzelkla (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Saber (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -169,11 +168,12 @@ anything I need or help out on other stuff.
       - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Nureya Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
-    - Medallion of Gorowyn (random piece from Gorowyn mission)
-      - Arcron Thaumaturge Osellik (The Overthere) - Left shard (&#x1F4D9; Gallin)
     - Medallion of the Arisen (random piece from Overthere mission)
       - Ancient Apparition (Sathir's Tomb) - Right shard (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
+    - Skyfire mission (&#x1F4D9; Gallin)
+    - Overthere mission (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Gorowyn mission (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Empires of Kunark
   - Collections
     - When the Stars Fell (The Scorched Woods)
