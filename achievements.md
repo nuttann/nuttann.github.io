@@ -68,11 +68,11 @@ anything I need or help out on other stuff.
       - Veiled Sage (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Warrior's Cleft (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Meratas: The Stone Demesne
-      - an ancient air warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - an ancient air warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an ancient fire warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an ancient stone warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an ancient water warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Blistering Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Blistering Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Flowing Horizon Halo (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Forsaken Cloud Sapphire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Glaring Moon Void (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
