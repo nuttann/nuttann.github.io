@@ -1,4 +1,4 @@
-# Achievements for Nuttann / Gallin / Nanbus
+# Achievements for Nuttann / Nanbus / Gallin
 
 These are currently the Hunter and Collection Achievements from the initial Everquest
 release to the most current. The list is in reverse order. There are other missing
@@ -24,9 +24,9 @@ anything I need or help out on other stuff.
     - Small Documents
       - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Diversity (&#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Invention (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Battle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Glory (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pamphlet: The Monument to Invention (&#x1F4D9; Gallin)
+      - Pamphlet: The Monument to Battle (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: The Monument to Beginnings (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: What We Can Be (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: How We Honor the Past (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -134,15 +134,10 @@ anything I need or help out on other stuff.
       - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Broken Fishing Lure (&#x1F4D9; Gallin)
     - Earthen Order (Meratas: The Stone Demesne)
-      - Rules of the Duende - Volume One (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Duende - Volume Two (&#x1F4D9; Gallin)
-      - Rules of the Duende - Volume Three (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Rules of the Duende - Volume Three (&#x1F4D9; Gallin)
       - Rules of the Duende - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Duende - Volume Five (&#x1F4D9; Gallin)
-      - Rules of the Duende - Volume Six (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Duende - Volume Eight (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Air-Tight Case (Meratas: The Stone Demesne)
-      - Rules of the Djinn - Volume One (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Rules of the Djinn - Volume One  (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Two (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Three (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Four (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
