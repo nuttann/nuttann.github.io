@@ -1,27 +1,29 @@
 # Achievements for Nuttann / Nanbus / Gallin
 
-These are currently the Hunter and Collection Achievements from the initial Everquest
-release to the most current. The list is in reverse order. There are other missing
-achievements that are currently not listed here. I would be glad to work together on
+These are currently the Hunter and Collection achievements from the current expansion
+back to the old-world Everquest zones.
+
+I have not yet added other missing achievement types. I would be glad to work together on
 anything I need or help out on other stuff.
 
 ## Color Key
 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 
 ## Hunter / Collection needs (Most recent expansion first)
-- Gnome Memorial Mountain
+- Secrets of Faydwer
   - Hunter
-    - Bloodmoon Chief Eclipse (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Breaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Fractured Sweeper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Healer Prime (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Malfunctioning Iron Legion Hug (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Master Mechanic (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Repair for Pieces (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Tatters (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Gnome Memorial Mountain
+      - Bloodmoon Chief Eclipse (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Breaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Fractured Sweeper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Healer Prime (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Malfunctioning Iron Legion Hug (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Master Mechanic (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Repair for Pieces (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Tatters (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
-    - Small Documents
+    - Small Documents (Gnome Memorial Mountain)
       - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Diversity (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Invention (&#x1F4D9; Gallin)
@@ -182,7 +184,7 @@ anything I need or help out on other stuff.
       - Oversized Throwing Hamer (&#x1F4D8; Nanbus)
       - Oversized Greataxe (&#x1F4D9; Gallin)
       - Oversized Fist Spikes (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Oversized Pickaxe (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Oversized Pickaxe (&#x1F4D9; Gallin)
       - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Horn (&#x1F4D8; Nanbus)
     - Natural Treasure (Frontier Mountains)
