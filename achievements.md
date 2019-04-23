@@ -160,7 +160,6 @@ anything I need or help out on other stuff.
       - The Crimson Sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Gatekeeper (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - The Howling Stones
-      - General V'Deers, the Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Nureya Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
