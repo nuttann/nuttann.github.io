@@ -27,7 +27,7 @@ anything I need or help out on other stuff.
       - Pamphlet: The Monument to Battle (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: The Monument to Beginnings (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Pamphlet: What We Can Be (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pamphlet: What We Can Be (&#x1F4D9; Gallin)
       - Pamphlet: How We Honor the Past (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Burning Lands
   - Hunter
@@ -69,7 +69,7 @@ anything I need or help out on other stuff.
     - Meratas: The Stone Demesne
       - an ancient air warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an ancient fire warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - an ancient stone warden (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - an ancient stone warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - an ancient water warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Blistering Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Flowing Horizon Halo (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -100,14 +100,13 @@ anything I need or help out on other stuff.
     - Tried and Failed (The Plane of Smoke)
       - Soot Covered Helm (&#x1F4D9; Gallin)
       - Soot Covered Boot (&#x1F4D9; Gallin)
-      - Soot Covered Ring (&#x1F4D9; Gallin)
       - Soot Covered Mask (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Dulled Hues (The Plane of Smoke)
       - Smoky Topaz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Smoky Quartz (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Smoky Ruby (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Smoky Pearl (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Smoky Amethyst (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Smoky Amethyst (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Smoky Citrine (&#x1F4D9; Gallin)
       - Smoky Carnelian (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Smoky Peridot (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -214,7 +213,6 @@ anything I need or help out on other stuff.
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - An Ounce of Fetid Flesh (Crypt of Sul)
       - Eye of a Fiend (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Patch of Matted Hair (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Massive Jaw Bone (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Blacked Heart (&#x1F4D9; Gallin)
 - Rain of Fear
