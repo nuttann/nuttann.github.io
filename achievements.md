@@ -53,7 +53,7 @@ anything I need or help out on other stuff.
       - Sixth Consuming Master (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Steam Wave Slicer (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Venom of the Fallen Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - White Iron Rainbow (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - White Iron Rainbow (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Esianti: Palace of the Winds
       - Blessed Wind (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Copper Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
