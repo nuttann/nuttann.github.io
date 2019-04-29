@@ -147,7 +147,6 @@ anything I need or help out on other stuff.
       - Banshee (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Drakis (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a Kar'Zok lacerator (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Observer Eyzelkla (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Saber (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - The Skyfire Mountains
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -155,8 +154,6 @@ anything I need or help out on other stuff.
       - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Crimson Sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - The Gatekeeper (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - The Howling Stones
-      - Nureya Arisen (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
     - Skyfire mission (&#x1F4D9; Gallin)
