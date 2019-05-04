@@ -16,7 +16,6 @@ anything I need or help out on other stuff.
       - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fractured Sweeper (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Healer Prime (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Malfunctioning Iron Legion Hug (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Repair for Pieces (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
     - Small Documents (Gnome Memorial Mountain)
