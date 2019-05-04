@@ -52,7 +52,7 @@ anything I need or help out on other stuff.
       - Shield Spirit's Laugh (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Sixth Consuming Master (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Steam Wave Slicer (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Venom of the Fallen Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Venom of the Fallen Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - White Iron Rainbow (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Esianti: Palace of the Winds
       - Blessed Wind (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -76,7 +76,7 @@ anything I need or help out on other stuff.
       - Forsaken Cloud Sapphire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Glaring Moon Void (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Platinum Rainbow Spire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Radiant Amber Lotus (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Radiant Amber Lotus (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Whispering Frost (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
     - Remnants of Air (Stratos: Zephyr's Flight)
@@ -127,7 +127,7 @@ anything I need or help out on other stuff.
       - Rules of the Djinn - Volume Two (&#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Three (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Five (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Rules of the Djinn - Volume Five (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Six (&#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Eight (&#x1F4D9; Gallin)
 - Ring of Scale
