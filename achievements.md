@@ -88,8 +88,6 @@ anything I need or help out on other stuff.
       - Smoky Amethyst (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Smoky Citrine (&#x1F4D9; Gallin)
       - Smoky Peridot (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - The Life of Fire (Empyr: Realms of Ash)
-      - Slag Golem's Toe (&#x1F4D9; Gallin)
     - No Stone Unturned (Aalishai: Palace of Embers)
       - Miniature Rock Golem (&#x1F4D9; Gallin)
       - Corroded Metal Tooth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
