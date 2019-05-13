@@ -159,7 +159,6 @@ anything I need or help out on other stuff.
       - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Lesser Things (Gates of Kor-Sha)
-      - Failed Achemical Experiment (&#x1F4D8; Nanbus)
       - Pickled Eyeball (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (&#x1F4D8; Nanbus)
