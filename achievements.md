@@ -159,7 +159,7 @@ anything I need or help out on other stuff.
       - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Lesser Things (Gates of Kor-Sha)
-      - Pickled Eyeball (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pickled Eyeball (&#x1F4D9; Gallin)
     - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (&#x1F4D8; Nanbus)
 - The Broken Mirror
@@ -177,7 +177,6 @@ anything I need or help out on other stuff.
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - An Ounce of Fetid Flesh (Crypt of Sul)
-      - Eye of a Fiend (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Massive Jaw Bone (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Blacked Heart (&#x1F4D9; Gallin)
 - Rain of Fear
