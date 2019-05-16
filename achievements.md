@@ -20,7 +20,7 @@ anything I need or help out on other stuff.
   - Collections
     - Small Documents (Gnome Memorial Mountain)
       - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Battle (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pamphlet: The Monument to Battle (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: The Monument to Beginnings (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: What We Can Be (&#x1F4D9; Gallin)
