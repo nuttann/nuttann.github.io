@@ -22,7 +22,7 @@ anything I need or help out on other stuff.
       - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Battle (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Beginnings (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Pamphlet: The Monument to Beginnings (&#x1F4D9; Gallin)
       - Pamphlet: What We Can Be (&#x1F4D9; Gallin)
       - Pamphlet: How We Honor the Past (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Burning Lands
@@ -101,8 +101,6 @@ anything I need or help out on other stuff.
       - Miniature Toy Water Wheel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Broken Fishing Lure (&#x1F4D9; Gallin)
-    - Earthen Order (Meratas: The Stone Demesne)
-      - Rules of the Duende - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Air-Tight Case (Meratas: The Stone Demesne)
       - Rules of the Djinn - Volume One  (&#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Two (&#x1F4D9; Gallin)
