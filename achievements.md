@@ -111,9 +111,6 @@ anything I need or help out on other stuff.
       - Rules of the Djinn - Volume Eight (&#x1F4D9; Gallin)
 - Ring of Scale
   - Hunter
-    - The Overthere
-      - Banshee (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Drakis (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - The Skyfire Mountains
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
