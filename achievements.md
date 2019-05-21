@@ -200,9 +200,6 @@ anything I need or help out on other stuff.
     - Hunter of The Lavastorm Mountains
       - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of Lesser Faydark
-      - Mina Glimerwing (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Hunter of The Rathe Mountains
-      - Mortifactor Syythrak (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Petrifin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
