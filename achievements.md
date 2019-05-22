@@ -20,7 +20,6 @@ anything I need or help out on other stuff.
   - Collections
     - Small Documents (Gnome Memorial Mountain)
       - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Battle (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Pamphlet: The Monument to Beginnings (&#x1F4D9; Gallin)
       - Pamphlet: What We Can Be (&#x1F4D9; Gallin)
@@ -103,12 +102,8 @@ anything I need or help out on other stuff.
       - Broken Fishing Lure (&#x1F4D9; Gallin)
     - Air-Tight Case (Meratas: The Stone Demesne)
       - Rules of the Djinn - Volume One  (&#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Two (&#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Three (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Four (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Five (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Six (&#x1F4D9; Gallin)
-      - Rules of the Djinn - Volume Eight (&#x1F4D9; Gallin)
+      - Rules of the Djinn - Volume Four (&#x1F4D9; Gallin)
+      - Rules of the Djinn - Volume Five (&#x1F4D9; Gallin)
 - Ring of Scale
   - Hunter
     - The Skyfire Mountains
