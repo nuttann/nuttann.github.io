@@ -110,8 +110,6 @@ anything I need or help out on other stuff.
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - The Crimson Sentinel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - The Gatekeeper (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
     - Skyfire mission (&#x1F4D9; Gallin)
