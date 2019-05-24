@@ -106,7 +106,6 @@ anything I need or help out on other stuff.
   - Hunter
     - The Skyfire Mountains
       - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Shardstubble (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
