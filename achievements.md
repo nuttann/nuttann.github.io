@@ -39,7 +39,7 @@ anything I need or help out on other stuff.
       - Iron Heart (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Wilting Flames (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Aalishai: Palace of Embers
-      - Final Blade Lord (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Final Blade Lord (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ghost Glass Bitter (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Ruby Icefall Blossom (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Shield Spirit's Laugh (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
