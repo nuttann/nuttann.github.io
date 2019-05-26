@@ -49,9 +49,9 @@ anything I need or help out on other stuff.
       - White Iron Rainbow (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Esianti: Palace of the Winds
       - Blessed Wind (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Copper Star (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Copper Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Jericog Merkin &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Leaping Eyes (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Leaping Eyes (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Rusted Stalactite (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Sapphire Hammer (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Sky Blade (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -103,10 +103,6 @@ anything I need or help out on other stuff.
       - Rules of the Djinn - Volume Four (&#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Five (&#x1F4D9; Gallin)
 - Ring of Scale
-  - Hunter
-    - The Skyfire Mountains
-      - Chirugeon Hemofax (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - a supercharged tyro (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
     - Skyfire mission (&#x1F4D9; Gallin)
