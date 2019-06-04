@@ -98,7 +98,7 @@ anything I need or help out on other stuff.
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
     - Skyfire mission (&#x1F4D9; Gallin)
-    - Overthere mission (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Overthere mission (&#x1F4D9; Gallin)
     - Gorowyn mission (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Empires of Kunark
   - Collections
