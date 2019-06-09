@@ -18,9 +18,7 @@ anything I need or help out on other stuff.
       - Healer Prime (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
     - Small Documents (Gnome Memorial Mountain)
-      - Pamphlet: The Monument to Effort (&#x1F4D9; Gallin)
       - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Pamphlet: The Monument to Beginnings (&#x1F4D9; Gallin)
       - Pamphlet: How We Honor the Past (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Burning Lands
   - Hunter
@@ -149,8 +147,7 @@ anything I need or help out on other stuff.
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - An Ounce of Fetid Flesh (Crypt of Sul)
-      - Massive Jaw Bone (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Blacked Heart (&#x1F4D9; Gallin)
+      - Massive Jaw Bone (&#x1F4D9; Gallin)
 - Rain of Fear
   - Collections
     - Dark Secrets
