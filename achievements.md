@@ -146,8 +146,6 @@ anything I need or help out on other stuff.
   - Collections
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - An Ounce of Fetid Flesh (Crypt of Sul)
-      - Massive Jaw Bone (&#x1F4D9; Gallin)
 - Rain of Fear
   - Collections
     - Dark Secrets
