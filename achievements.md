@@ -128,8 +128,6 @@ anything I need or help out on other stuff.
       - Master's Mercy (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Lesser Things (Gates of Kor-Sha)
-      - Pickled Eyeball (&#x1F4D9; Gallin)
     - Korshessence (Kor-Sha Laboratory)
       - Crackling Korshessence (&#x1F4D8; Nanbus)
 - The Broken Mirror
@@ -140,9 +138,6 @@ anything I need or help out on other stuff.
       - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Hunter of the Plane of Health
       - Prepusterous (Defenders of the Faith) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Sul Vius: Demiplane of Life
-      - Arsin the Blaze (Under the Robe) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Render (The Handmaiden) (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
   - Collections
     - Ruins of Decay (Plane of Health) {HA}
       - Rusted Claymore of Decay (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
