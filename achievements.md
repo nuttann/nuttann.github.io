@@ -117,8 +117,7 @@ anything I need or help out on other stuff.
       - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Horn (&#x1F4D8; Nanbus)
     - Natural Treasure (Frontier Mountains)
-      - Rock Flutter (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Mountain Seashell (&#x1F4D9; Gallin)
+      - Rock Flutter (&#x1F4D9; Gallin)
     - Jailor's Halls (Chardok)
       - Sarnak Swill (&#x1F4D9; Gallin)
     - Brutal Accoaldes (Chardok)
@@ -136,8 +135,6 @@ anything I need or help out on other stuff.
       - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Hunter of the Plane of Fear: Broken Mirror
       - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Hunter of the Plane of Health
-      - Prepusterous (Defenders of the Faith) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - Rain of Fear
   - Collections
     - Dark Secrets
