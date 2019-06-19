@@ -152,4 +152,3 @@ anything I need or help out on other stuff.
       - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Hunter of The Rathe Mountains
       - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Petrifin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
