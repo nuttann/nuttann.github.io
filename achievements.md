@@ -78,11 +78,8 @@ anything I need or help out on other stuff.
       - Smoky Peridot (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - No Stone Unturned (Aalishai: Palace of Embers)
       - Miniature Rock Golem (&#x1F4D9; Gallin)
-      - Corroded Metal Tooth (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Perfectly Spherical Rock (&#x1F4D9; Gallin)
+      - Corroded Metal Tooth (&#x1F4D9; Gallin)
       - Carafe of Quicksand (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Never Drying Clay (&#x1F4D9; Gallin)
-      - Piece of an Earth Elemental Fossil (&#x1F4D9; Gallin)
       - Sigil of the Duende (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Elementary Accommodation (Esianti: Palace of the Winds)
       - Bottle of Esianti Water (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
@@ -90,7 +87,6 @@ anything I need or help out on other stuff.
       - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Broken Fishing Lure (&#x1F4D9; Gallin)
     - Air-Tight Case (Meratas: The Stone Demesne)
-      - Rules of the Djinn - Volume One  (&#x1F4D9; Gallin)
       - Rules of the Djinn - Volume Five (&#x1F4D9; Gallin)
 - Ring of Scale
   - VP Key
