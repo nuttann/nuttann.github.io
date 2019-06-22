@@ -123,8 +123,6 @@ anything I need or help out on other stuff.
       - Master's Mercy (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - Korshessence (Kor-Sha Laboratory)
-      - Crackling Korshessence (&#x1F4D8; Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror
