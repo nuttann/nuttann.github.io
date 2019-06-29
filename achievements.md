@@ -115,11 +115,9 @@ anything I need or help out on other stuff.
       - Rock Flutter (&#x1F4D9; Gallin)
     - Jailor's Halls (Chardok)
       - Sarnak Swill (&#x1F4D9; Gallin)
-    - Brutal Accoaldes (Chardok)
-      - Slayer's Accolade (&#x1F4D8; Nanbus)
     - Torturer's Tools (Chardok)
       - Despot's Brandisher (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Master's Mercy (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Master's Mercy (&#x1F4D9; Gallin)
       - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Broken Mirror
