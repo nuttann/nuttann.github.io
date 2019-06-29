@@ -111,8 +111,6 @@ anything I need or help out on other stuff.
       - Oversized Pickaxe (&#x1F4D9; Gallin)
       - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Horn (&#x1F4D8; Nanbus)
-    - Natural Treasure (Frontier Mountains)
-      - Rock Flutter (&#x1F4D9; Gallin)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror
