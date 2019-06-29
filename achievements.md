@@ -117,7 +117,6 @@ anything I need or help out on other stuff.
       - Sarnak Swill (&#x1F4D9; Gallin)
     - Torturer's Tools (Chardok)
       - Master's Mercy (&#x1F4D9; Gallin)
-      - Primitive Interrogator (&#x1F4D8; Nanbus)
       - Festering Crowd-pleaser (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Broken Mirror
   - Hunter
