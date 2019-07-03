@@ -23,8 +23,8 @@ anything I need or help out on other stuff.
 - The Burning Lands
   - Hunter
     - Stratos: Zephyr's Flight
-      - Cloud Iron Lance (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Eastern Radiant Glance (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Cloud Iron Lance (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Eastern Radiant Glance (&#x1F4D9; Gallin)
       - Starshine, Icebreaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Trumphai Still Sky (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - The Plane of Smoke
