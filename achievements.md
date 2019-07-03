@@ -105,8 +105,6 @@ anything I need or help out on other stuff.
     - Unearthing the Sky (The Scorched Woods)
       - Broken Mirror (Left) (&#x1F4D8; Nanbus)
     - Big Time (The Scorched Woods)
-      - Oversized Throwing Hamer (&#x1F4D8; Nanbus)
-      - Oversized Greataxe (&#x1F4D9; Gallin)
       - Oversized Fist Spikes (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Oversized Pickaxe (&#x1F4D9; Gallin)
       - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
