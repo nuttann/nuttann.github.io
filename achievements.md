@@ -19,7 +19,6 @@ anything I need or help out on other stuff.
   - Collections
     - Small Documents (Gnome Memorial Mountain)
       - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Pamphlet: How We Honor the Past (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Burning Lands
   - Hunter
     - Stratos: Zephyr's Flight
@@ -99,7 +98,7 @@ anything I need or help out on other stuff.
       - Daubed Mud (&#x1F4D9; Gallin)
       - Unnaturally Robust Foliage (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fiery Essence (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Sarnak Foot (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Sarnak Foot (&#x1F4D9; Gallin)
       - Scorched Rune (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Slump Stalker (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
     - Unearthing the Sky (The Scorched Woods)
