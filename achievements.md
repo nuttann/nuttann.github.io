@@ -16,9 +16,6 @@ anything I need or help out on other stuff.
       - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Fractured Sweeper (&#x1F4D9; Gallin)
       - Healer Prime (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-  - Collections
-    - Small Documents (Gnome Memorial Mountain)
-      - Pamphlet: The Monument to Glory (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 - The Burning Lands
   - Hunter
     - Stratos: Zephyr's Flight
@@ -84,8 +81,6 @@ anything I need or help out on other stuff.
       - Miniature Toy Water Wheel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
       - Broken Fishing Lure (&#x1F4D9; Gallin)
-    - Air-Tight Case (Meratas: The Stone Demesne)
-      - Rules of the Djinn - Volume Five (&#x1F4D9; Gallin)
 - Ring of Scale
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
