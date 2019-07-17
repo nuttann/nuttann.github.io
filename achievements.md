@@ -6,6 +6,8 @@ back to the old-world Everquest zones.
 I have not yet added other missing achievement types. I would be glad to work together on
 anything I need or help out on other stuff.
 
+Only list Gallin's needs for zone access.
+
 ## Color Key
 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
 
@@ -13,74 +15,63 @@ anything I need or help out on other stuff.
 - Secrets of Faydwer
   - Hunter
     - Gnome Memorial Mountain
-      - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Fractured Sweeper (&#x1F4D9; Gallin)
-      - Healer Prime (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Consul of Cooperation (Ironing out the Legion) (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+      - Healer Prime (&#x1F4D8; Nanbus)
 - The Burning Lands
   - Hunter
     - Stratos: Zephyr's Flight
-      - Cloud Iron Lance (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Eastern Radiant Glance (&#x1F4D9; Gallin)
-      - Starshine, Icebreaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Trumphai Still Sky (&#x1F4D9; Gallin)
+      - Cloud Iron Lance (&#x1F4D8; Nanbus)
+      - Starshine, Icebreaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - The Plane of Smoke
-      - Silent Silken Song (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Strength of Undefeated Starfall (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Wandering Spring Soul (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Silent Silken Song (&#x1F4D8; Nanbus)
+      - Strength of Undefeated Starfall (&#x1F4D8; Nanbus)
+      - Wandering Spring Soul (&#x1F4D8; Nanbus)
     - Empyr: Realms of Ash
-      - Iron Heart (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Wilting Flames (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Iron Heart (&#x1F4D8; Nanbus)
+      - Wilting Flames (&#x1F4D8; Nanbus)
     - Aalishai: Palace of Embers
-      - Final Blade Lord (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Ghost Glass Bitter (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Ruby Icefall Blossom (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Shield Spirit's Laugh (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Sixth Consuming Master (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Steam Wave Slicer (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Venom of the Fallen Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - White Iron Rainbow (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Final Blade Lord (&#x1F4D8; Nanbus)
+      - Ghost Glass Bitter (&#x1F4D8; Nanbus)
+      - Ruby Icefall Blossom (&#x1F4D8; Nanbus)
+      - Shield Spirit's Laugh (&#x1F4D8; Nanbus)
+      - Sixth Consuming Master (&#x1F4D8; Nanbus)
+      - Steam Wave Slicer (&#x1F4D8; Nanbus)
+      - Venom of the Fallen Star (&#x1F4D8; Nanbus)
+      - White Iron Rainbow (&#x1F4D8; Nanbus)
     - Esianti: Palace of the Winds
-      - Blessed Wind (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Copper Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Jericog Merkin &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Leaping Eyes (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Rusted Stalactite (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Sapphire Hammer (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Sky Blade (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Veiled Sage (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Warrior's Cleft (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Blessed Wind (&#x1F4D8; Nanbus)
+      - Copper Star (&#x1F4D8; Nanbus)
+      - Jericog Merkin &#x1F4D8; Nanbus)
+      - Leaping Eyes (&#x1F4D8; Nanbus)
+      - Rusted Stalactite (&#x1F4D8; Nanbus)
+      - Sapphire Hammer (&#x1F4D8; Nanbus)
+      - Sky Blade (&#x1F4D8; Nanbus)
+      - Veiled Sage (&#x1F4D8; Nanbus)
+      - Warrior's Cleft (&#x1F4D8; Nanbus)
     - Meratas: The Stone Demesne
-      - an ancient air warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - an ancient fire warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - an ancient stone warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - an ancient water warden (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Blistering Star (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Flowing Horizon Halo (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Forsaken Cloud Sapphire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Glaring Moon Void (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Platinum Rainbow Spire (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Radiant Amber Lotus (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Whispering Frost (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - an ancient air warden (&#x1F4D8; Nanbus)
+      - an ancient fire warden (&#x1F4D8; Nanbus)
+      - an ancient stone warden (&#x1F4D8; Nanbus)
+      - an ancient water warden (&#x1F4D8; Nanbus)
+      - Blistering Star (&#x1F4D8; Nanbus)
+      - Flowing Horizon Halo (&#x1F4D8; Nanbus)
+      - Forsaken Cloud Sapphire (&#x1F4D8; Nanbus)
+      - Glaring Moon Void (&#x1F4D8; Nanbus)
+      - Platinum Rainbow Spire (&#x1F4D8; Nanbus)
+      - Radiant Amber Lotus (&#x1F4D8; Nanbus)
+      - Whispering Frost (&#x1F4D8; Nanbus)
   - Collections
-    - Remnants of Air (Stratos: Zephyr's Flight)
-      - Lady Zephyr (&#x1F4D9; Gallin)
-      - Dying Draught (&#x1F4D9; Gallin)
-      - Paling Mistral (&#x1F4D9; Gallin)
-    - Tried and Failed (The Plane of Smoke)
-      - Soot Covered Helm (&#x1F4D9; Gallin)
     - Dulled Hues (The Plane of Smoke)
-      - Smoky Ruby (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Smoky Amethyst (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Smoky Peridot (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-    - No Stone Unturned (Aalishai: Palace of Embers)
-      - Miniature Rock Golem (&#x1F4D9; Gallin)
-      - Corroded Metal Tooth (&#x1F4D9; Gallin)
-      - Carafe of Quicksand (&#x1F4D9; Gallin)
+      - Smoky Topaz (&#x1F4D8; Nanbus)
+      - Smoky Quartz (&#x1F4D8; Nanbus)
+      - Smoky Ruby (&#x1F4D8; Nanbus)
+      - Smoky Amethyst (&#x1F4D8; Nanbus)
+      - Smoke Carnelian (&#x1F4D8; Nanbus)
+      - Smoky Peridot (&#x1F4D8; Nanbus)
     - Elementary Accommodation (Esianti: Palace of the Winds)
-      - Bottle of Esianti Water (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Miniature Toy Water Wheel (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Waterlogged Flotsam (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Broken Fishing Lure (&#x1F4D9; Gallin)
+      - Bottle of Esianti Water (&#x1F4D8; Nanbus)
+      - Miniature Toy Water Wheel (&#x1F4D8; Nanbus)
+      - Waterlogged Flotsam (&#x1F4D8; Nanbus)
 - Ring of Scale
   - VP Key
     - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
@@ -90,39 +81,35 @@ anything I need or help out on other stuff.
 - Empires of Kunark
   - Collections
     - When the Stars Fell (The Scorched Woods)
-      - Daubed Mud (&#x1F4D9; Gallin)
-      - Unnaturally Robust Foliage (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Fiery Essence (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Sarnak Foot (&#x1F4D9; Gallin)
-      - Scorched Rune (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - Slump Stalker (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Unnaturally Robust Foliage (&#x1F4D8; Nanbus)
+      - Fiery Essence (&#x1F4D8; Nanbus)
+      - Scorched Rune (&#x1F4D8; Nanbus)
+      - Slump Stalker (&#x1F4D8; Nanbus)
     - Unearthing the Sky (The Scorched Woods)
       - Broken Mirror (Left) (&#x1F4D8; Nanbus)
     - Big Time (The Scorched Woods)
-      - Oversized Fist Spikes (&#x1F4D9; Gallin)
-      - Oversized Pickaxe (&#x1F4D9; Gallin)
-      - Oversized Greatsword (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Oversized Greatsword (&#x1F4D8; Nanbus)
       - Oversized Horn (&#x1F4D8; Nanbus)
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror
-      - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - All (&#x1F4D8; Nanbus)
     - Hunter of the Plane of Fear: Broken Mirror
-      - All (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - All (&#x1F4D8; Nanbus)
 - Rain of Fear
   - Collections
     - Dark Secrets
-      - Forgotten Shissar (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Forgotten Shissar (&#x1F4D8; Nanbus)
 - Planes of Power
   - Hunter
     - Hunter of The Plane of War
-      - ALL (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - ALL (&#x1F4D8; Nanbus)
 - Everquest
   - Hunter
     - Hunter of Jaggedpine Forest
-      - Jerg Oakenfist (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Jerg Oakenfist (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Hunter of The Lavastorm Mountains
-      - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
-      - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+      - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Hunter of The Rathe Mountains
-      - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+      - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
