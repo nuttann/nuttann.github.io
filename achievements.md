@@ -111,5 +111,3 @@ Only list Gallin's needs for zone access.
     - Hunter of The Lavastorm Mountains
       - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-    - Hunter of The Rathe Mountains
-      - Oculys Ogrefiend (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
