@@ -21,7 +21,6 @@ Only list Gallin's needs for zone access.
   - Hunter
     - Stratos: Zephyr's Flight
       - Cloud Iron Lance (&#x1F4D8; Nanbus)
-      - Starshine, Icebreaker (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - The Plane of Smoke
       - Silent Silken Song (&#x1F4D8; Nanbus)
       - Strength of Undefeated Starfall (&#x1F4D8; Nanbus)
@@ -37,7 +36,6 @@ Only list Gallin's needs for zone access.
       - Sixth Consuming Master (&#x1F4D8; Nanbus)
       - Steam Wave Slicer (&#x1F4D8; Nanbus)
       - Venom of the Fallen Star (&#x1F4D8; Nanbus)
-      - White Iron Rainbow (&#x1F4D8; Nanbus)
     - Esianti: Palace of the Winds
       - Blessed Wind (&#x1F4D8; Nanbus)
       - Copper Star (&#x1F4D8; Nanbus)
