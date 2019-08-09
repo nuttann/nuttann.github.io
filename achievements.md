@@ -98,8 +98,3 @@ Only list Gallin's needs for zone access.
   - Hunter
     - Hunter of The Plane of War
       - ALL (&#x1F4D8; Nanbus)
-- Everquest
-  - Hunter
-    - Hunter of The Lavastorm Mountains
-      - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-      - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
