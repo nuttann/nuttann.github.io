@@ -100,8 +100,6 @@ Only list Gallin's needs for zone access.
       - ALL (&#x1F4D8; Nanbus)
 - Everquest
   - Hunter
-    - Hunter of Jaggedpine Forest
-      - Jerg Oakenfist (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Hunter of The Lavastorm Mountains
       - Tisella (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - a lesser nightmare (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
