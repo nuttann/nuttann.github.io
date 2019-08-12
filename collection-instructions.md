@@ -10,7 +10,7 @@ easy to find. The house interface for extracting is not so nice and only lists i
 ## Rules
 
 - Items requested are for guild members only. They are not to be sold.
-- Mains get preference over alts.
+- These are for mains unless I have a lot of an item.
 - I make an attempt to fair-share distribution of rares if I have multiple people requesting them at same time.
 - I do this voluntarily, so requests should be done to make it easy for me.
 
