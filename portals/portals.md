@@ -9,11 +9,11 @@ each of the objects and where they port to.
 
 ## Zone Portals
 
-Ak'Anon link [Ak'Anon]
+[Ak'Anon](#AkAnon)
 
 Other text
 
-### [Ak'Anon]:
+### Ak'Anon
 
 ![Ak'Anon Bubble Lamp - Ak'Anon](AkAnon1.jpg)
 
