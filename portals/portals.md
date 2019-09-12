@@ -26,21 +26,26 @@ to ZONE' are included.
 
 ## Full information
 
-
 ### Abysmal Sea
 
-The Grozmok Stone
-
+Portal #1 The Grozmok Stone:
 ![Abysmal Sea](Abysmal1.jpg)
+
+Portal #2 The Grozmok Stone:
+![Abysmal Sea](Abysmal2.jpg)
+
+Landing Point at #1:
 ![Abysmal Sea Map](AbysmalMap.jpg)
+
+---
 
 ### Ak'Anon
 
-Portal #1 - Ak'Anon Bubble Lamp
-
-Land at #1 in North end of zone (zone out is in far South)
-
+Portal #1 - Ak'Anon Bubble Lamp:
 ![Ak'Anon Bubble Lamp - Ak'Anon](AkAnon1.jpg)
 
+Landing point at #1 (Zone out is far South):
 ![Ak'Anon Map](AkAnonMap.jpg)
+
+---
 
