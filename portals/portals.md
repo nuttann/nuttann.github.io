@@ -27,6 +27,13 @@ to ZONE' are included.
 ## Full information
 
 
+### Abysmal Sea
+
+The Grozmok Stone
+
+![Abysmal Sea](Abysmal1.jpg)
+![Abysmal Sea Map](AbysmalMap.jpg)
+
 ### Ak'Anon
 
 Portal #1 - Ak'Anon Bubble Lamp
@@ -37,8 +44,3 @@ Land at #1 in North end of zone (zone out is in far South)
 
 ![Ak'Anon Map](AkAnonMap.jpg)
 
-### Abysmal Sea
-
-The Grozmok Stone
-
-![Abysmal Sea](Abysmal1.jpg)
