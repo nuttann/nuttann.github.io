@@ -20,14 +20,25 @@ to ZONE' are included.
 
 ## Zones
 
+- [Abysmal Sea](#Abysmal-Sea)
 - [Ak'Anon](#AkAnon)
+
 
 ## Full information
 
 
 ### Ak'Anon
 
+Portal #1 - Ak'Anon Bubble Lamp
+
+Land at #1 in North end of zone (zone out is in far South)
+
 ![Ak'Anon Bubble Lamp - Ak'Anon](AkAnon1.jpg)
 
 ![Ak'Anon Map](AkAnonMap.jpg)
 
+### Abysmal Sea
+
+The Grozmok Stone
+
+![Abysmal Sea](Abysmal1.jpg)
