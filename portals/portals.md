@@ -7,13 +7,27 @@ each of the objects and where they port to.
 
 ## Guild Teleportation Device
 
-## Zone Portals
+This is set by handing the Teleportation Assistant a specific piece for
+the destination zone. Once set, it remains that way until either someone
+resets it or the zone is reset (no one in GH for some length of time or
+sever reboot). He sells the necessary items to hand back to set the portal.
 
-[Ak'Anon](#AkAnon)
+## Portal Objects
 
-Other text
+There are several portal objects in the guild hall. Images showing the
+general area and the specific item to right-click and select 'Teleport
+to ZONE' are included.
+
+## Zones
+
+- [Ak'Anon](#AkAnon)
+
+## Full information
+
 
 ### Ak'Anon
 
 ![Ak'Anon Bubble Lamp - Ak'Anon](AkAnon1.jpg)
+
+![Ak'Anon Map](AkAnonMap.jpg)
 
