@@ -9,7 +9,7 @@ each of the objects and where they port to.
 
 ## Zone Portals
 
-[Ak'Anon](Ak'Anon)
+Ak'Anon link [Ak'Anon]
 
 Other text
 
