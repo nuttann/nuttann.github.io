@@ -9,7 +9,11 @@ each of the objects and where they port to.
 
 ## Zone Portals
 
-### Ak'Anon
+[Ak'Anon]
+
+Other text
+
+### Ak'Anon [Ak'Anon]:
 
 ![Ak'Anon Bubble Lamp - Ak'Anon](AkAnon1.jpg)
 
