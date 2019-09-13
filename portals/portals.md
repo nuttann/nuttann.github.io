@@ -1,9 +1,9 @@
-# Guild Hall Portals
+# Guide to Porting using portals, clickies, and spells
 
-There are two types of porting from the guild hall.  One is the Guild
-Teleportation Device and the other is any one of the various porting
-objects placed around the guild hall. This page will attempt to show
-each of the objects and where they port to.
+This document will list zones that can be ported to using various
+methods. These methods include the Guild Hall Teleportation Device,
+other portals spread around the RotE guild hall, personal clickies, and
+spells.
 
 ## Guild Teleportation Device
 
@@ -16,7 +16,14 @@ sever reboot). He sells the necessary items to hand back to set the portal.
 
 There are several portal objects in the guild hall. Images showing the
 general area and the specific item to right-click and select 'Teleport
-to ZONE' are included.
+to ZONE' are included. The images here were taken from the RotE guild
+hall.
+
+## Clickies
+
+There are are many clickies that players may use from inventory. Some are
+found in game, some are included when buying certain versions of an
+expansion, and some are rewards.
 
 ## Zones
 
@@ -28,7 +35,7 @@ to ZONE' are included.
 - [The Plane of Innovation](#The-Plane-of-Innovation)
 
 
-## Full information
+## Detailed information
 
 ### Abysmal Sea
 
@@ -72,6 +79,8 @@ Druid ports - Ring of Iceclad / Circle of Iceclad / Zephyr Iceclad
 Portal - Banner Gnome Pirates:
 ![Banner: Gnome Pirates](BannerGnomePirates1.jpg)
 
+![Iceclad Ocean Map](IcecladOcean.jpg)
+
 ---
 
 ### Surefall Glade
@@ -80,6 +89,8 @@ Druid ports - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr Surefal
 
 Portal - Brazier: The Everburning Ruby:
 ![Brazier: The Everburning Ruby](BrazierTheEverburningRuby1.jpg)
+
+![Surefall Glade Map](SurefallGlade.jpg)
 
 ---
 
