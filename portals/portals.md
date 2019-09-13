@@ -23,6 +23,8 @@ to ZONE' are included.
 - [Abysmal Sea](#Abysmal-Sea)
 - [Ak'Anon](#AkAnon)
 - [Frontier Mountains (EoK)](#Frontier-Mountains-EoK)
+- [Iceclad Ocean](#Iceclad-Ocean)
+- [Surefall Glade](#Surefall-Glade)
 - [The Plane of Innovation](#The-Plane-of-Innovation)
 
 
@@ -34,8 +36,6 @@ Had two in GH, locations below.
 
 Portal - The Grozmok Stone:
 ![The Grozmok Stone](TheGrozmokStone1.jpg)
-
-Portal - The Grozmok Stone:
 ![The Grozmok Stone](TheGrozmokStone2.jpg)
 
 ![Abysmal Sea Map](AbysmalSea.jpg)
@@ -63,6 +63,26 @@ Clicky - Ancient Iksar Translocator Stone:
 
 ---
 
+### Iceclad Ocean
+
+Teleporter Stone - Frozen Shard of Iceclad
+
+Druid ports - Ring of Iceclad / Circle of Iceclad / Zephyr Iceclad
+
+Portal - Banner Gnome Pirates:
+![Banner: Gnome Pirates](BannerGnomePirates1.jpg)
+
+---
+
+### Surefall Glade
+
+Druid ports - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr Surefal Glade
+
+Portal - Brazier: The Everburning Ruby:
+![Brazier: The Everburning Ruby](BrazierTheEverburningRuby1.jpg)
+
+---
+
 ### The Plane of Innovation
 
 For the portal below - target area is the propellers inside the
@@ -74,4 +94,3 @@ Portal - Innovative Heli-Lamp:
 ![Innovative Heli-Lamp](InnovativeHeliLamp1.jpg)
 
 ![The Plane of Innovation Map](ThePlaneOfInnovation.jpg)
-
