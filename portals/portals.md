@@ -7,14 +7,16 @@ spells.
 
 Skip to [Zones](#Zones)
 
-## Guild Teleportation Device
+## Guild Teleportation Device (GH Port)
 
 This is set by handing the Teleportation Assistant a specific piece for
 the destination zone. Once set, it remains that way until either someone
 resets it or the zone is reset (no one in GH for some length of time or
 sever reboot). He sells the necessary items to hand back to set the portal.
 
-## Portal Objects
+## Spells (Spell)
+
+## Portal Objects (Portal)
 
 There are several portal objects in the guild hall. Images showing the
 general area and the specific item to right-click and select 'Teleport
@@ -25,7 +27,7 @@ Advantages of the Portal Objects are that you don't have to buy something to
 set it and you don't have to change the Guild Port. This is especially useful
 to avoid changing it during raid times.
 
-## Clickies
+## Clickies (Clicky)
 
 There are are many clickies that players may use from inventory. Some are
 found in game, some are included when buying certain versions of an
@@ -36,8 +38,8 @@ expansion, and some are rewards.
 - [Abysmal Sea](#Abysmal-Sea) (Portal)
 - [Ak'Anon](#AkAnon) (Portal)
 - [Frontier Mountains (EoK)](#Frontier-Mountains-EoK) (Portal, Clicky)
-- [Iceclad Ocean](#Iceclad-Ocean) (Guild Port, Spell, Portal)
-- [Shard's Landing](#Shards-Landing) (Guild Port, Spell, Clicky)
+- [Iceclad Ocean](#Iceclad-Ocean) (GH Port, Spell, Portal)
+- [Shard's Landing](#Shards-Landing) (GH Port, Spell, Clicky)
 - [Surefall Glade](#Surefall-Glade) (Spell, Portal)
 - [The Plane of Health](#The-Plane-of-Health) (Portal, Clicky)
 - [The Plane of Innovation](#The-Plane-of-Innovation) (Portal)
