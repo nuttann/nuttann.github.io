@@ -52,7 +52,7 @@ expansion, and some are rewards.
 - [Lceanium](#Lceanium) (GH Port, Spell)
 - [North Karana](#North-Karana) (GH Port, Spell)
 - [Shard's Landing](#Shards-Landing) (GH Port, Spell, Clicky)
-- [Stratos: Zephyr's Flight](#Stratos-Zephrys-Flight) (GH Port, Portal, Clicky)
+- [Stratos: Zephyr's Flight](#Stratos-Zephyrs-Flight) (GH Port, Portal, Clicky)
 - [Surefall Glade](#Surefall-Glade) (Spell, Portal)
 - [The Overthere (RoS)](#The-Overthere-RoS) (GH Port)
 - [The Plane of Hate](#The-Plane-of-Hate) (GH Port)
