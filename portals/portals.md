@@ -5,6 +5,8 @@ methods. These methods include the Guild Hall Teleportation Device,
 other portals spread around the RotE guild hall, personal clickies, and
 spells.
 
+Skip to [Zones](#Zones)
+
 ## Guild Teleportation Device
 
 This is set by handing the Teleportation Assistant a specific piece for
@@ -27,12 +29,12 @@ expansion, and some are rewards.
 
 ## Zones
 
-- [Abysmal Sea](#Abysmal-Sea)
-- [Ak'Anon](#AkAnon)
-- [Frontier Mountains (EoK)](#Frontier-Mountains-EoK)
-- [Iceclad Ocean](#Iceclad-Ocean)
-- [Surefall Glade](#Surefall-Glade)
-- [The Plane of Innovation](#The-Plane-of-Innovation)
+- [Abysmal Sea](#Abysmal-Sea) (Portal)
+- [Ak'Anon](#AkAnon) (Portal)
+- [Frontier Mountains (EoK)](#Frontier-Mountains-EoK) (Portal, Clicky)
+- [Iceclad Ocean](#Iceclad-Ocean) (Guild Teleport, Portal, Spell)
+- [Surefall Glade](#Surefall-Glade) (Portal, Spell)
+- [The Plane of Innovation](#The-Plane-of-Innovation) (Portal)
 
 
 ## Detailed information
