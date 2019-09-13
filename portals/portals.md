@@ -36,13 +36,31 @@ expansion, and some are rewards.
 ## Zones
 
 - [Abysmal Sea](#Abysmal-Sea) (Portal)
+- [Arcstone](#Arcstone) (GH Port, Spell)
+- [Argath, Bastion of Ildaera](#Argath-Bastion-of-Ildaera) (GH Port)
 - [Ak'Anon](#AkAnon) (Portal)
+- [Barindu, Hanging Gardens](#Barindu-Hanging-Gardens) (GH Port, Spell)
+- [The Commonlands](#The-Commonlands) (GH Port, Spell)
+- [Dragonscale Hills](#Dragonscale-Hills) (GH Port)
+- [Feerrott, the Dream](#Feerrott-the-Dream) (GH Port)
 - [Frontier Mountains (EoK)](#Frontier-Mountains-EoK) (Portal, Clicky)
+- [Goru'kar Mesa](#Gorukar-Mesa) (GH Port)
+- [Greater Faydark](#Greater-Faydark) (GH Port)
 - [Iceclad Ocean](#Iceclad-Ocean) (GH Port, Spell, Portal)
+- [Katta Castrum: Deluge](#Katta-Castrum-Deluge) (GH Port)
+- [Lavastorm Mountains](#Lavastorm-Mountains)
+- [Lceanium](#Lceanium) (GH Port, Spell)
+- [North Karana](#North-Karana) (GH Port, Spell)
 - [Shard's Landing](#Shards-Landing) (GH Port, Spell, Clicky)
+- [Stratos: Zephyr's Flight](#Stratos-Zephrys-Flight) (GH Port, Portal, Clicky)
 - [Surefall Glade](#Surefall-Glade) (Spell, Portal)
+- [The Overthere (RoS)](#The-Overthere-RoS) (GH Port)
+- [The Plane of Hate](#The-Plane-of-Hate) (GH Port)
 - [The Plane of Health](#The-Plane-of-Health) (Portal, Clicky)
 - [The Plane of Innovation](#The-Plane-of-Innovation) (Portal)
+- [The Plane of Sky](#The-Plane-of-Sky) (GH Port)
+- [The Plane of Time](#The-Plane-of-Time) (GH Port)
+- [Wall of Slaughter](#Wall-of-Slaughter) (GH Port, Spell)
 
 
 ## Detailed information
@@ -68,6 +86,40 @@ Portal - Ak'Anon Bubble Lamp:
 
 ---
 
+### Arcstone
+
+GH Port - Arcstone Spirit Sapphire
+
+Druid spell - Ring of Arcstone / Circle of Arcstone / Zephyr: Arcstone
+
+---
+
+### Argath, Bastion of Ildaera
+
+GH Port - Chunk of Argathian Steel
+
+---
+
+### Barindu, Hanging Gardens
+
+GH Port - Etched Marble of Barindu
+
+Druid spell - Ring of Barindu / Circle of Barindu / Zephyr: Barindu
+
+---
+
+### Dragonscale Hills
+
+GH Port - Dragonscale Faycite
+
+---
+
+### Feerrott, the Dream
+
+GH Port - Crystallized Dream of the Feerrott
+
+---
+
 ### Frontier Mountains (EoK)
 
 Portal - Ancient Iksar Translocator Statue:
@@ -80,11 +132,23 @@ Clicky - Ancient Iksar Translocator Stone:
 
 ---
 
+### Goru'kar Mesa
+
+GH Port - Goru'kar Mesa Sandstone
+
+---
+
+### Greater Faydark
+
+GH Port - Forest Emerald of Faydark
+
+---
+
 ### Iceclad Ocean
 
-Teleporter Stone - Frozen Shard of Iceclad
+GH Port - Frozen Shard of Iceclad
 
-Druid ports - Ring of Iceclad / Circle of Iceclad / Zephyr Iceclad
+Druid spell - Ring of Iceclad / Circle of Iceclad / Zephyr: Iceclad
 
 Portal - Banner Gnome Pirates:
 ![Banner: Gnome Pirates](BannerGnomePirates1.jpg)
@@ -93,11 +157,39 @@ Portal - Banner Gnome Pirates:
 
 ---
 
+### Lavastorm Mountains
+
+GH Port - Lavastorm Magma
+
+Druid spell - Ring of Lavastorm / Circle of Lavastorm / Zephyr: Lavastorm
+
+---
+
+### Lceanium
+
+GH Port - Fragment of the Combine Spire
+
+Druid spell - Ring of Lceanium / Circle of Lceanium / Zephyr: Lceanium
+
+---
+
+### North Karana
+
+GH Port - Karana Plains Pebble
+
+Druid spell - Ring of Karana / Circle of Karana / Zephry: Karana
+
+### Katta Castrum: Deluge
+
+GH Port - Drowned Katta Castrum Powerstone
+
+---
+
 ### Shard's Landing
 
-Teleporter Stone - Stone of the Shard's Fall
+GH Port - Stone of the Shard's Fall
 
-Druid ports - Ring of the Landing / Circle of the Landing / Zephyr Shard's Landing
+Druid spell - Ring of the Landing / Circle of the Landing / Zephyr: Shard's Landing
 
 Clicky - Signet of the Crystal Circle:
 ![Signet of the Crystal Circle](SignetOfTheCrystalCircle.jpg)
@@ -106,14 +198,45 @@ Clicky - Signet of the Crystal Circle:
 
 ---
 
+
+### Stratos: Zephyr's Flight
+
+GH Port - Burning Lamp
+
+Portal - Stratos Fire Platform
+
+Clicky - Stratos Air Platform / Wishing Lamp: Zephyr's Flight
+
+---
+
 ### Surefall Glade
 
-Druid ports - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr Surefal Glade
+Druid spell - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr: Surefall Glade
 
 Portal - Brazier: The Everburning Ruby:
 ![Brazier: The Everburning Ruby](BrazierTheEverburningRuby1.jpg)
 
 ![Surefall Glade Map](SurefallGlade.jpg)
+
+---
+
+### The Commonlands
+
+GH Port - Grassy Pebble of the Commmonlands
+
+Druid spell - Ring of Commons / Circle of Commons / Zephyr: Commonlands
+
+---
+
+### The Overthere (RoS)
+
+GH Port - Miniature Worker's Sledge
+
+---
+
+### The Plane of Hate
+
+GH Port - Fuligan Soulstone of Innoruuk
 
 ---
 
@@ -140,3 +263,23 @@ Portal - Innovative Heli-Lamp:
 ![Innovative Heli-Lamp](InnovativeHeliLamp1.jpg)
 
 ![The Plane of Innovation Map](ThePlaneOfInnovation.jpg)
+
+---
+
+### The Plane of Sky
+
+GH Port - Cloudy Stone of Veeshan
+
+---
+
+### The Plane of Time
+
+GH Port - Broken Timestone
+
+---
+
+### Wall of Slaughter
+
+GH Port - Chipped Shard of Slaughter
+
+Druid spell - (Ring of Slaugher, Circle of Slaughter, Zephyr: Slaughter)
