@@ -22,6 +22,7 @@ to ZONE' are included.
 
 - [Abysmal Sea](#Abysmal-Sea)
 - [Ak'Anon](#AkAnon)
+- [Frontier Mountains (EoK)](#FrontierMountainsEoK)
 - [The Plane of Innovation](#The-Plane-of-Innovation)
 
 
@@ -37,7 +38,6 @@ Portal - The Grozmok Stone:
 Portal - The Grozmok Stone:
 ![The Grozmok Stone](TheGrozmokStone2.jpg)
 
-Abysmal Sea Map:
 ![Abysmal Sea Map](AbysmalSea.jpg)
 
 ---
@@ -47,7 +47,6 @@ Abysmal Sea Map:
 Portal - Ak'Anon Bubble Lamp:
 ![Ak'Anon Bubble Lamp](AkAnonBubbleLamp1.jpg)
 
-Ak'Anon Map:
 ![Ak'Anon Map](AkAnon.jpg)
 
 ---
@@ -60,7 +59,6 @@ Portal - Ancient Iksar Translocator Statue:
 Clicky - Ancient Iksar Translocator Stone:
 ![Ancient Iksar Translocator Stone](AncientIksarTranslocatorStone.jpg)
 
-Frontier Mountains (EoK) Map:
 ![Frontier Mountains (EoK) Map](EokFrontierMountains.jpg)
 
 ---
@@ -75,6 +73,5 @@ view seems to select stuff behind it instead of the lamp.
 Portal - Innovative Heli-Lamp:
 ![Innovative Heli-Lamp](InnovativeHeliLamp1.jpg)
 
-Plane of Innovation Map:
 ![The Plane of Innovation Map](ThePlaneOfInnovation.jpg)
 
