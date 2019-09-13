@@ -61,7 +61,7 @@ Clicky - Ancient Iksar Translocator Stone:
 ![Ancient Iksar Translocator Stone](AncientIksarTranslocatorStone.jpg)
 
 Frontier Mountains (EoK) Map:
-![Frontier Mountains Map](EoKFrontierMountains.jpg)
+![Frontier Mountains (EoK) Map](EokFrontierMountains.jpg)
 
 ---
 
