@@ -21,6 +21,10 @@ general area and the specific item to right-click and select 'Teleport
 to ZONE' are included. The images here were taken from the RotE guild
 hall.
 
+Advantages of the Portal Objects are that you don't have to buy something to
+set it and you don't have to change the Guild Port. This is especially useful
+to avoid changing it during raid times.
+
 ## Clickies
 
 There are are many clickies that players may use from inventory. Some are
