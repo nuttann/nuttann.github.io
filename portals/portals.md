@@ -32,8 +32,9 @@ expansion, and some are rewards.
 - [Abysmal Sea](#Abysmal-Sea) (Portal)
 - [Ak'Anon](#AkAnon) (Portal)
 - [Frontier Mountains (EoK)](#Frontier-Mountains-EoK) (Portal, Clicky)
-- [Iceclad Ocean](#Iceclad-Ocean) (Guild Teleport, Portal, Spell)
-- [Surefall Glade](#Surefall-Glade) (Portal, Spell)
+- [Iceclad Ocean](#Iceclad-Ocean) (Guild Port, Spell, Portal)
+- [Shard's Landing](#Shards-Landing) (Guild Port, Spell, Clicky)
+- [Surefall Glade](#Surefall-Glade) (Spell, Portal)
 - [The Plane of Health](#The-Plane-of-Health) (Portal, Clicky)
 - [The Plane of Innovation](#The-Plane-of-Innovation) (Portal)
 
@@ -83,6 +84,19 @@ Portal - Banner Gnome Pirates:
 ![Banner: Gnome Pirates](BannerGnomePirates1.jpg)
 
 ![Iceclad Ocean Map](IcecladOcean.jpg)
+
+---
+
+### Shard's Landing
+
+Teleporter Stone - Stone of the Shard's Fall
+
+Druid ports - Ring of the Landing / Circle of the Landing / Zephyr Shard's Landing
+
+Clicky - Signet of the Crystal Circle:
+![Signet of the Crystal Circle](SignetOfTheCrystalCircle.jpg)
+
+![ShardsLanding Map](ShardsLanding.jpg)
 
 ---
 
