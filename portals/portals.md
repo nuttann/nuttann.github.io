@@ -22,7 +22,7 @@ to ZONE' are included.
 
 - [Abysmal Sea](#Abysmal-Sea)
 - [Ak'Anon](#AkAnon)
-- [Frontier Mountains (EoK)](#FrontierMountainsEoK)
+- [Frontier Mountains (EoK)](#Frontier-Mountains-EoK)
 - [The Plane of Innovation](#The-Plane-of-Innovation)
 
 
