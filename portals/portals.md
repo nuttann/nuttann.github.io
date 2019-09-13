@@ -34,6 +34,7 @@ expansion, and some are rewards.
 - [Frontier Mountains (EoK)](#Frontier-Mountains-EoK) (Portal, Clicky)
 - [Iceclad Ocean](#Iceclad-Ocean) (Guild Teleport, Portal, Spell)
 - [Surefall Glade](#Surefall-Glade) (Portal, Spell)
+- [The Plane of Health](#The-Plane-of-Health) (Portal, Clicky)
 - [The Plane of Innovation](#The-Plane-of-Innovation) (Portal)
 
 
@@ -93,6 +94,18 @@ Portal - Brazier: The Everburning Ruby:
 ![Brazier: The Everburning Ruby](BrazierTheEverburningRuby1.jpg)
 
 ![Surefall Glade Map](SurefallGlade.jpg)
+
+---
+
+### The Plane of Health
+
+Portal - Cynosure of Health:
+![Cynosure of Health](CynosureOfHealth1.jpg)
+
+Clicky - Touchstone of Health:
+![Touchstone of Health](TouchstoneOfHealth.jpg)
+
+![The Plane of Health Map](ThePlaneOfHealth.jpg)
 
 ---
 
