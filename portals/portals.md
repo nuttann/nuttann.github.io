@@ -22,7 +22,7 @@ to ZONE' are included.
 
 - [Abysmal Sea](#Abysmal-Sea)
 - [Ak'Anon](#AkAnon)
-- [Plane of Innovation](#Plane-of-Innovation)
+- [The Plane of Innovation](#The-Plane-of-Innovation)
 
 
 ## Full information
@@ -31,38 +31,50 @@ to ZONE' are included.
 
 Had two in GH, locations below.
 
-Portal - The Grozmok Stone -> Spot #1 (outside):
-![Abysmal Sea](Abysmal1.jpg)
+Portal - The Grozmok Stone:
+![The Grozmok Stone](TheGrozmokStone1.jpg)
 
-Portal - The Grozmok Stone -> Spot #1 (outside):
-![Abysmal Sea](Abysmal2.jpg)
+Portal - The Grozmok Stone:
+![The Grozmok Stone](TheGrozmokStone2.jpg)
 
 Abysmal Sea Map:
-![Abysmal Sea Map](AbysmalMap.jpg)
+![Abysmal Sea Map](AbysmalSea.jpg)
 
 ---
 
 ### Ak'Anon
 
-Portal - Ak'Anon Bubble Lamp -> Spot #1:
-![Ak'Anon Bubble Lamp](AkAnon1.jpg)
+Portal - Ak'Anon Bubble Lamp:
+![Ak'Anon Bubble Lamp](AkAnonBubbleLamp1.jpg)
 
 Ak'Anon Map:
-![Ak'Anon Map](AkAnonMap.jpg)
+![Ak'Anon Map](AkAnon.jpg)
 
 ---
 
-### Plane of Innovation
+### Frontier Mountains (EoK)
+
+Portal - Ancient Iksar Translocator Statue:
+![Ancient Iksar Translocator Statue](AncientIksarTranslocatorStatue1.jpg)
+
+Clicky - Ancient Iksar Translocator Stone:
+![Ancient Iksar Translocator Stone](AncientIksarTranslocatorStone.jpg)
+
+Frontier Mountains (EoK) Map:
+![Frontier Mountains (EoK) Map](EoKFrontierMountains.jpg)
+
+---
+
+### The Plane of Innovation
 
 For the portal below - target area is the propellers inside the
 yellow area. Best to approach from the view shown as an angle
 view seems to select stuff behind it instead of the lamp.
 (They messed up the target)
 
-Portal - Innovative Heli-Lamp -> Spot #1 (near zone out):
-![Innovative Heli-Lamp](PoInnovation1.jpg)
+Portal - Innovative Heli-Lamp:
+![Innovative Heli-Lamp](InnovativeHeliLamp1.jpg)
 
 Plane of Innovation Map:
-![Plane of Innovation Map](PoInnovationMap.jpg)
-
+![The Plane of Innovation Map](ThePlaneOfInnovation.jpg)
 
