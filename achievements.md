@@ -87,7 +87,3 @@ Only list Gallin's needs for zone access.
   - Collections
     - Dark Secrets
       - Forgotten Shissar (&#x1F4D8; Nanbus)
-- Planes of Power
-  - Hunter
-    - Hunter of The Plane of War
-      - ALL (&#x1F4D8; Nanbus)
