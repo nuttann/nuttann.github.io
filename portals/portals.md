@@ -126,7 +126,10 @@ Portal - Ancient Iksar Translocator Statue:
 ![Ancient Iksar Translocator Statue](AncientIksarTranslocatorStatue1.jpg)
 
 Clicky - Ancient Iksar Translocator Stone:
-<img src="AncientIksarTranslocatorStone.jpg" width="48">
+<img src="AncientIksarTranslocatorStone.jpg" width="256">
+
+Clicky - Ancient Iksar Translocator Stone:
+![Ancient Iksar Translocator Stone](AncientIksarTranslocatorStone.jpg)
 
 ![Frontier Mountains (EoK) Map](EokFrontierMountains.jpg)
 
