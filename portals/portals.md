@@ -46,7 +46,7 @@ clickies)
 - Guild Standard - Ports to where guild banner is placed
     - GH Port - Splinter of a Guild Banner
 - Abysmal Sea
-    - Portal - [The Grozmok Stone](#the-grozmok-stone)
+    - Portal - <details><img src="TheGrozmokStone1.jpg"><summary>The Grozmok Stone</summary></details>
     - [Map](#abysmal-sea-map)
 - Arcstone
     - GH Port - Arcstone Spirit Sapphire
