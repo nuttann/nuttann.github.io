@@ -192,7 +192,7 @@ GH Port - Stone of the Shard's Fall
 Druid spell - Ring of the Landing / Circle of the Landing / Zephyr: Shard's Landing
 
 Clicky - Signet of the Crystal Circle:
-<img src="SignetOfTheCrystalCircle.jpg" width="256>
+<img src="SignetOfTheCrystalCircle.jpg" width="256">
 
 ![ShardsLanding Map](ShardsLanding.jpg)
 
