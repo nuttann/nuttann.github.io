@@ -5,7 +5,7 @@ methods. These methods include the Guild Hall Teleportation Device,
 specific portals spread around the RotE guild hall, personal clickies, and
 spells.
 
-Skip to [Zones](#zones)
+Skip to [Port Info](#port-info)
 
 ## Guild Teleportation Device
 
@@ -41,10 +41,14 @@ In some cases, may be more convenient to where you want to go. With the addition
 of the GH teleportation device and all the crate portal objects, there are often
 equivalent or better choices than a porting class.
 
-# Zones
+# Port Info
+
+## Special
 
 - Guild Standard - Ports to where guild banner is placed
     - GH Port - Splinter of a Guild Banner
+
+##Normal
 - Abysmal Sea
     - <details>
         <img src="TheGrozmokStone.jpg">
@@ -63,8 +67,8 @@ equivalent or better choices than a porting class.
         <summary>Portal - Ak'Anon Bubble Lamp</summary>
       </details>
     - <details>
-        <img src="ClawSconceTorch.jpg">
-        <summary>Portal - ClawSconceTorch</summary>
+        <img src="ShelfOfGnomishSpirits.jpg">
+        <summary>Portal - Shelf of Gnomish Spirits</summary>
       </details>
     - <details>
         <img src="AkAnon.jpg">
@@ -103,6 +107,11 @@ equivalent or better choices than a porting class.
 - Ethernere Tainted West Karana
     - GH Port - Stormstone of the West
     - Druid - Ring of West Karana / Circle of West Karana / Zephyr: West Karana
+- Everfrost Peaks
+    - <details>
+        <img src="ClawSconceTorch.jpg">
+        <summary>Portal - ClawSconceTorch</summary>
+      </details>
 - Feerrott, the Dream
     - GH Port - Crystallized Dream of the Feerrott
 - Frontier Mountains (EoK)
