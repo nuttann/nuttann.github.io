@@ -141,7 +141,7 @@ equivalent or better choices than a porting class.
     - Druid - Ring of the Landing / Circle of the Landing / Zephyr: Shard's Landing
     - <details>
         <img src="ShardsLanding.jpg">
-        <summmary>Map</summary>
+        <summary>Map</summary>
       </details>
 - Stratos: Zephyr's Flight
     - GH Port - Burning Lamp
@@ -171,7 +171,7 @@ equivalent or better choices than a porting class.
         <summary>Portal - Cynosure of Health</summary>
       </details>
     - <details>
-        <img src="TouchstoneOfHealth.jpg" width="128">
+        <img src="TouchstoneOfHealth.jpg" width="256">
         <summary>Clicky - Touchstone of Health</summary>
       </details>
     - <details>
