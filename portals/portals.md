@@ -246,7 +246,7 @@ equivalent or better choices than a porting class.
       </details>
 - Steamfont Mountains
     - <details>
-        <img="FantasticFuelOrb.jpg">
+        <img src="FantasticFuelOrb.jpg">
         <summary>Portal - Fantastic Fuel Orb</summary>
       </details>
 - The Stonebrunt Mountains
@@ -263,7 +263,7 @@ equivalent or better choices than a porting class.
     - Clicky - Wishing Lamp: Zephyr's Flight
 - Surefall Glade
     - <details>
-        <img="BrazierTheEverburningRuby.jpg">
+        <img src="BrazierTheEverburningRuby.jpg">
         <summary>Portal - Brazier: The Everburning Ruby</summary>
       </details>
     - <details>
@@ -280,7 +280,7 @@ equivalent or better choices than a porting class.
     - Druid - Ring of Toxxulia / Circle of Toxxulia / Zephyr: Toxxulia
 - Trakanon's Teeth
     - <details>
-        <img="EmperorGanakThrone.jpg">
+        <img src="EmperorGanakThrone.jpg">
         <summary>Portal - Emperor Ganak Throne</summary>
       </details>
 - The Twilight Sea
