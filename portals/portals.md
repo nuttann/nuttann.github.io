@@ -195,6 +195,7 @@ equivalent or better choices than a porting class.
       </details>
 - The Plane of Innovation
     - <details>
+        <p>The target area is the propeller inside the blue oval</p>
         <img src="InnovativeHeliLamp.jpg">
         <summary>Portal - Innovative Heli-Lamp</summary>
       </details>
