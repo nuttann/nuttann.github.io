@@ -63,6 +63,10 @@ equivalent or better choices than a porting class.
         <summary>Portal - Ak'Anon Bubble Lamp</summary>
       </details>
     - <details>
+        <img src="ClawSconceTorch.jpg">
+        <summary>Portal - ClawSconceTorch</summary>
+      </details>
+    - <details>
         <img src="AkAnon.jpg">
         <summary>Map</summary>
       </details>
@@ -234,6 +238,10 @@ equivalent or better choices than a porting class.
     - Druid - Ring of Stonebrunt / Circle of Stonebrunt / Zephyr: Stonebrunt
 - Stratos: Zephyr's Flight
     - GH Port - Burning Lamp
+    - <details>
+        <img src="StratosFirePlatform.jpg">
+        <summary>Portal - Stratos Fire Platform</summary>
+      </details>
     - Portal - Stratos Fire Platform
     - Clicky - Stratos Air Platform
     - Clicky - Wishing Lamp: Zephyr's Flight
