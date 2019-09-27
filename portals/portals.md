@@ -1,9 +1,9 @@
 # Guide to Porting using portals, clickies, and spells
 
 This document will list zones that can be ported to using various
-methods. These methods include the Guild Hall Teleportation Device,
-other portals spread around the RotE guild hall, personal clickies, and
-spells.
+methods. These methods include the Guild Hall Teleportation Device (GH TP),
+specific portals (Portal) spread around the RotE guild hall, personal clickies (Clicky), and
+spells (Spell).
 
 Skip to [Zones](#Zones)
 
@@ -34,6 +34,8 @@ found in game, some are included when buying certain versions of an
 expansion, and some are rewards.
 
 ## Zones
+
+Here are the zones
 
 - [Abysmal Sea](#Abysmal-Sea) (Portal)
 - [Arcstone](#Arcstone) (GH Port, Spell)
