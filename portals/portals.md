@@ -126,7 +126,7 @@ Portal - Ancient Iksar Translocator Statue:
 ![Ancient Iksar Translocator Statue](AncientIksarTranslocatorStatue1.jpg)
 
 Clicky - Ancient Iksar Translocator Stone:
-![Ancient Iksar Translocator Stone](AncientIksarTranslocatorStone.jpg)
+<img src="AncientIksarTranslocatorStone.jpg" width="256">
 
 ![Frontier Mountains (EoK) Map](EokFrontierMountains.jpg)
 
@@ -192,7 +192,7 @@ GH Port - Stone of the Shard's Fall
 Druid spell - Ring of the Landing / Circle of the Landing / Zephyr: Shard's Landing
 
 Clicky - Signet of the Crystal Circle:
-![Signet of the Crystal Circle](SignetOfTheCrystalCircle.jpg)
+<img src="SignetOfTheCrystalCircle.jpg" width="256>
 
 ![ShardsLanding Map](ShardsLanding.jpg)
 
@@ -246,7 +246,7 @@ Portal - Cynosure of Health:
 ![Cynosure of Health](CynosureOfHealth1.jpg)
 
 Clicky - Touchstone of Health:
-![Touchstone of Health](TouchstoneOfHealth.jpg)
+<img src="TouchstoneOfHealth.jpg" width="128">
 
 ![The Plane of Health Map](ThePlaneOfHealth.jpg)
 
