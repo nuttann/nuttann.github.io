@@ -48,7 +48,8 @@ equivalent or better choices than a porting class.
 - Guild Standard - Ports to where guild banner is placed
     - GH Port - Splinter of a Guild Banner
 
-##Normal
+## Normal
+
 - Abysmal Sea
     - <details>
         <img src="TheGrozmokStone.jpg">
