@@ -7,20 +7,14 @@ spells.
 
 Skip to [Zones](#zones)
 
-## Guild Teleportation Device (G)
+## Guild Teleportation Device
 
 This is set by handing the Teleportation Assistant a specific portal crystal
 for the destination zone. Once set, it remains that way until either someone
 resets it or the zone is reset (no one in GH for some length of time or
 sever reboot). He sells the portal crystals.
 
-## Spells (D = Druid, W = Wizard)
-
-In some cases, may be more convenient to where you want to go. With the addition
-of the GH teleportation device and all the crate portal objects, there are often
-equivalent or better choices than a porting class.
-
-## Portal Objects (P)
+## Portal Objects
 
 There are several portal objects in the guild hall. Images showing the
 general area and the specific item to right-click and select 'Teleport
@@ -34,33 +28,63 @@ inventory there is usually a long timeout. When placed in real estate, there
 is no timeout and can also be used by others. For purposes of this document,
 they will be listed under portals.
 
-## Clickies (C)
+## Clickies
 
 There are are many clickies that players can use from inventory. Some are
 found in game, some are included when buying certain versions of an
 expansion, and some are rewards. (See Portal Object note above concerning
 clickies)
 
+## Spells (Druid, Wizard)
+
+In some cases, may be more convenient to where you want to go. With the addition
+of the GH teleportation device and all the crate portal objects, there are often
+equivalent or better choices than a porting class.
+
 # Zones
 
 - Guild Standard - Ports to where guild banner is placed
     - GH Port - Splinter of a Guild Banner
 - Abysmal Sea
-    - <details><img src="TheGrozmokStone1.jpg"><summary>The Grozmok Stone</summary></details>
+    - <details><img src="TheGrozmokStone1.jpg"><summary>Portal - The Grozmok Stone</summary></details>
+    - <details><img src="AbysmalSea.jpg"><summary>Abysmal Sea Map</summary></details>
 - Arcstone
     - GH Port - Arcstone Spirit Sapphire
     - Druid - Ring of Arcstone / Circle of Arcstone / Zephyr: Arcstone
-- [Argath, Bastion of Ildaera](#argath-bastion-of-ildaera) (G)
-- [Ak'Anon](#akanon) (P)
-- [Barindu, Hanging Gardens](#barindu-hanging-gardens) (G, D)
-- [Brell's Rest](#brells-rest) (G, D, C)
-- [Cobalt Scar](#cobalt-scar) (G, D)
-- [The Commonlands](#the-commonlands) (G, D)
-- [Dragonscale Hills](#dragonscale-hills) (G)
-- [Dreadlands](#dreadlands) (G, D)
-- [Ethernere Tainted West Karana](ethernere-tainted-west-karana) (G, D)
-- [Feerrott, the Dream](#feerrott-the-dream) (G)
-- [Frontier Mountains (EoK)](#frontier-mountains-eok) (P, C)
+- Ak'Anon
+    - <details><img src="AkAnonBubbleLamp.jpg"><summary>Portal - Ak'Anon Bubble Lamp</summary></details>
+    - <details><img src="AkAnon.jpg"><summary>Map</summary></details>
+- Argath, Bastion of Ildaera
+    - GH Port - Chunk of Argathian Steel
+- Barindu, Hanging Gardens
+    - GH Port - Etched Marble of Barindu
+    - Druid - Ring of Barindu / Circle of Barindu / Zephyr: Barindu
+- Brell's Rest
+    - GH Port - Unrefined Brellium Ore
+    - Clicky - Mark of Brell
+    - Druid - Ring of Brell’s Rest / Circle of Brell’s Rest / Zephyr: Brell’s Rest
+- Cobalt Scar
+    - GH Port - Velium Shard of Cobalt Scar
+    - Druid - Ring of Cobalt Scar / Circle of Cobalt Scar / Zephyr: Cobalt Scar
+- The Commonlands
+    - GH Port - Grassy Pebble of The Commonlands
+    - Druid - Ring of Commmons / Circle of Commons / Zephyr: Commonlands
+- Dragonscale Hills
+    - GH Port - Dragonscale Faycite
+- The Dreadlands
+    - GH Port - Shattered Bone of the Dreadlands
+    - Druid - Ring of the Combines / Circle of the Combines / Zephyr: Combines
+- Ethernere Tainted West Karana
+    - GH Port - Stormstone of the West
+    - Druid - Ring of West Karana / Circle of West Karana / Zephyr: West Karana
+- Feerrott, the Dream
+    - GH Port - Crystallized Dream of the Feerrott
+- Frontier Mountains (EoK)
+    - <details>
+        <img src="AncientIksarTranslocatorStatue1.jpg">
+        <summary>Portal - Ancient Iksar Translocator Statue</summary>
+      </details>
+    - <details><img src="AncientIksarTranslocatorStone.jpg" width="256"><summary>Clicky - Ancient Iksar Translocator Stone</summary></details>
 - [Goru'kar Mesa](#gorukar-mesa) (G)
 - [Greater Faydark](#greater-faydark) (G)
 - [Iceclad Ocean](#iceclad-ocean) (G, D, P)
