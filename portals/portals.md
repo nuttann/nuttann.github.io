@@ -43,10 +43,14 @@ clickies)
 
 # Zones
 
-- [Guild Standard](guild-standard) (G)
-
-- [Abysmal Sea](#abysmal-sea) (P)
-- [Arcstone](#arcstone) (G, D)
+- Guild Standard - Ports to where guild banner is placed
+    - GH Port - Splinter of a Guild Banner
+- Abysmal Sea
+    - Portal - [The Grozmok Stone](#the-grozmok-stone)
+    - [Map](#abysmal-sea-map)
+- Arcstone
+    - GH Port - Arcstone Spirit Sapphire
+    - Druid - Ring of Arcstone / Circle of Arcstone / Zephyr: Arcstone
 - [Argath, Bastion of Ildaera](#argath-bastion-of-ildaera) (G)
 - [Ak'Anon](#akanon) (P)
 - [Barindu, Hanging Gardens](#barindu-hanging-gardens) (G, D)
