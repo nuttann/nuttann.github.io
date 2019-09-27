@@ -5,7 +5,7 @@ methods. These methods include the Guild Hall Teleportation Device (GH TP),
 specific portals (Portal) spread around the RotE guild hall, personal clickies (Clicky), and
 spells (Spell).
 
-Skip to [Zones](#Zones)
+Skip to [Zones](#zones)
 
 ## Guild Teleportation Device (GH Port)
 
@@ -37,11 +37,11 @@ expansion, and some are rewards.
 
 Here are the zones
 
-- [Abysmal Sea](#Abysmal-Sea) (Portal)
+- [Abysmal Sea](#abysmal-sea) (Portal)
 - [Arcstone](#Arcstone) (GH Port, Spell)
 - [Argath, Bastion of Ildaera](#Argath-Bastion-of-Ildaera) (GH Port)
 - [Ak'Anon](#AkAnon) (Portal)
-- [Barindu, Hanging Gardens](#Barindu-Hanging-Gardens) (GH Port, Spell)
+- [Barindu, Hanging Gardens](#barindu-hanging-gardens) (GH Port, Spell)
 - [The Commonlands](#The-Commonlands) (GH Port, Spell)
 - [Dragonscale Hills](#Dragonscale-Hills) (GH Port)
 - [Feerrott, the Dream](#Feerrott-the-Dream) (GH Port)
