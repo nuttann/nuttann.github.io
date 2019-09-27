@@ -70,10 +70,6 @@ equivalent or better choices than a porting class.
         <img src="ShelfOfGnomishSpirits.jpg">
         <summary>Portal - Shelf of Gnomish Spirits</summary>
       </details>
-    - <details>
-        <img src="AkAnon.jpg">
-        <summary>Map</summary>
-      </details>
 - Argath, Bastion of Ildaera
     - GH Port - Chunk of Argathian Steel
 - Barindu, Hanging Gardens
@@ -275,7 +271,7 @@ equivalent or better choices than a porting class.
       </details>
     - Druid - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr: Surefall Glade
     - <details>
-        <img="SurefallGlade.jpg">
+        <img src="SurefallGlade.jpg">
         <summary>Map</summary>
       </details>
 - Toxxulia Forest
