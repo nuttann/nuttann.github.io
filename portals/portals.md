@@ -1,79 +1,77 @@
 # Guide to Porting using portals, clickies, and spells
 
 This document will list zones that can be ported to using various
-methods. These methods include the Guild Hall Teleportation Device (GH TP),
-specific portals (Portal) spread around the RotE guild hall, personal clickies (Clicky), and
-spells (Spell).
+methods. These methods include the Guild Hall Teleportation Device,
+specific portals spread around the RotE guild hall, personal clickies, and
+spells.
 
 Skip to [Zones](#zones)
 
-## Guild Teleportation Device (GH Port)
+## Guild Teleportation Device (G)
 
 This is set by handing the Teleportation Assistant a specific piece for
 the destination zone. Once set, it remains that way until either someone
 resets it or the zone is reset (no one in GH for some length of time or
-sever reboot). He sells the necessary items to hand back to set the portal.
+sever reboot). He sells the necessary items to hand back to set the device.
 
-## Spells (Spell)
+## Spells (D = Druid, W = Wizard)
 
-## Portal Objects (Portal)
+While these are only used by the porting classes, they each are able to TL and
+in some cases, may be more convenient to where you want to go. With the addition
+of the GH teleportation device and all the crate portal objects, there are
+equivalent or better choices for many of these spells.
+
+## Portal Objects (P)
 
 There are several portal objects in the guild hall. Images showing the
 general area and the specific item to right-click and select 'Teleport
 to ZONE' are included. The images here were taken from the RotE guild
-hall.
+hall. Advantages of the Portal Objects are that you don't have to buy
+something to set it and you don't have to change the Guild Port. This is
+especially useful to avoid changing it during raid times.
 
-Advantages of the Portal Objects are that you don't have to buy something to
-set it and you don't have to change the Guild Port. This is especially useful
-to avoid changing it during raid times.
-
-## Clickies (Clicky)
+## Clickies (C)
 
 There are are many clickies that players may use from inventory. Some are
 found in game, some are included when buying certain versions of an
 expansion, and some are rewards.
 
-## Zones
+# Zones
 
-Here are the zones
-
-- [Abysmal Sea](#abysmal-sea) (Portal)
-- [Arcstone](#Arcstone) (GH Port, Spell)
-- [Argath, Bastion of Ildaera](#Argath-Bastion-of-Ildaera) (GH Port)
-- [Ak'Anon](#AkAnon) (Portal)
-- [Barindu, Hanging Gardens](#barindu-hanging-gardens) (GH Port, Spell)
-- [The Commonlands](#The-Commonlands) (GH Port, Spell)
-- [Dragonscale Hills](#Dragonscale-Hills) (GH Port)
-- [Feerrott, the Dream](#Feerrott-the-Dream) (GH Port)
-- [Frontier Mountains (EoK)](#Frontier-Mountains-EoK) (Portal, Clicky)
-- [Goru'kar Mesa](#Gorukar-Mesa) (GH Port)
-- [Greater Faydark](#Greater-Faydark) (GH Port)
-- [Iceclad Ocean](#Iceclad-Ocean) (GH Port, Spell, Portal)
-- [Katta Castrum: Deluge](#Katta-Castrum-Deluge) (GH Port)
-- [Lavastorm Mountains](#Lavastorm-Mountains)
-- [Lceanium](#Lceanium) (GH Port, Spell)
-- [North Karana](#North-Karana) (GH Port, Spell)
-- [Shard's Landing](#Shards-Landing) (GH Port, Spell, Clicky)
-- [Stratos: Zephyr's Flight](#Stratos-Zephyrs-Flight) (GH Port, Portal, Clicky)
-- [Surefall Glade](#Surefall-Glade) (Spell, Portal)
-- [The Overthere (RoS)](#The-Overthere-RoS) (GH Port)
-- [The Plane of Hate](#The-Plane-of-Hate) (GH Port)
-- [The Plane of Health](#The-Plane-of-Health) (Portal, Clicky)
-- [The Plane of Innovation](#The-Plane-of-Innovation) (Portal)
-- [The Plane of Sky](#The-Plane-of-Sky) (GH Port)
-- [The Plane of Time](#The-Plane-of-Time) (GH Port)
-- [Wall of Slaughter](#Wall-of-Slaughter) (GH Port, Spell)
+- [Abysmal Sea](#abysmal-sea) (P)
+- [Arcstone](#arcstone) (G, D)
+- [Argath, Bastion of Ildaera](#argath-bastion-of-ildaera) (G)
+- [Ak'Anon](#akanon) (P)
+- [Barindu, Hanging Gardens](#barindu-hanging-gardens) (G, D)
+- [The Commonlands](#the-commonlands) (G, D)
+- [Dragonscale Hills](#dragonscale-hills) (G)
+- [Feerrott, the Dream](#feerrott-the-dream) (G)
+- [Frontier Mountains (EoK)](#frontier-mountains-eoK) (P, C)
+- [Goru'kar Mesa](#gorukar-mesa) (G)
+- [Greater Faydark](#greater-faydark) (G)
+- [Iceclad Ocean](#iceclad-ocean) (G, D, P)
+- [Katta Castrum: Deluge](#katta-castrum-deluge) (G)
+- [Lavastorm Mountains](#lavastorm-mountains) (D)
+- [Lceanium](#lceanium) (G, D)
+- [North Karana](#north-karana) (G, D)
+- [Shard's Landing](#shards-landing) (G, D, C)
+- [Stratos: Zephyr's Flight](#stratos-zephyrs-flight) (G, P, C)
+- [Surefall Glade](#surefall-glade) (D, P)
+- [The Overthere (RoS)](#the-overthere-ros) (G)
+- [The Plane of Hate](#the-plane-of-hate) (G)
+- [The Plane of Health](#the-plane-of-health) (P, C)
+- [The Plane of Innovation](#the-plane-of-innovation) (P)
+- [The Plane of Sky](#the-plane-of-sky) (G)
+- [The Plane of Time](#the-plane-of-time) (G)
+- [Wall of Slaughter](#wall-of-slaughter) (G, D)
 
 
 ## Detailed information
 
 ### Abysmal Sea
 
-Had two in GH, locations below.
-
 Portal - The Grozmok Stone:
 ![The Grozmok Stone](TheGrozmokStone1.jpg)
-![The Grozmok Stone](TheGrozmokStone2.jpg)
 
 ![Abysmal Sea Map](AbysmalSea.jpg)
 
@@ -90,35 +88,35 @@ Portal - Ak'Anon Bubble Lamp:
 
 ### Arcstone
 
-GH Port - Arcstone Spirit Sapphire
+GH TP - Arcstone Spirit Sapphire
 
-Druid spell - Ring of Arcstone / Circle of Arcstone / Zephyr: Arcstone
+Druid - Ring of Arcstone / Circle of Arcstone / Zephyr: Arcstone
 
 ---
 
 ### Argath, Bastion of Ildaera
 
-GH Port - Chunk of Argathian Steel
+GH TP - Chunk of Argathian Steel
 
 ---
 
 ### Barindu, Hanging Gardens
 
-GH Port - Etched Marble of Barindu
+GH TP - Etched Marble of Barindu
 
-Druid spell - Ring of Barindu / Circle of Barindu / Zephyr: Barindu
+Druid - Ring of Barindu / Circle of Barindu / Zephyr: Barindu
 
 ---
 
 ### Dragonscale Hills
 
-GH Port - Dragonscale Faycite
+GH TP - Dragonscale Faycite
 
 ---
 
 ### Feerrott, the Dream
 
-GH Port - Crystallized Dream of the Feerrott
+GH TP - Crystallized Dream of the Feerrott
 
 ---
 
@@ -128,7 +126,7 @@ Portal - Ancient Iksar Translocator Statue:
 ![Ancient Iksar Translocator Statue](AncientIksarTranslocatorStatue1.jpg)
 
 Clicky - Ancient Iksar Translocator Stone:
-![Ancient Iksar Translocator Stone](AncientIksarTranslocatorStone.jpg)
+<img src="AncientIksarTranslocatorStone.jpg" width="48">
 
 ![Frontier Mountains (EoK) Map](EokFrontierMountains.jpg)
 
@@ -136,21 +134,21 @@ Clicky - Ancient Iksar Translocator Stone:
 
 ### Goru'kar Mesa
 
-GH Port - Goru'kar Mesa Sandstone
+GH TP - Goru'kar Mesa Sandstone
 
 ---
 
 ### Greater Faydark
 
-GH Port - Forest Emerald of Faydark
+GH TP - Forest Emerald of Faydark
 
 ---
 
 ### Iceclad Ocean
 
-GH Port - Frozen Shard of Iceclad
+GH TP - Frozen Shard of Iceclad
 
-Druid spell - Ring of Iceclad / Circle of Iceclad / Zephyr: Iceclad
+Druid - Ring of Iceclad / Circle of Iceclad / Zephyr: Iceclad
 
 Portal - Banner Gnome Pirates:
 ![Banner: Gnome Pirates](BannerGnomePirates1.jpg)
@@ -161,23 +159,23 @@ Portal - Banner Gnome Pirates:
 
 ### Lavastorm Mountains
 
-GH Port - Lavastorm Magma
+GH TP - Lavastorm Magma
 
-Druid spell - Ring of Lavastorm / Circle of Lavastorm / Zephyr: Lavastorm
+Druid - Ring of Lavastorm / Circle of Lavastorm / Zephyr: Lavastorm
 
 ---
 
 ### Lceanium
 
-GH Port - Fragment of the Combine Spire
+GH TP - Fragment of the Combine Spire
 
-Druid spell - Ring of Lceanium / Circle of Lceanium / Zephyr: Lceanium
+Druid - Ring of Lceanium / Circle of Lceanium / Zephyr: Lceanium
 
 ---
 
 ### North Karana
 
-GH Port - Karana Plains Pebble
+GH TP - Karana Plains Pebble
 
 Druid spell - Ring of Karana / Circle of Karana / Zephry: Karana
 
@@ -213,7 +211,7 @@ Clicky - Stratos Air Platform / Wishing Lamp: Zephyr's Flight
 
 ### Surefall Glade
 
-Druid spell - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr: Surefall Glade
+Druid - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr: Surefall Glade
 
 Portal - Brazier: The Everburning Ruby:
 ![Brazier: The Everburning Ruby](BrazierTheEverburningRuby1.jpg)
@@ -224,21 +222,21 @@ Portal - Brazier: The Everburning Ruby:
 
 ### The Commonlands
 
-GH Port - Grassy Pebble of the Commmonlands
+GH TP - Grassy Pebble of the Commmonlands
 
-Druid spell - Ring of Commons / Circle of Commons / Zephyr: Commonlands
+Druid - Ring of Commons / Circle of Commons / Zephyr: Commonlands
 
 ---
 
 ### The Overthere (RoS)
 
-GH Port - Miniature Worker's Sledge
+GH TP - Miniature Worker's Sledge
 
 ---
 
 ### The Plane of Hate
 
-GH Port - Fuligan Soulstone of Innoruuk
+GH TP - Fuligan Soulstone of Innoruuk
 
 ---
 
@@ -270,18 +268,18 @@ Portal - Innovative Heli-Lamp:
 
 ### The Plane of Sky
 
-GH Port - Cloudy Stone of Veeshan
+GH TP - Cloudy Stone of Veeshan
 
 ---
 
 ### The Plane of Time
 
-GH Port - Broken Timestone
+GH TP - Broken Timestone
 
 ---
 
 ### Wall of Slaughter
 
-GH Port - Chipped Shard of Slaughter
+GH TP - Chipped Shard of Slaughter
 
-Druid spell - (Ring of Slaugher, Circle of Slaughter, Zephyr: Slaughter)
+Druid - (Ring of Slaugher, Circle of Slaughter, Zephyr: Slaughter)
