@@ -104,6 +104,11 @@ equivalent or better choices than a porting class.
 - The Dreadlands
     - GH Port - Shattered Bone of the Dreadlands
     - Druid - Ring of the Combines / Circle of the Combines / Zephyr: Combines
+- East Cabilis
+    - <details>
+        <img src="PlacardTinkNBabble.jpg">
+        <summary>Portal - Placard: Tink N Babble</summary>
+      </details>
 - Ethernere Tainted West Karana
     - GH Port - Stormstone of the West
     - Druid - Ring of West Karana / Circle of West Karana / Zephyr: West Karana
@@ -139,6 +144,11 @@ equivalent or better choices than a porting class.
     - <details>
         <img src="DarkonesThrone.jpg">
         <summary>Portal - Darkone's Throne</summary>
+      </details>
+- Halas
+    - <details>
+        <img src="PlacardHalas.jpg">
+        <summary>Portal - Placard: Halas</summary>
       </details>
 - Hate's Fury
     - <details>
