@@ -71,6 +71,11 @@ equivalent or better choices than a porting class.
 - Barindu, Hanging Gardens
     - GH Port - Etched Marble of Barindu
     - Druid - Ring of Barindu / Circle of Barindu / Zephyr: Barindu
+- Blackburrow
+    - <details>
+        <img src="BannerBlackburrow.jpg">
+        <summary>Portal - Banner: Blackburrow</summary>
+      </details>
 - Brell's Rest
     - GH Port - Unrefined Brellium Ore
     - Clicky - Mark of Brell
@@ -81,6 +86,11 @@ equivalent or better choices than a porting class.
 - The Commonlands
     - GH Port - Grassy Pebble of The Commonlands
     - Druid - Ring of Commmons / Circle of Commons / Zephyr: Commonlands
+- Crypt of Nadox
+    - <details>
+        <img src="NadoxChandelier.jpg">
+        <summary>Portal - Nadox Chandelier</summary>
+      </details>
 - Dragonscale Hills
     - GH Port - Dragonscale Faycite
 - The Dreadlands
@@ -108,6 +118,25 @@ equivalent or better choices than a porting class.
     - GH Port - Goru’kar Mesa Sandstone
 - Greater Faydark
     - GH Port - Forest Emerald of Faydark
+- Grobb
+    - <details>
+        <img src="AllSeeingSkull.jpg">
+        <summary>Portal - All-Seeing Skull</summary>
+      </details>
+    - <details>
+        <img src="DarkonesThrone.jpg">
+        <summary>Portal - Darkone's Throne</summary>
+      </details>
+- Hate's Fury
+    - <details>
+        <img src="OceanographersGlobe.jpg">
+        <summary>Portal - Oceanographer's Globe</summary>
+      </details>
+- High Keep
+    - <details>
+        <img src="BannerTheKnottedSerpent.jpg">
+        <summary>Portal - Banner: The Knotted Serpent</summary>
+      </details>
 - Iceclad Ocean
     - GH Port - Frozen Shard of Iceclad
     - <details>
@@ -132,37 +161,23 @@ equivalent or better choices than a porting class.
 - North Karana
     - GH Port - Karana Plains Pebble
     - Ring of Karana / Circle of Karana / Zephry: Karana
-- Shard's Landing
-    - GH Port - Stone of the Shard's Fall
+- North Qeynos
     - <details>
-        <img src="SignetOfTheCrystalCircle.jpg" width="256">
-        <summary>Clicky - Signet of the Crystal Circle</summary>
+        <img src="BannerTravelersTapestry.jpg">
+        <summary>Portal - Banner: Traveler's Tapestry</summary>
       </details>
-    - Druid - Ring of the Landing / Circle of the Landing / Zephyr: Shard's Landing
+- Old Sebilis
     - <details>
-        <img src="ShardsLanding.jpg">
-        <summary>Map</summary>
+        <img src="FroglokHeadInAJar.jpg">
+        <summary>Portal - Froglok Head in a Jar</summary>
       </details>
-- Stratos: Zephyr's Flight
-    - GH Port - Burning Lamp
-    - Portal - Stratos Fire Platform
-    - Clicky - Stratos Air Platform
-    - Clicky - Wishing Lamp: Zephyr's Flight
-- The Stonebrunt Mountains
-    - GH Port - Moss Agate of Stonebrunt
-    - Druid - Ring of Stonebrunt / Circle of Stonebrunt / Zephyr: Stonebrunt
-- Surefall Glade
-    - <details>
-        <img="BrazierTheEverburningRuby.jpg">
-        <summary>Portal - Brazier: The Everburning Ruby</summary>
-      </details>
-    - <details>
-        <img="SurefallGlade.jpg">
-        <summary>Map</summary>
-      </details>
-    - Druid - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr: Surefall Glade
 - The Overthere (RoS)
     - GH Port - Miniature Worker's Sledge
+- Permafrost
+    - <details>
+        <img src="FrozenBarbarianAdventuress.jpg">
+        <summary>Portal - Frozen Barbarian Adventuress</summary>
+      </details>
 - The Plane of Hate
     - GH Port - Fuligan Soulstone of Innoruuk
 - The Plane of Health
@@ -192,15 +207,68 @@ equivalent or better choices than a porting class.
 - The Plane of Time
     - GH Port - Broken Timestone
     - Druid - Ring of Plane of Time / Circle of Plane of Time / Zephyr: Plane of Time
-- The Twilight Sea
-    - GH Port - Shadowed Sand of the Twilight Sea
-    - Druid - Ring of Twilight / Circle of Twilight / Zepher: Twilight
+- Shard's Landing
+    - GH Port - Stone of the Shard's Fall
+    - <details>
+        <img src="SignetOfTheCrystalCircle.jpg" width="256">
+        <summary>Clicky - Signet of the Crystal Circle</summary>
+      </details>
+    - Druid - Ring of the Landing / Circle of the Landing / Zephyr: Shard's Landing
+    - <details>
+        <img src="ShardsLanding.jpg">
+        <summary>Map</summary>
+      </details>
+- Skyfire Mountains (RoS)
+    - <details>
+        <img src="GorowynTranslocatorLantern.jpg">
+        <summary>Portal - Gorowyn Translocator Lantern</summary>
+      </details>
+- Steamfont Mountains
+    - <details>
+        <img="FantasticFuelOrb.jpg">
+        <summary>Portal - Fantastic Fuel Orb</summary>
+      </details>
+- The Stonebrunt Mountains
+    - GH Port - Moss Agate of Stonebrunt
+    - Druid - Ring of Stonebrunt / Circle of Stonebrunt / Zephyr: Stonebrunt
+- Stratos: Zephyr's Flight
+    - GH Port - Burning Lamp
+    - Portal - Stratos Fire Platform
+    - Clicky - Stratos Air Platform
+    - Clicky - Wishing Lamp: Zephyr's Flight
+- Surefall Glade
+    - <details>
+        <img="BrazierTheEverburningRuby.jpg">
+        <summary>Portal - Brazier: The Everburning Ruby</summary>
+      </details>
+    - <details>
+        <img src="PaintingTheFounder.jpg">
+        <summary>Portal - Painting: The Founder</summary>
+      </details>
+    - Druid - Ring of Surefall Glade / Circle of Surefall Glade / Zephyr: Surefall Glade
+    - <details>
+        <img="SurefallGlade.jpg">
+        <summary>Map</summary>
+      </details>
 - Toxxulia Forest
     - GH Port - Opal of Toxxulia
     - Druid - Ring of Toxxulia / Circle of Toxxulia / Zephyr: Toxxulia
+- Trakanon's Teeth
+    - <details>
+        <img="EmperorGanakThrone.jpg">
+        <summary>Portal - Emperor Ganak Throne</summary>
+      </details>
+- The Twilight Sea
+    - GH Port - Shadowed Sand of the Twilight Sea
+    - Druid - Ring of Twilight / Circle of Twilight / Zepher: Twilight
 - The Undershore
     - GH Port - Undershore Coral
     - Druid - Ring of Undershore / Circle of Undershore / Zephyr: Undershore
 - Wall of Slaughter
     - GH Port - Chipped Shard of Slaughter
     - Druid - Ring of Slaugher / Circle of Slaughter / Zephyr: Slaughter)
+- West Cabilis
+    - <details>
+        <img="BrainInAJar.jpg">
+        <summary>Portal - Brain in a Jar</summary>
+      </details>
