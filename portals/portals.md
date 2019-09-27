@@ -294,6 +294,6 @@ equivalent or better choices than a porting class.
     - Druid - Ring of Slaugher / Circle of Slaughter / Zephyr: Slaughter)
 - West Cabilis
     - <details>
-        <img="BrainInAJar.jpg">
+        <img src="BrainInAJar.jpg">
         <summary>Portal - Brain in a Jar</summary>
       </details>
