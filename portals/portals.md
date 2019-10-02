@@ -178,6 +178,21 @@ equivalent or better choices than a porting class.
 - Lceanium
     - GH Port - Fragment of the Combine Spire
     - Druid - Ring of Lceanium / Circle of Lceanium / Zephyr: Lceanium
+- Neriak - Commons
+    - <details>
+        <img src="PaintingTheBlindFish.jpg">
+        <summary>Portal - Painting: The Blind Fish</summary>
+      </details>
+- Neriak - Foreign Quarter
+    - <details>
+        <img src="PaintingSlugsTavern.jpg">
+        <summary>Portal - Painting: Slugs Tavern</summary>
+      </details>
+- Neriak - Third Gate
+    - <details>
+        <img src="PaintingMaidensFancy.jpg">
+        <summary>Portal - Painting: Maiden's Fancy</summary>
+      </details>
 - North Karana
     - GH Port - Karana Plains Pebble
     - Ring of Karana / Circle of Karana / Zephry: Karana
