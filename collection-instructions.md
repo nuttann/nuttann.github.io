@@ -21,8 +21,8 @@ I only keep one stack (100) of an item. Anything over that, I drop on the ground
 
 ## Requesting items
 
-The following are instructions for requesting. There is information on these for why it is a requirement. If you want to know why,
-click on the requirement to see more information. But, it basically boils down to making it easy to pull stuff out and be fair.
+The following are instructions for requesting. There is information on these for why it is a requirement. <b>If you want to know why,
+click on the requirement to see more information.</b> But, it basically boils down to making it easy to pull stuff out and be fair.
 
 <details><summary>To request items send an in-game email to cazic.Nuttann (Note 2 n's at end.  
 There is also a toon named 'Nuttan' on server.)</summary><p>
@@ -46,7 +46,7 @@ From experience, it is much easier to keep track of where I am with this format.
 </p></details>
 
 <details><summary>Items must be listed individually.</summary><p>
-Don't state all that I have from quest A as I won't be looking the quest up and doing that work for you.
+Don't state things like "all that I have from quest A" as I won't be looking the quest up and doing that work for you.
 </p></details>
 
 <details><summary>Make sure I had at least one of each item when you requested.</summary><p>
