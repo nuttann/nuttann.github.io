@@ -96,11 +96,22 @@ equivalent or better choices than a porting class.
         <img src="NadoxChandelier.jpg">
         <summary>Portal - Nadox Chandelier</summary>
       </details>
+- Crystal Caverns (ToV)
+    - <details>
+        <img src="FroststoneCrystalEcho.jpg">
+        <summary>Portal - Froststone Crystal Echo</summary>
+      </details>
+    - <details>
+        <img src="CrystalCaverns-ToV.jpg">
+        <summary>Map</summary>
+      </details>
 - Dragonscale Hills
     - GH Port - Dragonscale Faycite
 - The Dreadlands
     - GH Port - Shattered Bone of the Dreadlands
     - Druid - Ring of the Combines / Circle of the Combines / Zephyr: Combines
+- Eastern Wastes
+    - GH Port - Brilliant Frigid Gemstone
 - East Cabilis
     - <details>
         <img src="PlacardTinkNBabble.jpg">
