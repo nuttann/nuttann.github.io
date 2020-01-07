@@ -102,6 +102,10 @@ equivalent or better choices than a porting class.
         <summary>Portal - Froststone Crystal Echo</summary>
       </details>
     - <details>
+        <img src="FroststoneCrystalResonator.jpg" width="256">
+        <summary>Clicky - Froststone Crystal Resonator</summary>
+      </details>
+    - <details>
         <img src="CrystalCaverns-ToV.jpg">
         <summary>Map</summary>
       </details>
