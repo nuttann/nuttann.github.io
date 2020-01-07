@@ -7,21 +7,17 @@ I have not yet added other missing achievement types. I would be glad to work to
 anything I need or help out on other stuff.
 
 Only listed some of Billaben's needs as he has too many since he is a new heroic toon.
-
 <style>
   section {
-    background: red
+    background: #ff1b68;
   }
 </style>
-
 ## Hunter / Collection needs (Most recent expansion first)
 - Torment of Velious
   - Collections
     - The Eastern Wastes
       - Nails and Teeth
-      <section>
-        - Frozen Giant Toenail
-      </section>
+        - Frozen Giant Toenail <section>test</section>
         - Frozen Orc Fang
         - Frozen Coldain Fingernail
         - Frozen Mammoth Toenail
