@@ -3,52 +3,79 @@
 These are currently the Hunter and Collection achievements from the current expansion
 back to the old-world Everquest zones.
 
-I have not yet added other missing achievement types. I would be glad to work together on
-anything I need or help out on other stuff.
+I have not yet added other missing achievement types. 
 
 Only listed some of Billaben's needs as he has too many since he is a new heroic toon.
-<style>
-  section {
-    background: #ff1b68;
-  }
-</style>
+
 ## Hunter / Collection needs (Most recent expansion first)
 - Torment of Velious
   - Collections
     - The Eastern Wastes
       - Nails and Teeth
-        - Frozen Giant Toenail <section>test</section>
-        - Frozen Orc Fang
-        - Frozen Coldain Fingernail
-        - Frozen Mammoth Toenail
-        - Frozen Direwolf Fang
+        - Frozen Giant Toenail (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Frozen Orc Fang (&#x1F4D7; Nuttann)
+        - Frozen Coldain Fingernail (&#x1F4D7; Nuttann)
+        - Frozen Mammoth Toenail (&#x1F4D7; Nuttann)
+        - Frozen Direwolf Fang (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Items Lost
-        - Dwarven Made Spoon
-        - Giant Made Cup
-        - Orcish Boot
-        - Coldain Chain Link
-        - Kromrif Belt Buckle
-        - Ry'Gorr Spiked Stud
-        - Hag's Wristband
-        - Hag's Amulet
+        - Dwarven Made Spoon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Giant Made Cup (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Orcish Boot (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Coldain Chain Link (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Kromrif Belt Buckle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Hag's Wristband (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Hag's Amulet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Frozen Fauna
-        - Icebound Wurm
-        - Icebound Beetle
-        - Icebound Spider
-        - Icebound Kit
-        - Iceboung Mackerel
+        - Icebound Wurm (&#x1F4D7; Nuttann)
+        - Icebound Beetle (&#x1F4D7; Nuttann)
+        - Icebound Spider (&#x1F4D7; Nuttann)
+        - Icebound Kit (&#x1F4D7; Nuttann)
+        - Iceboung Mackerel (&#x1F4D7; Nuttann)
       - Restlessly Shattered
+        - Restless Ice Covered Twig (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Rimed Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Encrusted Seashell (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Glazed Stone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Smeared Bone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Blanketed Paver (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Enveloped Tile (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Shard of Restless Ice (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Ry'Gorr Mines
       - Messy Miners
-        - Rock Pick Hammer
+        - Rock Pick Hammer (&#x1F4D7; Nuttann)
       - Orcish Earrings
-        - Copper Pick Earring
+        - Copper Pick Earring (&#x1F4D7; Nuttann)
       - Frozen Equipment
+        - Frozen Orc Wristlet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Large Frozen Orc Belt Buckle (&#x1F4D7; Nuttann)
+        - Frozen Orc Tooth Trophy Necklace (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Frozen Orc Skullcap (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Frozen Orc Armor Ring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Frozen Steel Orc Earring (&#x1F4D7; Nuttann)
+        - Frozen Gold Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Frozen Paltinum Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Crystal Caverns
-      - Froststone Barter
       - Creepy Crawlu and Wiggly
+        - Intact Spider Leg (&#x1F4D8; Nanbus)
       - Silk Silk Silk
+        - Frozen Crystal Spider Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Blooded Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Amber Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Tangled Raw Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Kinked Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Cooled Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Faded Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Blooded Frozen Crystal Spider Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Ice Stones
+        - Crumbled Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Compressed Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Saw Edged Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Spotted Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Teardrop Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Aqua Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Kidney Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Glacial Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - The Great Divide
       - Tools of the Lost Miners
       - Earning our Keep
