@@ -27,7 +27,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Hag's Wristband (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Hag's Amulet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Frozen Fauna
-        - Icebound Wurm (&#x1F4D7; Nuttann)
         - Icebound Beetle (&#x1F4D7; Nuttann)
         - Icebound Spider (&#x1F4D7; Nuttann)
         - Icebound Kit (&#x1F4D7; Nuttann)
@@ -51,7 +50,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Large Frozen Orc Belt Buckle (&#x1F4D7; Nuttann)
         - Frozen Orc Tooth Trophy Necklace (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Frozen Orc Skullcap (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Frozen Orc Armor Ring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Frozen Orc Armor Ring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Frozen Steel Orc Earring (&#x1F4D7; Nuttann)
         - Frozen Gold Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Frozen Paltinum Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
@@ -63,18 +62,18 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Blooded Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Amber Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Tangled Raw Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Kinked Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Kinked Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Cooled Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Faded Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Blooded Frozen Crystal Spider Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Ice Stones
         - Crumbled Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Compressed Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Compressed Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Saw Edged Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Spotted Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Teardrop Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Aqua Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Kidney Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Kidney Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Glacial Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - The Great Divide
       - Tools of the Lost Miners
