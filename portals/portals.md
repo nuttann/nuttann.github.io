@@ -142,6 +142,8 @@ equivalent or better choices than a porting class.
       </details>
 - Goru'kar Mesa
     - GH Port - Goru’kar Mesa Sandstone
+- The Great Divide (ToV)
+  - Druid - Ring of THe Great Divide / Circle of The Great Divide / Zephyr: The Great Divide
 - Greater Faydark
     - GH Port - Forest Emerald of Faydark
 - Grobb
