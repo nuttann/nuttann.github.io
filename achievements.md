@@ -83,8 +83,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - The Tower of Frozen Shadows
       - Wedding Favors
       - Embalming Tools
-      - How to Embalm, V234.0
-      - Left in the Tower
     - Velketor's Labyrinth
       - Eight Legged Bits
       - Useless Tools
