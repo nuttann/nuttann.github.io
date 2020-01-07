@@ -1,4 +1,4 @@
-# Achievements for Nuttann / Nanbus / Gallin
+# Achievements for &#x1F4D7; Nuttann / &#x1F4D8; Nanbus / &#x1F4D9; Billaben
 
 These are currently the Hunter and Collection achievements from the current expansion
 back to the old-world Everquest zones.
@@ -6,12 +6,73 @@ back to the old-world Everquest zones.
 I have not yet added other missing achievement types. I would be glad to work together on
 anything I need or help out on other stuff.
 
-Only list Gallin's needs for zone access.
+Only listed some of Billaben's needs as he has too many since he is a new heroic toon.
 
-## Color Key
-(&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+<style>
+  section {
+    background: red
+  }
+</style>
 
 ## Hunter / Collection needs (Most recent expansion first)
+- Torment of Velious
+  - Collections
+    - The Eastern Wastes
+      - Nails and Teeth
+      <section>
+        - Frozen Giant Toenail
+      </section>
+        - Frozen Orc Fang
+        - Frozen Coldain Fingernail
+        - Frozen Mammoth Toenail
+        - Frozen Direwolf Fang
+      - Items Lost
+        - Dwarven Made Spoon
+        - Giant Made Cup
+        - Orcish Boot
+        - Coldain Chain Link
+        - Kromrif Belt Buckle
+        - Ry'Gorr Spiked Stud
+        - Hag's Wristband
+        - Hag's Amulet
+      - Frozen Fauna
+        - Icebound Wurm
+        - Icebound Beetle
+        - Icebound Spider
+        - Icebound Kit
+        - Iceboung Mackerel
+      - Restlessly Shattered
+    - Ry'Gorr Mines
+      - Messy Miners
+        - Rock Pick Hammer
+      - Orcish Earrings
+        - Copper Pick Earring
+      - Frozen Equipment
+    - Crystal Caverns
+      - Froststone Barter
+      - Creepy Crawlu and Wiggly
+      - Silk Silk Silk
+      - Ice Stones
+    - The Great Divide
+      - Tools of the Lost Miners
+      - Earning our Keep
+      - Remnants of a Somber Divide
+      - Bare Necessities of a Simpler Time
+    - The Tower of Frozen Shadows
+      - Wedding Favors
+      - Embalming Tools
+      - How to Embalm, V234.0
+      - Left in the Tower
+    - Velketor's Labyrinth
+      - Eight Legged Bits
+      - Useless Tools
+      - Unfit for Adventures
+      - Trash from the Past
+    - Kael Drakkel
+      - Weapon Fragments
+      - Spoils of War
+      - Pieces of a Civilization
+      - Chilly Critters
 - Secrets of Faydwer
   - Hunter
     - Gnome Memorial Mountain
@@ -72,17 +133,17 @@ Only list Gallin's needs for zone access.
       - Waterlogged Flotsam (&#x1F4D8; Nanbus)
 - Ring of Scale
   - VP Key
-    - Overking's Tooth (Skyfire mission) (&#x1F4D9; Gallin)
-    - Skyfire mission (&#x1F4D9; Gallin)
-    - Overthere mission (&#x1F4D9; Gallin)
-    - Gorowyn mission (&#x1F4D8; Nanbus, &#x1F4D9; Gallin)
+    - Overking's Tooth (Skyfire mission) (&#x1F4D9; Billaben)
+    - Skyfire mission (&#x1F4D9; Billaben)
+    - Overthere mission (&#x1F4D9; Billaben)
+    - Gorowyn mission (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
 - Empires of Kunark
 - The Broken Mirror
   - Hunter
     - Hunter of the Plane of Hate: Broken Mirror
-      - All (&#x1F4D8; Nanbus)
+      - All (&#x1F4D8; Nanbus &#x1F4D9; Billaben)
     - Hunter of the Plane of Fear: Broken Mirror
-      - All (&#x1F4D8; Nanbus)
+      - All (&#x1F4D8; Nanbus &#x1F4D9; Billaben)
 - Rain of Fear
   - Collections
     - Dark Secrets
