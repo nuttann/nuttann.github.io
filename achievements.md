@@ -13,9 +13,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - The Eastern Wastes
       - Nails and Teeth
         - Frozen Giant Toenail (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Frozen Orc Fang (&#x1F4D7; Nuttann)
         - Frozen Coldain Fingernail (&#x1F4D7; Nuttann)
-        - Frozen Mammoth Toenail (&#x1F4D7; Nuttann)
         - Frozen Direwolf Fang (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Items Lost
         - Dwarven Made Spoon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
@@ -26,11 +24,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Hag's Wristband (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Hag's Amulet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-      - Frozen Fauna
-        - Icebound Beetle (&#x1F4D7; Nuttann)
-        - Icebound Spider (&#x1F4D7; Nuttann)
-        - Icebound Kit (&#x1F4D7; Nuttann)
-        - Iceboung Mackerel (&#x1F4D7; Nuttann)
       - Restlessly Shattered
         - Restless Ice Covered Twig (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Restless Ice Rimed Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
@@ -78,13 +71,14 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - The Great Divide
       - Tools of the Lost Miners
       - Earning our Keep
+        - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Remnants of a Somber Divide
+        - Frost Imbued Mask (&#x1F4D7; Nuttann)
       - Bare Necessities of a Simpler Time
     - The Tower of Frozen Shadows
       - Wedding Favors
       - Embalming Tools
     - Velketor's Labyrinth
-      - Eight Legged Bits
       - Useless Tools
       - Unfit for Adventures
       - Trash from the Past
