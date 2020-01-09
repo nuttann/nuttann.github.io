@@ -12,7 +12,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
   - Collections
     - The Eastern Wastes
       - Nails and Teeth
-        - Frozen Giant Toenail (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Frozen Giant Toenail (&#x1F4D7; Nuttann)
         - Frozen Coldain Fingernail (&#x1F4D7; Nuttann)
         - Frozen Direwolf Fang (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Items Lost
@@ -77,15 +77,29 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Bare Necessities of a Simpler Time
     - The Tower of Frozen Shadows
       - Wedding Favors
+        - Monogrammed Decanter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Embalming Tools
+        - Frozen Needle Injector (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Stack of Eye Caps (&#x1F4D7; Nuttann)
+        - Various Rusty Scapels (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Embalming Fluid Bellows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Corpse Makeup Kit  (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Velketor's Labyrinth
       - Useless Tools
+        - Fragile Phurbu (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Cracked Censer (&#x1F4D7; Nuttann)
+        - Broken Scyring Bowl (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Dented Chalice (&#x1F4D7; Nuttann)
+        - Dulled Boline (&#x1F4D7; Nuttann)
       - Unfit for Adventures
       - Trash from the Past
     - Kael Drakkel
       - Weapon Fragments
+        - Broken Blade Tips (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Stomped Shield (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - Spoils of War
-      - Pieces of a Civilization
+        - Emissary's Scroll (&#x1F4D7; Nuttann)
+        - Champions Medal (&#x1F4D7; Nuttann)
       - Chilly Critters
 - Secrets of Faydwer
   - Hunter
