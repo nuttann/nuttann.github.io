@@ -37,7 +37,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Messy Miners
         - Rock Pick Hammer (&#x1F4D7; Nuttann)
       - Orcish Earrings
-        - Copper Pick Earring (&#x1F4D7; Nuttann)
+        - Copper Orc Earring (&#x1F4D7; Nuttann)
       - Frozen Equipment
         - Frozen Orc Wristlet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Large Frozen Orc Belt Buckle (&#x1F4D7; Nuttann)
