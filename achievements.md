@@ -12,9 +12,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
   - Collections
     - The Eastern Wastes
       - Nails and Teeth
-        - Frozen Giant Toenail (&#x1F4D7; Nuttann)
-        - Frozen Coldain Fingernail (&#x1F4D7; Nuttann)
-        - Frozen Direwolf Fang (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Frozen Direwolf Fang (&#x1F4D7; Nuttann)
       - Items Lost
         - Dwarven Made Spoon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Giant Made Cup (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
@@ -34,10 +32,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Restless Ice Enveloped Tile (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Shard of Restless Ice (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Ry'Gorr Mines
-      - Messy Miners
-        - Rock Pick Hammer (&#x1F4D7; Nuttann)
-      - Orcish Earrings
-        - Copper Orc Earring (&#x1F4D7; Nuttann)
       - Frozen Equipment
         - Frozen Orc Wristlet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Large Frozen Orc Belt Buckle (&#x1F4D7; Nuttann)
@@ -48,8 +42,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Frozen Gold Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Frozen Paltinum Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Crystal Caverns
-      - Creepy Crawlu and Wiggly
-        - Intact Spider Leg (&#x1F4D8; Nanbus)
       - Silk Silk Silk
         - Frozen Crystal Spider Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Blooded Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
@@ -97,9 +89,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Weapon Fragments
         - Broken Blade Tips (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Stomped Shield (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-      - Spoils of War
-        - Emissary's Scroll (&#x1F4D7; Nuttann)
-        - Champions Medal (&#x1F4D7; Nuttann)
       - Chilly Critters
 - Secrets of Faydwer
   - Hunter
