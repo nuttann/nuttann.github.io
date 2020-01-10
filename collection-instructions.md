@@ -5,12 +5,12 @@
 I have been gathering collectibles since they were first introduced.  I am making them available to Return of the Exiled
 guild members for no cost. There are some rules and instructions on how to request them. I have a script that reads the
 '/output realestate' dump files and organizes them by house / expansion / quest / item for a web page. This should make it
-easy to find. The house interface for extracting is not so nice and only lists items.
+easy to find. **The house interface for extracting is not so nice and only provides a HUGE list of items in alphabetical order.**
 
 ## Rules
 
 - Items requested are for guild members only. They are not to be sold.
-- These are for mains unless I have a lot of an item.
+- These are for mains unless I have a lot **(> 25)** of an item, in which case they can be request for alts.
 - I make an attempt to fair-share distribution of rares if I have multiple people requesting them at same time.
 - I do this voluntarily, so requests should be done to make it easy for me.
 
@@ -21,8 +21,8 @@ I only keep one stack (100) of an item. Anything over that, I drop on the ground
 
 ## Requesting items
 
-The following are instructions for requesting. There is information on these for why it is a requirement. <b>If you want to know why,
-click on the requirement to see more information.</b> But, it basically boils down to making it easy to pull stuff out and be fair.
+The following are instructions for requesting. There is information on these for why it is a requirement. **If you want to know why,
+click on the requirement to see more information.** But, it basically boils down to making it easy to pull stuff out and be fair.
 
 <details><summary>To request items send an in-game email to cazic.Nuttann (Note 2 n's at end.  
 There is also a toon named 'Nuttan' on server.)</summary><p>
@@ -63,6 +63,10 @@ co-owner for and it doesn't show items that a co-owner placed in my houses.
 None of this info helps with the in-game house interface. And there were cases, I had to think about whether a line was a quest name
 or an item.
 </p></details>
+
+<details><summary><b>Send from the toon the items are for and mark the request as to whether it is for an ALT or MMAIN</b>
+</summary>Mains get priority for handling and can request items that I have fewer than 25 of in the houses. Priority means
+that I will not process any requests for an alt unless I am totally caught up on requests from mains.</details>
 
 
 Sample request:
