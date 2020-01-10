@@ -11,6 +11,7 @@ easy to find. **The house interface for extracting is not so nice and only provi
 
 - Items requested are for guild members only. They are not to be sold.
 - These are for mains unless I have a lot **(> 25)** of an item, in which case they can be request for alts.
+  **Alts may not request current expansion items at this time.**
 - I make an attempt to fair-share distribution of rares if I have multiple people requesting them at same time.
 - I do this voluntarily, so requests should be done to make it easy for me.
 
