@@ -73,7 +73,7 @@ that I will not process any requests for an alt unless I am totally caught up on
 
 ```
 To: cazic.nuttann
-Subject: RoS 1
+Subject: Request for MAIN.
 
 102 Vanward Street, Evantil's Abode
 Ashbreather's Amulet
