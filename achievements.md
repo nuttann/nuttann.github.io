@@ -63,13 +63,13 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - The Great Divide
       - Tools of the Lost Miners
       - Earning our Keep
-        - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - Remnants of a Somber Divide
         - Frost Imbued Mask (&#x1F4D7; Nuttann)
       - Bare Necessities of a Simpler Time
     - The Tower of Frozen Shadows
       - Wedding Favors
-        - Monogrammed Decanter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Monogrammed Decanter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - Embalming Tools
         - Frozen Needle Injector (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Stack of Eye Caps (&#x1F4D7; Nuttann)
@@ -78,8 +78,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Corpse Makeup Kit  (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Velketor's Labyrinth
       - Useless Tools
-        - Cracked Censer (&#x1F4D7; Nuttann)
-        - Broken Scyring Bowl (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Dented Chalice (&#x1F4D7; Nuttann)
       - Unfit for Adventures
       - Trash from the Past
