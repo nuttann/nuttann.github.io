@@ -63,8 +63,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Velium Covered Wedge (&#x1F4D9; Billaben)
       - Earning our Keep
         - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-      - Remnants of a Somber Divide
-        - Frost Imbued Mask (&#x1F4D7; Nuttann)
       - Bare Necessities of a Simpler Time
     - The Tower of Frozen Shadows
       - Wedding Favors
