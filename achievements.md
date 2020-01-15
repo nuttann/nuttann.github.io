@@ -68,10 +68,9 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Wedding Favors
         - Monogrammed Decanter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - Embalming Tools
-        - Frozen Needle Injector (&#x1F4D8; Nanbus)
-        - Various Rusty Scapels (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Various Rusty Scapels (&#x1F4D7; Nuttann)
         - Embalming Fluid Bellows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Corpse Makeup Kit  (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Corpse Makeup Kit  (&#x1F4D8; Nanbus)
     - Velketor's Labyrinth
       - Useless Tools
         - Dented Chalice (&#x1F4D7; Nuttann)
