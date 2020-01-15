@@ -69,7 +69,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Monogrammed Decanter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
       - Embalming Tools
         - Frozen Needle Injector (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Stack of Eye Caps (&#x1F4D7; Nuttann)
         - Various Rusty Scapels (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Embalming Fluid Bellows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Corpse Makeup Kit  (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
