@@ -14,7 +14,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Items Lost
         - Dwarven Made Spoon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Giant Made Cup (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Coldain Chain Link (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Coldain Chain Link (&#x1F4D8; Nanbus)
         - Kromrif Belt Buckle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Hag's Wristband (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
@@ -66,7 +66,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Bare Necessities of a Simpler Time
     - The Tower of Frozen Shadows
       - Wedding Favors
-        - Monogrammed Decanter (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Monogrammed Decanter (&#x1F4D7; Nuttann)
       - Embalming Tools
         - Various Rusty Scapels (&#x1F4D7; Nuttann)
         - Embalming Fluid Bellows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
