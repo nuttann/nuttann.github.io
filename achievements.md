@@ -12,22 +12,20 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
   - Collections
     - The Eastern Wastes
       - Items Lost
-        - Dwarven Made Spoon (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Dwarven Made Spoon (&#x1F4D7; Nuttann)
         - Giant Made Cup (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Coldain Chain Link (&#x1F4D8; Nanbus)
-        - Kromrif Belt Buckle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Hag's Wristband (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Kromrif Belt Buckle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann)
+        - Hag's Wristband (&#x1F4D7; Nuttann)
         - Hag's Amulet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Restlessly Shattered
         - Restless Ice Covered Twig (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Restless Ice Rimed Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Ice Encrusted Seashell (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Encrusted Seashell (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Restless Ice Glazed Stone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Restless Ice Smeared Bone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Ice Blanketed Paver (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Blanketed Paver (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Restless Ice Enveloped Tile (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Shard of Restless Ice (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Ry'Gorr Mines
       - Frozen Equipment
         - Frozen Orc Wristlet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
@@ -40,7 +38,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Frozen Paltinum Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Crystal Caverns
       - Silk Silk Silk
-        - Frozen Crystal Spider Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Frozen Crystal Spider Silk (&#x1F4D7; Nuttann)
         - Blooded Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Amber Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Tangled Raw Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
@@ -59,11 +57,18 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Glacial Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - The Great Divide
       - Tools of the Lost Miners
-        - Velium Covered Chisel (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Velium Covered Wedge (&#x1F4D9; Billaben)
+        - Velium Covered Chisel (&#x1F4D8; Nanbus)
       - Earning our Keep
-        - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann)
       - Bare Necessities of a Simpler Time
+        - Hoarfrost Tempered Britches (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Vest (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Cuffs (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Clogs (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Undershirt (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Ushanka (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Smallclothes (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hoarfrost Tempered Scarf (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - The Tower of Frozen Shadows
       - Wedding Favors
         - Monogrammed Decanter (&#x1F4D7; Nuttann)
@@ -75,12 +80,27 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Useless Tools
         - Dented Chalice (&#x1F4D7; Nuttann)
       - Unfit for Adventures
+        - Broken Great Staff (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Snapped Wand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Useless Katar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Stringless Lute (&#x1F4D7; Nuttann)
       - Trash from the Past
+        - Discarded Health Potion Vial (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Discarded Quiver of Arrows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Discarded Crossbow Bolt (&#x1F4D7; Nuttann)
+        - Discarded Water Skin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Kael Drakkel
       - Weapon Fragments
-        - Broken Blade Tips (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Stomped Shield (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Stomped Shield (&#x1F4D7; Nuttann)
       - Chilly Critters
+        - Restless Cicada (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Moth (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Dung Beetle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Earwig (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Locust (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Junebug (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Termite (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Monarch Butterfly (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
 - Secrets of Faydwer
   - Hunter
     - Gnome Memorial Mountain
