@@ -56,10 +56,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Kidney Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Glacial Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - The Great Divide
-      - Tools of the Lost Miners
-        - Velium Covered Chisel (&#x1F4D8; Nanbus)
-      - Earning our Keep
-        - Ice-Encased ID Badge - D110419 (&#x1F4D7; Nuttann)
       - Bare Necessities of a Simpler Time
         - Hoarfrost Tempered Britches (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Hoarfrost Tempered Vest (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
@@ -80,15 +76,8 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Useless Tools
         - Dented Chalice (&#x1F4D7; Nuttann)
       - Unfit for Adventures
-        - Broken Great Staff (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Snapped Wand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Useless Katar (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Stringless Lute (&#x1F4D7; Nuttann)
-      - Trash from the Past
-        - Discarded Health Potion Vial (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Discarded Quiver of Arrows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Discarded Crossbow Bolt (&#x1F4D7; Nuttann)
-        - Discarded Water Skin (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Broken Great Staff (&#x1F4D7; Nuttann)
+        - Useless Katar (&#x1F4D7; Nuttann)
     - Kael Drakkel
       - Weapon Fragments
         - Stomped Shield (&#x1F4D7; Nuttann)
