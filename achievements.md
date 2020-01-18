@@ -76,7 +76,6 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Useless Tools
         - Dented Chalice (&#x1F4D7; Nuttann)
       - Unfit for Adventures
-        - Broken Great Staff (&#x1F4D7; Nuttann)
         - Useless Katar (&#x1F4D7; Nuttann)
     - Kael Drakkel
       - Weapon Fragments
