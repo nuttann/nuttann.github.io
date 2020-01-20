@@ -29,16 +29,13 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - Ry'Gorr Mines
       - Frozen Equipment
         - Frozen Orc Wristlet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Large Frozen Orc Belt Buckle (&#x1F4D7; Nuttann)
         - Frozen Orc Tooth Trophy Necklace (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Frozen Orc Skullcap (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Frozen Orc Armor Ring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Frozen Steel Orc Earring (&#x1F4D7; Nuttann)
         - Frozen Gold Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Frozen Paltinum Orc Earring (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
     - Crystal Caverns
       - Silk Silk Silk
-        - Frozen Crystal Spider Silk (&#x1F4D7; Nuttann)
         - Blooded Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Amber Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Tangled Raw Silk (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
@@ -70,7 +67,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Monogrammed Decanter (&#x1F4D7; Nuttann)
       - Embalming Tools
         - Various Rusty Scapels (&#x1F4D7; Nuttann)
-        - Embalming Fluid Bellows (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Embalming Fluid Bellows (&#x1F4D8; Nanbus)
         - Corpse Makeup Kit  (&#x1F4D8; Nanbus)
     - Velketor's Labyrinth
       - Useless Tools
