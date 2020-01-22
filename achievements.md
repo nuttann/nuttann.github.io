@@ -13,17 +13,17 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - The Eastern Wastes
       - Items Lost
         - Dwarven Made Spoon (&#x1F4D7; Nuttann)
-        - Giant Made Cup (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Giant Made Cup (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Kromrif Belt Buckle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann)
         - Hag's Wristband (&#x1F4D7; Nuttann)
-        - Hag's Amulet (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hag's Amulet (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Restlessly Shattered
-        - Restless Ice Covered Twig (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Covered Twig (&#x1F4D8; Nanbus)
         - Restless Ice Rimed Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Restless Ice Encrusted Seashell (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Restless Ice Glazed Stone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Ice Smeared Bone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Smeared Bone Chip (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Restless Ice Blanketed Paver (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
         - Restless Ice Enveloped Tile (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Ry'Gorr Mines
@@ -47,7 +47,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Compressed Ice Stone (&#x1F4D8; Nanbus)
         - Saw Edged Ice Stone (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Spotted Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Teardrop Ice Stone (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Teardrop Ice Stone (&#x1F4D8; Nanbus)
         - Kidney Ice Stone (&#x1F4D8; Nanbus)
         - Glacial Ice Stone (&#x1F4D8; Nanbus)
     - The Great Divide
@@ -65,14 +65,13 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Dented Chalice (&#x1F4D7; Nuttann)
     - Kael Drakkel
       - Chilly Critters
-        - Restless Cicada (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Moth (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Dung Beetle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Earwig (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Locust (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Cicada (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Moth (&#x1F4D8; Nanbus)
+        - Restless Dung Beetle (&#x1F4D8; Nanbus)
+        - Restless Earwig (&#x1F4D8; Nanbus)
         - Restless Junebug (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Termite (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Monarch Butterfly (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Termite (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Monarch Butterfly (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
 - Secrets of Faydwer
   - Hunter
     - Gnome Memorial Mountain
