@@ -15,11 +15,10 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Dwarven Made Spoon (&#x1F4D7; Nuttann)
         - Giant Made Cup (&#x1F4D8; Nanbus)
         - Hag's Wristband (&#x1F4D7; Nuttann)
-        - Hag's Amulet (&#x1F4D8; Nanbus)
       - Restlessly Shattered
-        - Restless Ice Rimed Stone (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Rimed Stone (&#x1F4D8; Nanbus)
         - Restless Ice Glazed Stone Chip (&#x1F4D8; Nanbus)
-        - Restless Ice Blanketed Paver (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Restless Ice Blanketed Paver (&#x1F4D8; Nanbus)
         - Restless Ice Enveloped Tile (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Ry'Gorr Mines
       - Frozen Equipment
