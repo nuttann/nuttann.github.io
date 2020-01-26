@@ -13,19 +13,14 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
     - The Eastern Wastes
       - Items Lost
         - Dwarven Made Spoon (&#x1F4D7; Nuttann)
-        - Giant Made Cup (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Kromrif Belt Buckle (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Ry'Gorr Spiked Stud (&#x1F4D7; Nuttann)
+        - Giant Made Cup (&#x1F4D8; Nanbus)
         - Hag's Wristband (&#x1F4D7; Nuttann)
-        - Hag's Amulet (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Hag's Amulet (&#x1F4D8; Nanbus)
       - Restlessly Shattered
-        - Restless Ice Covered Twig (&#x1F4D8; Nanbus)
-        - Restless Ice Rimed Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Ice Encrusted Seashell (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Restless Ice Glazed Stone Chip (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Ice Smeared Bone Chip (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Rimed Stone (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Glazed Stone Chip (&#x1F4D8; Nanbus)
         - Restless Ice Blanketed Paver (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
-        - Restless Ice Enveloped Tile (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Enveloped Tile (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Ry'Gorr Mines
       - Frozen Equipment
         - Frozen Orc Wristlet (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
@@ -60,9 +55,9 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Hoarfrost Tempered Ushanka (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Hoarfrost Tempered Smallclothes (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Hoarfrost Tempered Scarf (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-    - Velketor's Labyrinth
-      - Useless Tools
-        - Dented Chalice (&#x1F4D7; Nuttann)
+    - Tower of Frozen Shadows
+      - Wedding Favors
+        - Monogrammed Decanter (&#x1F4D8; Nanbus)
     - Kael Drakkel
       - Chilly Critters
         - Restless Cicada (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
