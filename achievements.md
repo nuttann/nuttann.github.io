@@ -12,9 +12,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
   - Collections
     - The Eastern Wastes
       - Items Lost
-        - Dwarven Made Spoon (&#x1F4D7; Nuttann)
         - Giant Made Cup (&#x1F4D8; Nanbus)
-        - Hag's Wristband (&#x1F4D7; Nuttann)
       - Restlessly Shattered
         - Restless Ice Rimed Stone (&#x1F4D8; Nanbus)
         - Restless Ice Glazed Stone Chip (&#x1F4D8; Nanbus)
