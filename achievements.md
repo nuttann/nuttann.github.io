@@ -16,8 +16,7 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
       - Restlessly Shattered
         - Restless Ice Rimed Stone (&#x1F4D8; Nanbus)
         - Restless Ice Glazed Stone Chip (&#x1F4D8; Nanbus)
-        - Restless Ice Blanketed Paver (&#x1F4D8; Nanbus)
-        - Restless Ice Enveloped Tile (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Ice Enveloped Tile (&#x1F4D8; Nanbus)
     - Ry'Gorr Mines
       - Frozen Equipment
         - Frozen Orc Wristlet (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
