@@ -26,18 +26,17 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Frozen Paltinum Orc Earring (&#x1F4D8; Nanbus)
     - Crystal Caverns
       - Silk Silk Silk
-        - Blooded Silk Strands (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Blooded Silk Strands (&#x1F4D8; Nanbus)
         - Amber Silk Strands (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Tangled Raw Silk (&#x1F4D8; Nanbus)
-        - Kinked Silk Strand (&#x1F4D8; Nanbus)
-        - Cooled Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Faded Silk Strand (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus)
+        - Cooled Silk Strand (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Faded Silk Strand (&#x1F4D8; Nanbus)
         - Blooded Frozen Crystal Spider Silk (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
       - Ice Stones
-        - Crumbled Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Crumbled Ice Stone (&#x1F4D8; Nanbus)
         - Compressed Ice Stone (&#x1F4D8; Nanbus)
         - Saw Edged Ice Stone (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Spotted Ice Stone (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Spotted Ice Stone (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
         - Teardrop Ice Stone (&#x1F4D8; Nanbus)
         - Kidney Ice Stone (&#x1F4D8; Nanbus)
         - Glacial Ice Stone (&#x1F4D8; Nanbus)
