@@ -52,12 +52,9 @@ Only listed some of Billaben's needs as he has too many since he is a new heroic
         - Hoarfrost Tempered Scarf (&#x1F4D7; Nuttann, &#x1F4D8; Nanbus, &#x1F4D9; Billaben)
     - Kael Drakkel
       - Chilly Critters
-        - Restless Cicada (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Moth (&#x1F4D8; Nanbus)
-        - Restless Dung Beetle (&#x1F4D8; Nanbus)
         - Restless Earwig (&#x1F4D8; Nanbus)
         - Restless Junebug (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
-        - Restless Termite (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
+        - Restless Termite (&#x1F4D8; Nanbus)
         - Restless Monarch Butterfly (&#x1F4D8; Nanbus, &#x1F4D9; Billaben)
 - Secrets of Faydwer
   - Hunter
