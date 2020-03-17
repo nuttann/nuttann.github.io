@@ -122,7 +122,7 @@ General 9-Slot33	Ring of Dain Frostreaver IV - Turn in to get new Protection of 
 General 9-Slot34	Kijarl's Ring of Negation - Nullify magic - 2 sec cast - 10 sec recast
 General 9-Slot35	Stormeye Band - small DS - seems to still stack with stuff (perm until death/clicked off)
 General 9-Slot36	Token of Resurrection
-General 9-Slot37	Fabled Ring of Immobilization - Root - SIGH JUST NOTICED THAT I HAVE THE NORMAL
+General 9-Slot37	Fabled Ring of Immobilization - Root
    VERSION TOO - guess one should get deleted
 General 9-Slot38	Orb of Calm Tides - Start or stop rain
 General 9-Slot39	Kiss of Erollisi Marr - 5K endurance, 10K mana - recast 20 hours
@@ -166,7 +166,8 @@ General 10-Slot31	Necrotic Divining Device - Find corpse targeted
 General 10-Slot32	Hero's Sigil of the Council - DPS
 General 10-Slot33	Blood Drinker's Coating	
 General 10-Slot34	Worlu's Prying Eyes - See SoS 1
-General 10-Slot35	Worlu's Windcloak - SoS 1? cloak
+General 10-Slot35	Worlu's Windcloak - SoS 1? cloak  (2 different IDs. Both Lore)
+                 		Also have extra higher-level ones in shared bank and on some alts
 General 10-Slot36	Worlu's Windcloak - SoS 1? Cloak
 General 10-Slot37	Mazicul's Magical Makeup - illusion with faction for SHIP mission
 General 10-Slot38	Twitchy Bat Wing - 50 charge bat illusion
