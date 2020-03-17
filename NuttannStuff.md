@@ -37,7 +37,7 @@ General 7-Slot34	Magma Stone - DPS PS
 General 7-Slot35	Cliff Stone - HP PS
 General 7-Slot36	Magma Stone - DPS PS
 General 7-Slot37	Scorpikis Worry Stone - Heal PS
-General 7-Slot38	Blackflame Sphere - Slow RGC clicky if no room for spell
+General 7-Slot38
 General 7-Slot39	Scorpikis Worry Stone - Heal PS
 General 7-Slot40	Fire Beetle Eye	- SIGH - still need in inventory for certain spells (Ro)
 General 8	Frozen Satchel
@@ -82,7 +82,7 @@ General 8-Slot37	Lesser Scrying Stone - These 3 are reagents for LDoN sense, dis
 General 8-Slot38	Greater Scrying Stone
 General 8-Slot39	Scrying Stone
 General 8-Slot40	Thuliasaur Mask - Short fear immunity
-General 8-Slot41	Ring of Immobilization - Root
+General 8-Slot41	Blackflame Sphere - Slow RGC clicky if no room for spell
 General 8-Slot42	Amulet of the Drowned Mariner - Short-term pet
 General 9	Efreeti Trunk
 General 9-Slot1	Staff of Viral Flux - No damage, insta-cast debuff (good for agroing mobs in low-level
