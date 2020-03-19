@@ -89,6 +89,7 @@ General 9	Efreeti Trunk
 General 9-Slot1	Staff of Viral Flux - No damage, insta-cast debuff (good for agroing mobs in low-level
      zones, cycle target/ click this)
 General 9-Slot2	Earring of Diminutiveness - Shrink clicky - can be cast on group member
+     Faster than the one from anniversary task :-)
 General 9-Slot3	Hargar Brand Fishing Pail - Summon bait
 General 9-Slot4	The Bone Rod - Fishing trophy / unbreakable fishing pole
 General 9-Slot5	Crumblewidget's Death Imitator - IVU (can be cast on a group member)
@@ -189,13 +190,12 @@ Bank6	Wayfarer's Pocketed Rucksack --- Old augments and purity augs
    Saved corruption augs in case that was really needed again
    Some others can likely be destroyed with no downside.
 Bank7	Hoarder's Belt Pouch --- Exp pots and prize packs plus some older stuff
-   Probably should delete Ring of the Ancients as ear in inventory is faster cast shrink.
    May be some clickies for AAs in case they somehow get reset.
 Bank8	Konikor Carafe --- Potions + eye of fear that should probably be deleted
 Bank9	Duende Chest --- Random stuff and some illusions with charges
 Bank10	Traveler's Cinched Bag -- Variety of stuff
 Bank11	Delicacies Purse --- Random Nimbus and the 4 ports to spots in Mech Guardian
-   The ones that start with "Prize: " are unclaimed and can be given away
+   The ones that start with "Prize: " are unclaimed and therefore tradeable
 Bank12	Honeycomb Satchel --- Old world ports from the Crates
    These can either
      1) be used from inventory with a recast timer, or
@@ -208,7 +208,7 @@ Bank17	Seaslayer's Cargo Crate	--- CURRENT TROPHIES, RoS/TBL PS, and some port/a
 Bank18	Muhbis of the Expansive Void --- EXTRA Vigilant Merc gear
 Bank19	Decaying Rucksack --- EXTRA old world port clickies and music boxes from Crates
 Bank20	Djinn Crate --- EXTRA weapon / shield ornaments from Crates and LoN packs
-   Other than like 3 special weapon ones, I never used them
+   Other than ancient artifact and the druid epic ornaments, I never used any others.
 Bank21	Mirrorslayer's Coffin --- EXTRA armor ornament sets I farmed or made with TS for the skill
    Got some for alts, but never felt like paying for the hero's armor for them
 Bank22	Ondine Case --- MORE EXTRA armor ornament pieces
