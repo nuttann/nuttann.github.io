@@ -2,7 +2,7 @@
 FYI I have both - Spec Alt and Spec Evok augs in. One mage I talked to, didn't
 think they did much good anymore, and I haven't checked recently, but they used
 to reduce mana costs in associated lines. (Some of our dots including Nature's use
-Evok like nukes) I do have the spec augs in bank if they every are useful enough.
+Evok like nukes) I do have the other spec augs in bank if they every are useful enough.
 Below is /output inventory - edited to clean up and added notes
 
 General 1	Deep Caverns Collector's Case -- Kept this first so looted collectibles went to here.
@@ -51,6 +51,7 @@ General 8-Slot7	Restless Focus - NEW DPS potion
 General 8-Slot8	Ethernere Machine - Random clicky effect
 General 8-Slot9	Miniature Horn of Unity
 General 8-Slot10	Shield of Striding - Insta click lev (no recast timer)
+      Not that we need insta cast to fill slots anymore
 General 8-Slot11	Locked Faction Potion
 General 8-Slot12	Double Faction Potion
 General 8-Slot13	Philter of Unlife Awareness
@@ -93,7 +94,7 @@ General 9-Slot4	The Bone Rod - Fishing trophy / unbreakable fishing pole
 General 9-Slot5	Crumblewidget's Death Imitator - IVU (can be cast on a group member)
 General 9-Slot6	Fabled Bone Earring of Evasion - IVU
 General 9-Slot7	Lingering Essence of Cazic-Thule - Self Mez - can be cast on run to drop agro
-General 9-Slot8	Ocular Scout Control Unit - Mage eye
+General 9-Slot8	Ocular Scout Control Unit - Eye of Zomm
 General 9-Slot9	Kelp-Covered Hammer - small heal - bank or destroy?
 General 9-Slot10	Mask of the Ancients - small heal - bank or destroy?
 General 9-Slot11	Wand of the Vortex - Annul magic 4.5 sec cast, no recast timer
@@ -123,7 +124,6 @@ General 9-Slot34	Kijarl's Ring of Negation - Nullify magic - 2 sec cast - 10 sec
 General 9-Slot35	Stormeye Band - small DS - seems to still stack with stuff (perm until death/clicked off)
 General 9-Slot36	Token of Resurrection
 General 9-Slot37	Fabled Ring of Immobilization - Root
-   VERSION TOO - guess one should get deleted
 General 9-Slot38	Orb of Calm Tides - Start or stop rain
 General 9-Slot39	Kiss of Erollisi Marr - 5K endurance, 10K mana - recast 20 hours
 General 9-Slot40	Tear of Tranquility - single target agro reducer - recast 10 hours
