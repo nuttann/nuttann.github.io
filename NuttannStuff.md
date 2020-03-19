@@ -3,7 +3,10 @@ FYI I have both - Spec Alt and Spec Evok augs in. One mage I talked to, didn't
 think they did much good anymore, and I haven't checked recently, but they used
 to reduce mana costs in associated lines. (Some of our dots including Nature's use
 Evok like nukes) I do have the other spec augs in bank if they every are useful enough.
-Below is /output inventory - edited to clean up and added notes
+Below is /output inventory - edited to clean up and added notes.
+
+There are enough TBL group coins replace the type 5's if switching is the goal plus enough
+ToV coins for 5 type 5's
 
 General 1	Deep Caverns Collector's Case -- Kept this first so looted collectibles went to here.
    Probably would bank it if I didn't organize collectibles for guild.
