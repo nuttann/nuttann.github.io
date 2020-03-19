@@ -1,7 +1,7 @@
 ```
 Houses are roughly organized as described below. TS items may be useful in more than one
 skill so this is not clean.  I did write a script to find items in more than one house
-and I moved them.  The three house in the entry area (Market Street) are other stuff and
+and I combined them.  The three house in the entry area (Market Street) are other stuff and
 a mix of NODROP and tradable. Well some of the no drop ornaments could be packed into
 a suit and made tradable if someone want them. I was too lazy to really try and sell stuff
 a lot.
@@ -11,7 +11,8 @@ never got around to trying to give it out.
 
 NOTE: If you move everything from here to RotE sometime, don't forget that guild leader of
 the TS guild is one of the chars. If you don't want that guild, then you might see if anyone
-wants one of their own.
+wants one of their own.  "Craftsman bank" translate to "Fabri Ripam".  Google translating it
+back gets "Maker Bank".
 
 
 Fabri Ripam Village, 102 Market Street     --- Trophys, Armor ornamentations, plus minor clickies
